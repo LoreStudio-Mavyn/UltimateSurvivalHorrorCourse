@@ -2485,3 +2485,180 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.10.05-18.35.09:250][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
 [2023.10.05-18.35.09:259][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
 [2023.10.05-18.35.09:304][631]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.10.05-18.50.28:772][531]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.220 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.05-19.34.31:605][849]LogSlate: External Image Picker: DecompressImage failed
+[2023.10.05-19.35.42:160][900]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.05-19.35.42:176][900]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.05-19.35.43:417][964]LogEditorViewport: Clicking Background
+[2023.10.05-19.35.43:692][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-19.35.43:767][978]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/A/DZ/9I0OB1F25SCCQ6Q8VRM8T9
+[2023.10.05-19.35.43:767][978]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/9I0OB1F25SCCQ6Q8VRM8T9937E492A4E4E15DEADA915B683321451.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/A/DZ/9I0OB1F25SCCQ6Q8VRM8T9.uasset'
+[2023.10.05-19.35.43:782][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.78 sec)
+[2023.10.05-19.35.43:799][978]AssetCheck: New page: Asset Save: L1_Character_C_UAID_00D861AA8170BDAF01_1197307230
+[2023.10.05-19.35.43:799][978]LogContentValidation: Display: Validating /Game/GameBP/Level1/L1_Character.L1_Character_C /Game/Maps/Level1.Level1:PersistentLevel.L1_Character_C_UAID_00D861AA8170BDAF01_1197307230
+[2023.10.05-19.35.47:898][181]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.05-19.35.47:898][181]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-19.35.47:898][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-19.37.39:741][249]BlueprintLog: New page: Compile L1_Character
+[2023.10.05-19.37.39:800][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.05-19.37.40:640][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-19.37.40:718][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset" SILENT=true
+[2023.10.05-19.37.40:727][281]LogSavePackage: Moving output files for package: /Game/GameBP/Level1/L1_Character
+[2023.10.05-19.37.40:728][281]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_Character652DF4EE4C1DA918A16591A80B0FBDDD.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset'
+[2023.10.05-19.37.40:743][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 3.88 sec)
+[2023.10.05-19.37.40:760][281]AssetCheck: New page: Asset Save: L1_Character
+[2023.10.05-19.37.40:760][281]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.05-19.37.41:788][323]LogSlate: Window 'L1_Character' being destroyed
+[2023.10.05-19.37.41:798][323]LogSlate: Window 'L1_Character' being destroyed
+[2023.10.05-19.37.41:804][323]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-19.37.41:804][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-19.37.42:601][358]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.05-19.37.42:612][358]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.05-19.37.42:612][358]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2023.10.05-19.37.42:616][358]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 3 ms (total: 18 ms)
+[2023.10.05-19.37.42:616][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.05-19.37.42:616][358]PIE: New page: PIE session: Level1 (Oct 5, 2023, 9:37:42 AM)
+[2023.10.05-19.37.42:650][358]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2023.10.05-19.37.42:652][358]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.10.05-19.37.42:682][359]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.05-19.37.42:685][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002551s)
+[2023.10.05-19.37.42:685][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.002643s)
+[2023.10.05-19.37.42:708][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.05-19.37.42:714][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-19.37.42:714][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-19.37.42:715][359]LogAIModule: Creating AISystem for world Level1
+[2023.10.05-19.37.42:715][359]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.05-19.37.42:715][359]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.05-19.37.42:715][359]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.05-19.37.42:715][359]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.05-19.37.42:716][359]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2023.10.05-19.37.42:716][359]LogWorldPartition: Display: WorldPartition initialize took 623 us (total: 1.20 sec)
+[2023.10.05-19.37.42:716][359]LogPlayLevel: PIE: World Init took: (0.002243s)
+[2023.10.05-19.37.42:716][359]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.10.05-19.37.42:716][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.05-19.37.42:716][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.05-19.37.42:716][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.05-19.37.42:716][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.05-19.37.42:716][359]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.05-19.37.42:716][359]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.05-19.37.42:716][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.05-19.37.42:716][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.05-19.37.42:717][359]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.05-19.37.42:717][359]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.05-19.37.42:717][359]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.05-19.37.42:720][359]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.05-19.37.42:744][359]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TOZO-T6 Stereo)
+[2023.10.05-19.37.42:744][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.05-19.37.42:744][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.05-19.37.42:744][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.05-19.37.42:745][359]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.10.05-19.37.42:745][359]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.10.05-19.37.42:748][359]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.10.05-19.37.42:748][359]LogInit: FAudioDevice initialized with ID 8.
+[2023.10.05-19.37.42:748][359]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2023.10.05-19.37.42:748][359]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.10.05-19.37.42:748][359]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.10.05-19.37.42:752][359]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.05-19.37.42:752][359]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.10.05-14.37.42
+[2023.10.05-19.37.42:753][359]LogWorld: Bringing up level for play took: 0.000718
+[2023.10.05-19.37.42:755][359]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.05-19.37.42:755][359]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=1793.108 Y=301.360 Z=2689.938,P=-0.000000 Y=-135.724591 R=0.000000
+[2023.10.05-19.37.42:756][359]LogStreaming: Display: FlushAsyncLoading(): 4 QueuedPackages, 0 AsyncPackages
+[2023.10.05-19.37.42:787][359]PIE: Server logged in
+[2023.10.05-19.37.42:788][359]PIE: Play in editor total start time 0.176 seconds.
+[2023.10.05-19.38.00:300][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.05-19.38.00:301][373]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.05-19.38.00:301][373]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-19.38.00:302][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-19.38.00:302][373]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2023.10.05-19.38.00:309][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.05-19.38.00:316][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-19.38.00:344][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.05-19.38.00:344][373]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.10.05-19.38.00:344][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.10.05-19.38.00:346][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.10.05-19.38.00:357][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.05-19.38.00:403][374]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.10.05-19.38.06:851][683]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.05-19.38.06:852][683]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-19.38.06:852][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-19.38.24:766][401]BlueprintLog: New page: Compile L1_Character
+[2023.10.05-19.38.24:974][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.10.05-19.38.25:584][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-19.38.25:665][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset" SILENT=true
+[2023.10.05-19.38.25:675][410]LogSavePackage: Moving output files for package: /Game/GameBP/Level1/L1_Character
+[2023.10.05-19.38.25:676][410]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_Character39483C4F407A1025F0140DA120A10F25.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset'
+[2023.10.05-19.38.25:688][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 3.99 sec)
+[2023.10.05-19.38.25:709][410]AssetCheck: New page: Asset Save: L1_Character
+[2023.10.05-19.38.25:709][410]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.05-19.38.26:761][451]LogSlate: Window 'L1_Character' being destroyed
+[2023.10.05-19.38.26:776][451]LogSlate: Window 'L1_Character' being destroyed
+[2023.10.05-19.38.26:781][451]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-19.38.26:782][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-19.38.28:965][554]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.05-19.38.28:974][554]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.05-19.38.28:974][554]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2023.10.05-19.38.28:976][554]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 1 ms (total: 20 ms)
+[2023.10.05-19.38.28:976][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.05-19.38.28:976][554]PIE: New page: PIE session: Level1 (Oct 5, 2023, 9:38:28 AM)
+[2023.10.05-19.38.28:976][554]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2023.10.05-19.38.28:979][554]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.10.05-19.38.29:006][555]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.05-19.38.29:009][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002686s)
+[2023.10.05-19.38.29:009][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.002754s)
+[2023.10.05-19.38.29:033][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.05-19.38.29:043][555]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-19.38.29:043][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-19.38.29:044][555]LogAIModule: Creating AISystem for world Level1
+[2023.10.05-19.38.29:044][555]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.05-19.38.29:044][555]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.05-19.38.29:044][555]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.05-19.38.29:044][555]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.05-19.38.29:045][555]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2023.10.05-19.38.29:045][555]LogWorldPartition: Display: WorldPartition initialize took 782 us (total: 1.20 sec)
+[2023.10.05-19.38.29:045][555]LogPlayLevel: PIE: World Init took: (0.002208s)
+[2023.10.05-19.38.29:045][555]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.10.05-19.38.29:045][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.05-19.38.29:045][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.05-19.38.29:045][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.05-19.38.29:045][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.05-19.38.29:045][555]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.05-19.38.29:045][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.05-19.38.29:045][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.05-19.38.29:045][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.05-19.38.29:046][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.05-19.38.29:046][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.05-19.38.29:046][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.05-19.38.29:048][555]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.05-19.38.29:074][555]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TOZO-T6 Stereo)
+[2023.10.05-19.38.29:075][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.05-19.38.29:075][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.05-19.38.29:075][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.05-19.38.29:076][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.10.05-19.38.29:076][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.10.05-19.38.29:079][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.10.05-19.38.29:079][555]LogInit: FAudioDevice initialized with ID 9.
+[2023.10.05-19.38.29:079][555]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.10.05-19.38.29:079][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.10.05-19.38.29:079][555]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.10.05-19.38.29:083][555]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.05-19.38.29:084][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.10.05-14.38.29
+[2023.10.05-19.38.29:084][555]LogWorld: Bringing up level for play took: 0.000766
+[2023.10.05-19.38.29:087][555]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.05-19.38.29:087][555]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=4864.089 Y=-2508.817 Z=430.150,P=0.000000 Y=136.553133 R=-0.000000
+[2023.10.05-19.38.29:087][555]LogStreaming: Display: FlushAsyncLoading(): 4 QueuedPackages, 0 AsyncPackages
+[2023.10.05-19.38.29:099][555]PIE: Server logged in
+[2023.10.05-19.38.29:100][555]PIE: Play in editor total start time 0.127 seconds.
+[2023.10.05-19.38.35:601][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.05-19.38.35:601][880]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.05-19.38.35:602][880]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-19.38.35:602][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-19.38.35:602][880]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2023.10.05-19.38.35:606][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.05-19.38.35:613][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-19.38.35:636][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.05-19.38.35:636][880]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.10.05-19.38.35:637][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.05-19.38.35:639][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.05-19.38.35:652][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.10.05-19.38.35:699][881]LogPlayLevel: Display: Destroying online subsystem :Context_28
