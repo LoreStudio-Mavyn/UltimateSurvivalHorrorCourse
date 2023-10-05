@@ -13,7 +13,17 @@
 				"D:/Courses/UltSurvivalHorror/Content/Maps/Level1.umap",
 				"D:/Courses/UltSurvivalHorror/Content/GameBP/HG_GameInstance.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_GameMode.uasset",
-				"D:/Courses/UltSurvivalHorror/Content/GameBP/L1_GameMode.uasset"
+				"D:/Courses/UltSurvivalHorror/Content/GameBP/L1_GameMode.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Hud.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/3/ZK/SP4KI0XWUPAPD27LZAOV5P.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/C/X0/VNVQ9LDLTSEVHSHEFIE3RW.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/0/GZ/M2K05CIQ63ZO9C11Q75JGF.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/5/MZ/MMHJI1FAXW8FSQDQEGHUUQ.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/3/SV/QKTGXHNM3IFJBLTZQRC1T7.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/5/6T/S8GAGG8UTYCLO1NZ44RO4L.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_GameState.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_PlayerState.uasset"
 			]
 		}
 	]
