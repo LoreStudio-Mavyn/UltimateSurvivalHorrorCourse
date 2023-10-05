@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Courses/UltSurvivalHorror/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Courses/UltSurvivalHorror/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/Maps/Level1_HLODLayer_Instanced.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/Maps/Level1_HLODLayer_Merged.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/0/9O/P8YJLOOO50A4WZYB2UA92W.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/9/9S/YI7SLTG4RRAE1BA23ROH3K.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/Maps/Level1.umap"
 			]
 		}
 	]

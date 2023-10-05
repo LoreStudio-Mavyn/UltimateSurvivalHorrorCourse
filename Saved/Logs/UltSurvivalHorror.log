@@ -1407,3 +1407,211 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.05-14.49.46:632][274]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2023.10.05-14.49.46:824][275]LogAssetRegistry: Display: Asset registry cache written as 16.3 MiB to ../../../../../Courses/UltSurvivalHorror/Intermediate/CachedAssetRegistry_*.bin
 [2023.10.05-14.50.28:743][401]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.194 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 784 files in 1260 folders with total size 4 MiB.
+[2023.10.05-15.21.59:713][585]LogSlate: Window 'New Level' being destroyed
+[2023.10.05-15.21.59:749][585]LightingResults: New page: Lighting Build
+[2023.10.05-15.21.59:807][585]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-15.21.59:808][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-15.21.59:898][585]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2023.10.05-15.21.59:920][585]MapCheck: New page: Map Check
+[2023.10.05-15.21.59:920][585]LightingResults: New page: Lighting Build
+[2023.10.05-15.21.59:928][585]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.05-15.21.59:950][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.10.05-15.22.00:079][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-15.22.00:079][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-15.22.00:080][585]LogAIModule: Creating AISystem for world Untitled
+[2023.10.05-15.22.00:140][585]LogWorldPartition: ULevel::OnLevelLoaded(Untitled)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.10.05-15.22.00:140][585]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.05-15.22.00:140][585]LogWorldPartition: UWorldPartition::Initialize : World = Untitled, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.05-15.22.00:140][585]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Untitled_2 is in the /Temp path, will not scan.
+[2023.10.05-15.22.00:140][585]LogContentBundle: [Untitled(Standalone)] Creating new contrainer.
+[2023.10.05-15.22.00:140][585]LogWorldPartition: Display: WorldPartition initialize took 220 us (total: 1.16 sec)
+[2023.10.05-15.22.00:179][585]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.10.05-15.22.00:269][585]LoadErrors: New page: New Map
+[2023.10.05-15.24.14:815][868]LogSlate: Window 'Plugins' being destroyed
+[2023.10.05-15.24.14:826][868]LogSlate: Window 'Plugins' being destroyed
+[2023.10.05-15.24.14:827][868]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.10.05-15.24.29:728][ 14]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.10.05-15.24.30:924][101]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.05-15.24.30:947][101]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.05-15.24.30:964][102]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.05-15.24.34:216][337]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2023.10.05-15.24.34:217][337]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.05-15.24.59:085][128]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.05-15.24.59:292][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Courses/UltSurvivalHorror/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.05-15.24.59:335][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.10.05-15.24.59:340][128]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2023.10.05-15.24.59:341][128]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/Level13669A0C349C334C665DECC9531370CC1.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Maps/Level1.umap'
+[2023.10.05-15.24.59:381][128]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Level1_HLODLayer_Instanced
+/Game/Maps/Level1_HLODLayer_Merged
+/Game/__ExternalActors__/Maps/Level1/0/9O/P8YJLOOO50A4WZYB2UA92W
+/Game/__ExternalActors__/Maps/Level1/9/9S/YI7SLTG4RRAE1BA23ROH3K
+[2023.10.05-15.24.59:381][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-15.24.59:381][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_HLODLayer_Instanced" FILE="../../../../../Courses/UltSurvivalHorror/Content/Maps/Level1_HLODLayer_Instanced.uasset" SILENT=true
+[2023.10.05-15.24.59:383][128]LogSavePackage: Moving output files for package: /Game/Maps/Level1_HLODLayer_Instanced
+[2023.10.05-15.24.59:383][128]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/Level1_HLODLayer_InstancedEB6C176647837B814687CF8C3DB1A783.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Maps/Level1_HLODLayer_Instanced.uasset'
+[2023.10.05-15.24.59:384][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_HLODLayer_Merged" FILE="../../../../../Courses/UltSurvivalHorror/Content/Maps/Level1_HLODLayer_Merged.uasset" SILENT=true
+[2023.10.05-15.24.59:385][128]LogSavePackage: Moving output files for package: /Game/Maps/Level1_HLODLayer_Merged
+[2023.10.05-15.24.59:385][128]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/Level1_HLODLayer_MergedA22EED7B4D812F2CE9EE2A96AF6849CE.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Maps/Level1_HLODLayer_Merged.uasset'
+[2023.10.05-15.24.59:419][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/0/9O/P8YJLOOO50A4WZYB2UA92W
+[2023.10.05-15.24.59:419][128]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/P8YJLOOO50A4WZYB2UA92W7BDB4C66444113D8671C75AD88473A5E.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/0/9O/P8YJLOOO50A4WZYB2UA92W.uasset'
+[2023.10.05-15.24.59:424][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/9S/YI7SLTG4RRAE1BA23ROH3K
+[2023.10.05-15.24.59:424][128]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/YI7SLTG4RRAE1BA23ROH3K0BDE08634BFEF4F4B58B6B9923AC7EB9.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/9/9S/YI7SLTG4RRAE1BA23ROH3K.uasset'
+[2023.10.05-15.24.59:427][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 2.17 sec)
+[2023.10.05-15.24.59:427][128]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Level1_HLODLayer_Instanced
+/Game/Maps/Level1_HLODLayer_Merged
+/Game/__ExternalActors__/Maps/Level1/0/9O/P8YJLOOO50A4WZYB2UA92W
+/Game/__ExternalActors__/Maps/Level1/9/9S/YI7SLTG4RRAE1BA23ROH3K
+[2023.10.05-15.24.59:449][128]LogFileHelpers: Saving map 'Level1' took 0.349
+[2023.10.05-15.24.59:449][128]Cmd: MAP LOAD FILE="../../../../../Courses/UltSurvivalHorror/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.05-15.24.59:449][128]LightingResults: New page: Lighting Build
+[2023.10.05-15.24.59:449][128]LoadErrors: New page: Loading map: Level1.umap
+[2023.10.05-15.24.59:481][128]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.05-15.24.59:481][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.05-15.24.59:484][128]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2023.10.05-15.24.59:484][128]MapCheck: New page: Map Check
+[2023.10.05-15.24.59:484][128]LightingResults: New page: Lighting Build
+[2023.10.05-15.24.59:489][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.05-15.24.59:491][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.10.05-15.24.59:497][128]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.10.05-15.24.59:497][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-15.24.59:497][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.05-15.24.59:497][128]LogAIModule: Creating AISystem for world Level1
+[2023.10.05-15.24.59:498][128]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.10.05-15.24.59:498][128]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.05-15.24.59:498][128]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.05-15.24.59:500][128]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2023.10.05-15.24.59:500][128]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.17 sec)
+[2023.10.05-15.24.59:553][128]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.05-15.24.59:566][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.10.05-15.24.59:569][128]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.05-15.24.59:569][128]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.185ms to complete.
+[2023.10.05-15.24.59:573][128]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.05-15.24.59:573][128]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Level1.Level1
+[2023.10.05-15.24.59:573][128]LogContentValidation: Display: Validating /Script/Engine.HLODLayer /Game/Maps/Level1_HLODLayer_Instanced.Level1_HLODLayer_Instanced
+[2023.10.05-15.24.59:574][128]LogContentValidation: Display: Validating /Script/Engine.HLODLayer /Game/Maps/Level1_HLODLayer_Merged.Level1_HLODLayer_Merged
+[2023.10.05-15.24.59:574][128]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/Maps/Level1.Level1:PersistentLevel.WorldDataLayers
+[2023.10.05-15.24.59:574][128]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/Maps/Level1.Level1:PersistentLevel.WorldPartitionMiniMap_UAID_00D861AA8170B2AF01_2089882287
+[2023.10.05-15.24.59:633][129]LogAutomationController: Ignoring very large delta of 15.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.05-15.25.27:656][601]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.05-15.25.34:933][910]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.10.05-15.25.34:935][910]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.10.05-15.25.34:951][910]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/Level1.Level1:PersistentLevel.PostProcessVolume_0
+[2023.10.05-15.25.35:079][910]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/Level1.Level1:PersistentLevel.PostProcessVolume_0
+[2023.10.05-15.25.36:784][ 32]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.10.05-15.25.36:785][ 32]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.10.05-15.25.36:810][ 32]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/Level1.Level1:PersistentLevel.PostProcessVolume_UAID_00D861AA8170B3AF01_1232846464
+[2023.10.05-15.25.36:811][ 32]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/Level1.Level1:PersistentLevel.PostProcessVolume_UAID_00D861AA8170B3AF01_1232846464
+[2023.10.05-15.25.46:002][737]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.10.05-15.25.46:002][737]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.10.05-15.25.46:003][737]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/Level1.Level1:PersistentLevel.SkyAtmosphere_0
+[2023.10.05-15.25.46:003][737]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/Level1.Level1:PersistentLevel.SkyAtmosphere_0
+[2023.10.05-15.25.47:235][820]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.10.05-15.25.47:235][820]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.10.05-15.25.47:238][820]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/Level1.Level1:PersistentLevel.SkyAtmosphere_UAID_00D861AA8170B3AF01_1243297465
+[2023.10.05-15.25.47:238][820]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/Level1.Level1:PersistentLevel.SkyAtmosphere_UAID_00D861AA8170B3AF01_1243297465
+[2023.10.05-15.25.58:576][701]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.10.05-15.25.58:576][701]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.10.05-15.25.58:577][701]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/Level1.Level1:PersistentLevel.SkyLight_0
+[2023.10.05-15.25.58:577][701]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/Level1.Level1:PersistentLevel.SkyLight_0
+[2023.10.05-15.26.00:369][797]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.10.05-15.26.00:369][797]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.10.05-15.26.00:371][797]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/Level1.Level1:PersistentLevel.SkyLight_UAID_00D861AA8170B3AF01_1256431466
+[2023.10.05-15.26.00:372][797]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/Level1.Level1:PersistentLevel.SkyLight_UAID_00D861AA8170B3AF01_1256431466
+[2023.10.05-15.26.46:471][903]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SphereReflectionCapture
+[2023.10.05-15.26.46:471][903]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SphereReflectionCapture
+[2023.10.05-15.26.46:499][903]LogActorFactory: Actor Factory spawned Class /Script/Engine.SphereReflectionCapture as actor: SphereReflectionCapture /Game/Maps/Level1.Level1:PersistentLevel.SphereReflectionCapture_0
+[2023.10.05-15.26.46:500][903]LogActorFactory: Actor Factory spawned Class /Script/Engine.SphereReflectionCapture as actor: SphereReflectionCapture /Game/Maps/Level1.Level1:PersistentLevel.SphereReflectionCapture_0
+[2023.10.05-15.26.47:314][941]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SphereReflectionCapture
+[2023.10.05-15.26.47:314][941]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SphereReflectionCapture
+[2023.10.05-15.26.47:317][941]LogActorFactory: Actor Factory spawned Class /Script/Engine.SphereReflectionCapture as actor: SphereReflectionCapture /Game/Maps/Level1.Level1:PersistentLevel.SphereReflectionCapture_UAID_00D861AA8170B3AF01_1303376467
+[2023.10.05-15.26.47:318][941]LogActorFactory: Actor Factory spawned Class /Script/Engine.SphereReflectionCapture as actor: SphereReflectionCapture /Game/Maps/Level1.Level1:PersistentLevel.SphereReflectionCapture_UAID_00D861AA8170B3AF01_1303376467
+[2023.10.05-15.27.25:534][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.10.05-15.27.25:534][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.10.05-15.27.25:534][251]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_0
+[2023.10.05-15.27.25:568][251]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_0
+[2023.10.05-15.27.28:166][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.10.05-15.27.28:166][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.10.05-15.27.28:169][354]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_00D861AA8170B3AF01_1344228468
+[2023.10.05-15.27.28:169][354]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_00D861AA8170B3AF01_1344228468
+[2023.10.05-15.27.28:611][355]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.05-15.27.42:015][ 87]Cmd: POLY SELECT ALL
+[2023.10.05-15.27.42:103][ 87]LogSlate: Took 0.018096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.05-15.27.42:977][142]Cmd: TRANSACTION UNDO
+[2023.10.05-15.27.42:977][142]LogEditorTransaction: Undo Select All
+[2023.10.05-15.28.34:146][853]LogEditorViewport: Clicking Background
+[2023.10.05-15.29.09:634][727]LogEditorViewport: Clicking Background
+[2023.10.05-15.29.19:359][269]LogEditorViewport: Clicking Background
+[2023.10.05-15.29.20:052][304]LogEditorViewport: Clicking Background
+[2023.10.05-15.31.52:369][117]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-15.31.57:837][401]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-15.34.34:310][929]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-15.34.52:698][883]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-15.35.18:696][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.10.05-15.35.18:747][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/3/ZK/SP4KI0XWUPAPD27LZAOV5P_Auto1
+[2023.10.05-15.35.18:747][207]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/SP4KI0XWUPAPD27LZAOV5P_Auto1AE84E0824C8A39EA6C759FBAEB56A577.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/3/ZK/SP4KI0XWUPAPD27LZAOV5P_Auto1.uasset'
+[2023.10.05-15.35.18:752][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/C/X0/VNVQ9LDLTSEVHSHEFIE3RW_Auto1
+[2023.10.05-15.35.18:752][207]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/VNVQ9LDLTSEVHSHEFIE3RW_Auto15C98F7B140D120D238376EA582845272.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/C/X0/VNVQ9LDLTSEVHSHEFIE3RW_Auto1.uasset'
+[2023.10.05-15.35.18:757][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/0/GZ/M2K05CIQ63ZO9C11Q75JGF_Auto1
+[2023.10.05-15.35.18:758][207]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/M2K05CIQ63ZO9C11Q75JGF_Auto18ACCBCEC48CC4726439D2E97D6C7B9E6.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/0/GZ/M2K05CIQ63ZO9C11Q75JGF_Auto1.uasset'
+[2023.10.05-15.35.18:762][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/5/MZ/MMHJI1FAXW8FSQDQEGHUUQ_Auto1
+[2023.10.05-15.35.18:762][207]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/MMHJI1FAXW8FSQDQEGHUUQ_Auto18B85E389454D98B92CFEFEB9A1FE6438.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/5/MZ/MMHJI1FAXW8FSQDQEGHUUQ_Auto1.uasset'
+[2023.10.05-15.35.18:766][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/3/SV/QKTGXHNM3IFJBLTZQRC1T7_Auto1
+[2023.10.05-15.35.18:766][207]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/QKTGXHNM3IFJBLTZQRC1T7_Auto1BB7E177C4C4D6B1017BEFEA8851F32F9.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/3/SV/QKTGXHNM3IFJBLTZQRC1T7_Auto1.uasset'
+[2023.10.05-15.35.18:768][207]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.080
+[2023.10.05-15.35.18:768][207]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2023.10.05-15.35.20:165][278]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-15.35.27:672][684]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.05-15.35.27:672][684]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.05-15.35.27:673][684]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/Level1.Level1:PersistentLevel.DirectionalLight_0
+[2023.10.05-15.35.27:674][684]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/Level1.Level1:PersistentLevel.DirectionalLight_0
+[2023.10.05-15.35.29:417][757]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.05-15.35.29:417][757]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.10.05-15.35.29:420][757]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/Level1.Level1:PersistentLevel.DirectionalLight_UAID_00D861AA8170B3AF01_1825479469
+[2023.10.05-15.35.29:420][757]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/Level1.Level1:PersistentLevel.DirectionalLight_UAID_00D861AA8170B3AF01_1825479469
+[2023.10.05-15.35.49:106][711]LogEditorViewport: Clicking Background
+[2023.10.05-15.43.19:252][975]LogEditorViewport: Clicking Background
+[2023.10.05-15.43.38:634][923]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-15.44.17:624][681]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.05-15.45.18:933][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.10.05-15.45.18:939][665]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/3/SV/QKTGXHNM3IFJBLTZQRC1T7_Auto2
+[2023.10.05-15.45.18:939][665]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/QKTGXHNM3IFJBLTZQRC1T7_Auto2074AC22D4ED535602C98229DF55C19D3.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/3/SV/QKTGXHNM3IFJBLTZQRC1T7_Auto2.uasset'
+[2023.10.05-15.45.18:942][665]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/5/6T/S8GAGG8UTYCLO1NZ44RO4L_Auto2
+[2023.10.05-15.45.18:943][665]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/S8GAGG8UTYCLO1NZ44RO4L_Auto2F519CDC84815CEE86B0CD29A939F2F59.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/5/6T/S8GAGG8UTYCLO1NZ44RO4L_Auto2.uasset'
+[2023.10.05-15.45.18:944][665]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.020
+[2023.10.05-15.45.18:944][665]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2023.10.05-15.47.30:034][218]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-15.47.30:042][218]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-15.50.29:901][242]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.352 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 786 files in 1262 folders with total size 4 MiB.
+[2023.10.05-15.56.40:386][106]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-15.56.40:409][106]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-15.56.40:499][106]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-15.56.40:558][106]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-15.56.41:712][110]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-15.56.41:810][110]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-15.56.41:888][110]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-15.56.42:039][111]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-15.57.03:357][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.10.05-15.57.03:362][174]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/3/ZK/SP4KI0XWUPAPD27LZAOV5P_Auto3
+[2023.10.05-15.57.03:362][174]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/SP4KI0XWUPAPD27LZAOV5P_Auto36197B0594BE3865485BDE1B5A0E07954.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/3/ZK/SP4KI0XWUPAPD27LZAOV5P_Auto3.uasset'
+[2023.10.05-15.57.03:364][174]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.015
+[2023.10.05-15.57.03:364][174]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.015
+[2023.10.05-15.59.25:145][953]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-15.59.26:636][957]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.05-15.59.27:033][958]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{dd1e81e1-6b12-4aa3-9a9b-9b204dd2124c}, Name=Headset (TOZO-T6 Hands-Free AG Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1604.85
+[2023.10.05-15.59.27:033][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-15.59.27:035][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-15.59.27:367][959]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-15.59.27:700][960]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=122.07
+[2023.10.05-15.59.27:700][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-15.59.27:704][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-16.07.03:842][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.05-16.07.03:846][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/3/ZK/SP4KI0XWUPAPD27LZAOV5P_Auto4
+[2023.10.05-16.07.03:846][955]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/SP4KI0XWUPAPD27LZAOV5P_Auto4CE3BC7CF4EC1F9EBF2D0FEA8B53293E9.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/3/ZK/SP4KI0XWUPAPD27LZAOV5P_Auto4.uasset'
+[2023.10.05-16.07.03:850][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/C/X0/VNVQ9LDLTSEVHSHEFIE3RW_Auto4
+[2023.10.05-16.07.03:851][955]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/VNVQ9LDLTSEVHSHEFIE3RW_Auto410E3F51442E6F7A476D3819FA445A4B0.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/C/X0/VNVQ9LDLTSEVHSHEFIE3RW_Auto4.uasset'
+[2023.10.05-16.07.03:852][955]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.019
+[2023.10.05-16.07.03:852][955]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2023.10.05-16.11.43:185][793]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.05-16.50.28:746][768]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.196 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 786 files in 1262 folders with total size 4 MiB.
