@@ -1626,3 +1626,46 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.05-17.38.51:602][311]LogAutomationController: Ignoring very large delta of 3.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.10.05-17.39.19:197][845]LogSlate: Window 'Project Settings' being destroyed
 [2023.10.05-17.39.19:207][845]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.05-17.43.02:745][945]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.05-17.43.02:763][945]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.05-17.43.02:782][946]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.05-17.43.07:476][217]LogContentBrowser: Attempting asset rename: NewFolder -> GameBP
+[2023.10.05-17.43.07:478][217]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.05-17.43.07:530][219]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.10.05-17.43.07:530][219]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.10.05-17.43.19:641][606]Cmd: TRANSACTION UNDO
+[2023.10.05-17.43.19:641][606]LogEditorTransaction: Undo Edit Game Instance Class
+[2023.10.05-17.43.21:586][689]Cmd: TRANSACTION UNDO
+[2023.10.05-17.43.21:586][689]LogEditorTransaction: Undo Edit Max EV100
+[2023.10.05-17.43.28:357][ 47]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.05-17.43.28:478][ 47]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.05-17.43.28:499][ 48]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.05-17.43.34:282][344]LogContentBrowser: Attempting asset rename: NewFolder -> GameBP
+[2023.10.05-17.43.34:283][344]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.05-17.43.46:130][ 94]LogMetaData: Removing '/Game/GameBP/HG_GameInstance.SKEL_HG_GameInstance_C' ref from Metadata '/Game/HG_GameInstance.PackageMetaData'
+[2023.10.05-17.43.46:130][ 94]LogMetaData: Removing '/Game/GameBP/HG_GameInstance.HG_GameInstance_C' ref from Metadata '/Game/HG_GameInstance.PackageMetaData'
+[2023.10.05-17.43.46:274][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.05-17.43.46:346][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/HG_GameInstance" FILE="../../../../../Courses/UltSurvivalHorror/Content/GameBP/HG_GameInstance.uasset" SILENT=true
+[2023.10.05-17.43.46:383][ 94]LogSavePackage: Moving output files for package: /Game/GameBP/HG_GameInstance
+[2023.10.05-17.43.46:383][ 94]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/HG_GameInstance71980DA549265DAE2E8580B01BC07C1E.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/GameBP/HG_GameInstance.uasset'
+[2023.10.05-17.43.46:402][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 2.30 sec)
+[2023.10.05-17.43.46:493][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.10.05-17.43.46:503][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.10.05-17.43.46:511][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.10.05-17.43.46:534][ 94]AssetCheck: New page: Asset Save: HG_GameInstance
+[2023.10.05-17.43.46:534][ 94]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameBP/HG_GameInstance.HG_GameInstance
+[2023.10.05-17.45.50:507][701]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.05-17.45.50:645][701]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.05-17.45.50:668][702]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.05-17.45.52:487][792]LogContentBrowser: Attempting asset rename: NewFolder -> Level1
+[2023.10.05-17.45.52:488][792]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.05-17.46.02:231][122]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.05-17.46.02:244][122]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.05-17.46.02:257][122]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.05-17.46.02:259][123]LogAutomationController: Ignoring very large delta of 2.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.05-17.46.02:278][123]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.05-17.46.10:220][498]LogContentBrowser: Attempting asset rename: NewBlueprint -> L1_GameMode
+[2023.10.05-17.46.10:270][498]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.05-17.47.04:836][945]LogSlate: External Image Picker: DecompressImage failed
+[2023.10.05-17.47.15:203][404]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.05-17.47.15:215][404]LogSlate: Window 'Project Settings' being destroyed
