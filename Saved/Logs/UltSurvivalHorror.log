@@ -1615,3 +1615,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.05-16.07.03:852][955]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
 [2023.10.05-16.11.43:185][793]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2023.10.05-16.50.28:746][768]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.196 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 786 files in 1262 folders with total size 4 MiB.
+[2023.10.05-17.38.17:678][996]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.05-17.38.17:710][996]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.05-17.38.17:722][996]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.05-17.38.17:734][997]LogAutomationController: Ignoring very large delta of 23.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.05-17.38.17:752][997]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.05-17.38.29:785][355]LogContentBrowser: Attempting asset rename: NewBlueprint -> HG_GameInstance
+[2023.10.05-17.38.29:900][355]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.05-17.38.51:063][311]LogSlate: External Image Picker: DecompressImage failed
+[2023.10.05-17.38.51:602][311]LogAutomationController: Ignoring very large delta of 3.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.05-17.39.19:197][845]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.05-17.39.19:207][845]LogSlate: Window 'Project Settings' being destroyed
