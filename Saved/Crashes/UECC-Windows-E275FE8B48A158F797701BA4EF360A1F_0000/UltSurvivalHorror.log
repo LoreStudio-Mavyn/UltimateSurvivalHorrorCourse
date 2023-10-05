@@ -1752,12 +1752,3 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.10.05-17.51.44:783][692]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.10.05-17.51.44:851][692]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
 [2023.10.05-17.51.46:684][692]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2023.10.05-17.51.46:952][692]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.268794s
-[2023.10.05-17.51.48:504][692]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 3.821279s (1.821279s overbudget)
-[2023.10.05-17.51.49:190][692]LogViewport: Scene viewport resized to 964x705, mode Windowed.
-[2023.10.05-17.51.49:441][693]LogAutomationController: Ignoring very large delta of 4.83 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
-[2023.10.05-17.51.55:261][804]LogMeshUtilities: Finished distance field build in 7.4s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
-[2023.10.05-17.52.33:002][308]LogSlate: Window 'L1_GameMode' being destroyed
-[2023.10.05-17.52.33:015][308]LogSlate: Window 'L1_GameMode' being destroyed
-[2023.10.05-17.52.33:026][308]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
-[2023.10.05-17.52.33:026][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
