@@ -23,7 +23,8 @@
 				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/5/6T/S8GAGG8UTYCLO1NZ44RO4L.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_GameState.uasset",
-				"D:/Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_PlayerState.uasset"
+				"D:/Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_PlayerState.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/GameBP/HG_PlayerController.uasset"
 			]
 		}
 	]
