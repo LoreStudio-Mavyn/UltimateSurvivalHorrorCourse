@@ -2662,3 +2662,278 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.10.05-19.38.35:639][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
 [2023.10.05-19.38.35:652][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
 [2023.10.05-19.38.35:699][881]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.10.05-19.39.47:140][234]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-19.39.47:338][234]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-19.40.57:453][445]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-19.40.58:703][449]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.05-19.40.59:266][450]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-19.40.59:267][450]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.05-19.40.59:347][450]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{dd1e81e1-6b12-4aa3-9a9b-9b204dd2124c}, Name=Headset (TOZO-T6 Hands-Free AG Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1593.12
+[2023.10.05-19.40.59:347][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-19.40.59:350][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-19.40.59:682][451]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-19.41.00:017][452]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=90.47
+[2023.10.05-19.41.00:017][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-19.41.00:020][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-19.50.29:686][161]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.133 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.05-20.37.00:312][530]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-20.37.00:595][530]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-20.37.09:552][557]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-20.37.10:685][561]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.05-20.37.11:238][562]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-20.37.11:241][562]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.05-20.37.11:283][562]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{dd1e81e1-6b12-4aa3-9a9b-9b204dd2124c}, Name=Headset (TOZO-T6 Hands-Free AG Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1635.51
+[2023.10.05-20.37.11:284][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-20.37.11:290][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-20.37.11:646][563]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-20.37.11:976][564]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=214.89
+[2023.10.05-20.37.11:976][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-20.37.11:979][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-20.37.30:816][621]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-20.37.30:874][621]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-20.37.30:983][621]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-20.37.31:888][624]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-20.37.34:395][632]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.05-20.37.36:965][639]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.05-20.37.41:965][654]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.05-20.37.46:966][669]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.05-20.37.51:810][684]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-20.37.51:967][684]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.05-20.37.51:998][684]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{dd1e81e1-6b12-4aa3-9a9b-9b204dd2124c}, Name=Headset (TOZO-T6 Hands-Free AG Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19829.83
+[2023.10.05-20.37.51:998][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-20.37.52:001][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-20.37.52:329][685]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-20.37.53:486][689]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.05-20.37.53:997][690]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{dd1e81e1-6b12-4aa3-9a9b-9b204dd2124c}, Name=Headset (TOZO-T6 Hands-Free AG Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1556.01
+[2023.10.05-20.37.53:997][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-20.37.53:999][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-20.37.54:329][691]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-20.37.54:664][692]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=65.98
+[2023.10.05-20.37.54:664][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-20.37.54:668][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-20.50.29:682][957]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.128 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.05-20.52.15:808][275]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-20.52.15:920][275]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-20.52.19:796][287]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-20.52.20:927][290]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.05-20.52.21:195][291]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-20.52.21:582][292]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.05-20.52.21:593][292]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{dd1e81e1-6b12-4aa3-9a9b-9b204dd2124c}, Name=Headset (TOZO-T6 Hands-Free AG Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1666.36
+[2023.10.05-20.52.21:593][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-20.52.21:595][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-20.52.21:925][293]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-20.52.22:260][294]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=109.91
+[2023.10.05-20.52.22:260][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-20.52.22:262][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-21.08.37:502][215]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-21.08.37:602][215]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-21.08.37:622][215]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-21.08.51:096][256]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-21.08.52:206][259]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.05-21.08.52:447][260]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-21.08.52:775][261]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.05-21.08.52:971][261]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{dd1e81e1-6b12-4aa3-9a9b-9b204dd2124c}, Name=Headset (TOZO-T6 Hands-Free AG Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1481.32
+[2023.10.05-21.08.52:971][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-21.08.52:974][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-21.08.53:303][262]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-21.08.53:638][263]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=67.34
+[2023.10.05-21.08.53:638][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.05-21.08.53:641][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.05-21.36.40:016][261]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.05-21.50.28:780][747]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.225 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.05-22.44.43:875][509]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.05-22.44.43:977][510]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-22.44.44:205][510]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.05-22.47.55:983][ 86]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-22.47.56:233][ 87]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-22.47.56:296][ 87]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-22.47.56:369][ 87]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.05-22.50.29:684][547]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.128 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.05-23.46.38:735][653]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.05-23.50.28:778][343]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.221 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.06-00.46.30:117][426]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.06-00.50.29:694][145]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.136 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.06-01.44.18:350][830]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-01.44.18:459][830]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-01.44.18:540][830]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-01.44.18:651][831]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-01.44.26:114][853]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.06-01.44.26:384][854]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.06-01.44.27:299][856]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{dd1e81e1-6b12-4aa3-9a9b-9b204dd2124c}, Name=Headset (TOZO-T6 Hands-Free AG Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=784.18
+[2023.10.06-01.44.27:299][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.06-01.44.27:302][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.06-01.44.27:660][857]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.06-01.44.27:967][858]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=89.72
+[2023.10.06-01.44.27:967][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.06-01.44.27:970][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.06-01.50.28:877][940]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.318 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.06-01.57.20:535][668]LogSlate: External Image Picker: DecompressImage failed
+[2023.10.06-01.58.12:509][620]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.06-01.58.12:525][620]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.06-01.58.17:372][845]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.06-01.58.17:373][845]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-01.58.17:373][845]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-01.58.49:591][732]BlueprintLog: New page: Compile L1_Character
+[2023.10.06-01.58.49:649][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.10.06-01.58.51:024][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-01.58.51:087][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset" SILENT=true
+[2023.10.06-01.58.51:131][771]LogSavePackage: Moving output files for package: /Game/GameBP/Level1/L1_Character
+[2023.10.06-01.58.51:132][771]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_Character1691E6F8454C66EABE5BC0BAADF6BFEF.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset'
+[2023.10.06-01.58.51:147][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 4.11 sec)
+[2023.10.06-01.58.51:162][771]AssetCheck: New page: Asset Save: L1_Character
+[2023.10.06-01.58.51:162][771]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.06-01.58.52:117][811]LogSlate: Window 'L1_Character' being destroyed
+[2023.10.06-01.58.52:128][811]LogSlate: Window 'L1_Character' being destroyed
+[2023.10.06-01.58.52:136][811]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-01.58.52:136][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-01.58.53:342][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-01.58.53:351][873]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.06-01.58.53:351][873]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2023.10.06-01.58.53:354][873]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2 ms (total: 22 ms)
+[2023.10.06-01.58.53:354][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.06-01.58.53:354][873]PIE: New page: PIE session: Level1 (Oct 5, 2023, 3:58:53 PM)
+[2023.10.06-01.58.53:354][873]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2023.10.06-01.58.53:357][873]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.10.06-01.58.53:387][874]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.06-01.58.53:389][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002203s)
+[2023.10.06-01.58.53:389][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.002381s)
+[2023.10.06-01.58.53:411][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.10.06-01.58.53:418][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-01.58.53:418][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-01.58.53:419][874]LogAIModule: Creating AISystem for world Level1
+[2023.10.06-01.58.53:419][874]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.06-01.58.53:419][874]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.06-01.58.53:419][874]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.06-01.58.53:419][874]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.06-01.58.53:420][874]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2023.10.06-01.58.53:420][874]LogWorldPartition: Display: WorldPartition initialize took 627 us (total: 1.20 sec)
+[2023.10.06-01.58.53:420][874]LogPlayLevel: PIE: World Init took: (0.002031s)
+[2023.10.06-01.58.53:420][874]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.10.06-01.58.53:420][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-01.58.53:420][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-01.58.53:420][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-01.58.53:420][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-01.58.53:420][874]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.06-01.58.53:420][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.06-01.58.53:420][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.06-01.58.53:420][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-01.58.53:421][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-01.58.53:421][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-01.58.53:421][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-01.58.53:423][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-01.58.53:446][874]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TOZO-T6 Stereo)
+[2023.10.06-01.58.53:447][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-01.58.53:447][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-01.58.53:447][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-01.58.53:448][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.10.06-01.58.53:448][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.10.06-01.58.53:450][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.10.06-01.58.53:450][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.10.06-01.58.53:450][874]LogInit: FAudioDevice initialized with ID 10.
+[2023.10.06-01.58.53:450][874]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2023.10.06-01.58.53:450][874]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.06-01.58.53:454][874]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.06-01.58.53:454][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.10.05-20.58.53
+[2023.10.06-01.58.53:455][874]LogWorld: Bringing up level for play took: 0.000624
+[2023.10.06-01.58.53:457][874]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.06-01.58.53:457][874]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=5315.318 Y=-2006.129 Z=430.150,P=-0.000000 Y=-137.850847 R=0.000000
+[2023.10.06-01.58.53:457][874]LogStreaming: Display: FlushAsyncLoading(): 4 QueuedPackages, 0 AsyncPackages
+[2023.10.06-01.58.53:489][874]PIE: Server logged in
+[2023.10.06-01.58.53:490][874]PIE: Play in editor total start time 0.14 seconds.
+[2023.10.06-01.58.59:403][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-01.58.59:403][198]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.06-01.58.59:404][198]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-01.58.59:404][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-01.58.59:404][198]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2023.10.06-01.58.59:409][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-01.58.59:416][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-01.58.59:442][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-01.58.59:442][198]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.06-01.58.59:442][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.06-01.58.59:444][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.06-01.58.59:454][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.10.06-01.58.59:592][199]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.10.06-01.59.21:172][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.06-01.59.21:172][173]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-01.59.21:172][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-01.59.39:813][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-01.59.39:889][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset" SILENT=true
+[2023.10.06-01.59.39:898][834]LogSavePackage: Moving output files for package: /Game/GameBP/Level1/L1_Character
+[2023.10.06-01.59.39:899][834]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_CharacterEBA983DD4EF77D32B33A9CBF0D595DE6.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset'
+[2023.10.06-01.59.39:916][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 4.21 sec)
+[2023.10.06-01.59.39:937][834]AssetCheck: New page: Asset Save: L1_Character
+[2023.10.06-01.59.39:937][834]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.06-01.59.41:466][887]LogSlate: Window 'L1_Character' being destroyed
+[2023.10.06-01.59.41:476][887]LogSlate: Window 'L1_Character' being destroyed
+[2023.10.06-01.59.41:481][887]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-01.59.41:481][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-01.59.43:395][973]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-01.59.43:406][973]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.06-01.59.43:406][973]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2023.10.06-01.59.43:407][973]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 1 ms (total: 24 ms)
+[2023.10.06-01.59.43:408][973]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.06-01.59.43:409][973]LogPlayLevel: [PlayLevel] Compiling L1_Character before play...
+[2023.10.06-01.59.43:469][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.10.06-01.59.43:476][973]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2023.10.06-01.59.43:476][973]PIE: New page: PIE session: Level1 (Oct 5, 2023, 3:59:43 PM)
+[2023.10.06-01.59.43:476][973]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2023.10.06-01.59.43:479][973]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.10.06-01.59.43:505][974]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.06-01.59.43:508][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002716s)
+[2023.10.06-01.59.43:508][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.002786s)
+[2023.10.06-01.59.43:531][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.10.06-01.59.43:533][974]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-01.59.43:533][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-01.59.43:534][974]LogAIModule: Creating AISystem for world Level1
+[2023.10.06-01.59.43:535][974]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.06-01.59.43:535][974]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.06-01.59.43:535][974]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.06-01.59.43:535][974]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.06-01.59.43:537][974]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2023.10.06-01.59.43:537][974]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.21 sec)
+[2023.10.06-01.59.43:537][974]LogPlayLevel: PIE: World Init took: (0.004052s)
+[2023.10.06-01.59.43:537][974]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.10.06-01.59.43:537][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-01.59.43:537][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-01.59.43:537][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-01.59.43:537][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-01.59.43:537][974]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.06-01.59.43:537][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.06-01.59.43:537][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.06-01.59.43:537][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-01.59.43:538][974]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-01.59.43:539][974]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-01.59.43:539][974]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-01.59.43:541][974]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-01.59.43:565][974]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TOZO-T6 Stereo)
+[2023.10.06-01.59.43:565][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-01.59.43:566][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-01.59.43:566][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-01.59.43:567][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.10.06-01.59.43:567][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.10.06-01.59.43:569][974]LogInit: FAudioDevice initialized with ID 11.
+[2023.10.06-01.59.43:569][974]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2023.10.06-01.59.43:569][974]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.10.06-01.59.43:570][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.10.06-01.59.43:570][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.10.06-01.59.43:574][974]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.06-01.59.43:575][974]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.10.05-20.59.43
+[2023.10.06-01.59.43:575][974]LogWorld: Bringing up level for play took: 0.000668
+[2023.10.06-01.59.43:577][974]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.06-01.59.43:577][974]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=5780.749 Y=-1471.802 Z=430.150,P=-0.000000 Y=-99.457303 R=0.000000
+[2023.10.06-01.59.43:577][974]LogStreaming: Display: FlushAsyncLoading(): 4 QueuedPackages, 0 AsyncPackages
+[2023.10.06-01.59.43:589][974]PIE: Server logged in
+[2023.10.06-01.59.43:590][974]PIE: Play in editor total start time 0.184 seconds.
+[2023.10.06-01.59.49:503][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-01.59.49:503][284]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.06-01.59.49:504][284]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-01.59.49:504][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-01.59.49:504][284]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2023.10.06-01.59.49:508][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-01.59.49:515][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-01.59.49:539][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-01.59.49:539][284]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.10.06-01.59.49:540][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.10.06-01.59.49:542][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.10.06-01.59.49:550][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.10.06-01.59.49:676][285]LogPlayLevel: Display: Destroying online subsystem :Context_32
