@@ -3726,3 +3726,616 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.10.06-03.11.22:836][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 6.42 sec)
 [2023.10.06-03.11.22:853][161]AssetCheck: New page: Asset Save: BP_InteractionActor
 [2023.10.06-03.11.22:853][161]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Actors/BP_InteractionActor.BP_InteractionActor
+[2023.10.06-03.12.03:816][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.06-03.12.03:823][957]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/E9/1FZ8Q5H6NZJR0TPI0J9N1U_Auto2
+[2023.10.06-03.12.03:823][957]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/1FZ8Q5H6NZJR0TPI0J9N1U_Auto2F30BC97C4D543AA7868CEA871D46C50C.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/E9/1FZ8Q5H6NZJR0TPI0J9N1U_Auto2.uasset'
+[2023.10.06-03.12.03:825][957]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.034
+[2023.10.06-03.12.03:825][957]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2023.10.06-03.12.08:212][971]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-03.12.08:213][971]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-03.12.08:249][971]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-03.12.08:332][971]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-03.12.08:387][971]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-03.12.08:423][971]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.06-03.32.04:813][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.10.06-03.32.04:816][204]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.029
+[2023.10.06-03.32.04:817][204]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/BP_InteractionActor] ([2] browsable assets)...
+[2023.10.06-03.32.04:817][204]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_InteractionActor]
+[2023.10.06-03.32.04:825][204]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/BP_InteractionActor_Auto3
+[2023.10.06-03.32.04:825][204]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BP_InteractionActor_Auto3C8839CEE418B59853097B5A44342BD5B.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/Actors/BP_InteractionActor_Auto3.uasset'
+[2023.10.06-03.32.04:826][204]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.10.06-03.33.59:209][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-03.33.59:296][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset" SILENT=true
+[2023.10.06-03.33.59:315][955]LogSavePackage: Moving output files for package: /Game/GameBP/Level1/L1_Character
+[2023.10.06-03.33.59:315][955]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_CharacterB4BF51C946410172D3E1FDAB88E90ED0.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset'
+[2023.10.06-03.33.59:330][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 6.54 sec)
+[2023.10.06-03.33.59:424][955]AssetCheck: New page: Asset Save: L1_Character
+[2023.10.06-03.33.59:424][955]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.06-03.37.55:811][ 72]BlueprintLog: New page: Compile L1_Character
+[2023.10.06-03.37.55:891][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.06-03.37.56:847][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-03.37.56:913][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset" SILENT=true
+[2023.10.06-03.37.56:933][ 99]LogSavePackage: Moving output files for package: /Game/GameBP/Level1/L1_Character
+[2023.10.06-03.37.56:934][ 99]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_CharacterA3CC9D09432F8F470E496F83DBF5CAC4.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset'
+[2023.10.06-03.37.56:949][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 6.64 sec)
+[2023.10.06-03.37.56:962][ 99]AssetCheck: New page: Asset Save: L1_Character
+[2023.10.06-03.37.56:963][ 99]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.06-03.37.58:762][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-03.37.58:945][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_InteractionActor" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/Actors/BP_InteractionActor.uasset" SILENT=true
+[2023.10.06-03.37.58:954][171]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_InteractionActor
+[2023.10.06-03.37.58:955][171]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BP_InteractionActor327920CC48FA9917DF7DC3AEE4227404.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/Actors/BP_InteractionActor.uasset'
+[2023.10.06-03.37.58:971][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 6.85 sec)
+[2023.10.06-03.37.58:989][171]AssetCheck: New page: Asset Save: BP_InteractionActor
+[2023.10.06-03.37.58:989][171]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Actors/BP_InteractionActor.BP_InteractionActor
+[2023.10.06-03.42.05:656][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.10.06-03.42.05:663][960]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/E9/1FZ8Q5H6NZJR0TPI0J9N1U_Auto4
+[2023.10.06-03.42.05:663][960]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/1FZ8Q5H6NZJR0TPI0J9N1U_Auto44CC87A0541AFB8F607C3A6A1827B7CC8.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/E9/1FZ8Q5H6NZJR0TPI0J9N1U_Auto4.uasset'
+[2023.10.06-03.42.05:665][960]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.034
+[2023.10.06-03.42.05:665][960]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2023.10.06-03.50.29:680][473]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.120 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.06-04.01.40:758][291]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.01.40:860][291]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.01.40:967][291]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.01.41:046][292]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.01.47:311][310]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.06-04.01.47:472][311]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.06-04.01.47:975][312]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=133.12
+[2023.10.06-04.01.47:975][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.06-04.01.47:978][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.06-04.02.28:100][432]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.02.28:126][432]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.02.28:143][432]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.02.28:258][432]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.06-04.02.28:410][433]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.02.29:887][437]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.02.30:464][439]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.02.30:516][439]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.02.30:610][439]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.02.30:692][439]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.02.35:643][454]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.06-04.02.36:052][455]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=163.84
+[2023.10.06-04.02.36:053][455]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.06-04.02.36:061][455]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.06-04.06.36:203][175]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.06-04.20.58:861][762]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-04.20.59:025][762]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.06-04.41.29:478][453]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.06-04.44.39:480][ 23]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.06-04.50.28:801][ 71]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.240 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.06-05.50.29:713][873]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.151 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.06-06.16.34:942][568]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.06-06.50.28:786][670]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.224 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.06-07.21.05:164][178]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-21.29.32:010][201]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-1416ms], ThreadID=12916
+[2023.10.06-21.29.32:286][201]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-50895476ms], ThreadID=12916
+[2023.10.06-21.29.32:286][201]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.06-21.29.35:023][201]LogAutomationController: Ignoring very large delta of 50902.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.29.36:161][205]LogHttp: Warning: 00000AD56EDCBE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.06-21.29.36:162][205]LogHttp: Warning: 00000AD56EDCBE00: libcurl info message cache 0 (Too old connection (50922 seconds idle), disconnect it)
+[2023.10.06-21.29.36:162][205]LogHttp: Warning: 00000AD56EDCBE00: libcurl info message cache 1 (Connection 3 seems to be dead)
+[2023.10.06-21.29.36:162][205]LogHttp: Warning: 00000AD56EDCBE00: libcurl info message cache 2 (Closing connection 3)
+[2023.10.06-21.29.36:162][205]LogHttp: Warning: 00000AD56EDCBE00: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.10.06-21.29.36:162][205]LogHttp: Warning: 00000AD56EDCBE00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.06-21.29.36:162][205]LogHttp: Warning: 00000AD56EDCBE00: libcurl info message cache 5 (Closing connection 4)
+[2023.10.06-21.29.36:162][205]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7E6361C2-47EA-AA18-1B59-5FB0A0A9F255%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=cf1b0ac246958a0365201388b866e28e%7C2210fdf40d064c0a8010919a44cd951e%7C1d91db92-f10a-45ab-a447-452de0bf3c2e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.06-21.29.41:861][219]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-21.29.47:845][233]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.06-21.29.52:820][244]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.06-21.30.45:519][359]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (TOZO-T6 Hands-Free AG Audio), InstanceID=1
+[2023.10.06-21.30.50:660][372]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.06-21.30.51:487][375]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.06-21.30.55:648][386]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.06-21.31.00:649][399]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.06-21.31.01:764][402]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{dd1e81e1-6b12-4aa3-9a9b-9b204dd2124c}, Name=Headset (TOZO-T6 Hands-Free AG Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=15975.64
+[2023.10.06-21.31.01:764][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.06-21.31.01:806][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.06-21.31.02:097][403]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12916
+[2023.10.06-21.31.02:434][404]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=144.37
+[2023.10.06-21.31.02:434][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.06-21.31.02:438][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.06-21.58.43:798][440]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.157 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.06-22.58.42:851][234]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.210 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 791 files in 1271 folders with total size 4 MiB.
+[2023.10.06-23.30.48:814][ 11]LogHttp: Warning: 00000AD569CD9B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.10.06-23.30.48:814][ 11]LogHttp: Warning: 00000AD569CD9B00: libcurl info message cache 0 (Found bundle for host: 0xad4c8970450 [serially])
+[2023.10.06-23.30.48:814][ 11]LogHttp: Warning: 00000AD569CD9B00: libcurl info message cache 1 (Re-using existing connection #5 with host datarouter.ol.epicgames.com)
+[2023.10.06-23.30.48:814][ 11]LogHttp: Warning: 00000AD569CD9B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.221.50.168) port 443 (#5))
+[2023.10.06-23.30.48:814][ 11]LogHttp: Warning: 00000AD569CD9B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.10.06-23.30.48:814][ 11]LogHttp: Warning: 00000AD569CD9B00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.10.06-23.30.48:814][ 11]LogHttp: Warning: 00000AD569CD9B00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.10.06-23.30.48:814][ 11]LogHttp: Warning: 00000AD569CD9B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.10.06-23.30.48:814][ 11]LogHttp: Warning: 00000AD569CD9B00: libcurl info message cache 7 (Closing connection 5)
+[2023.10.06-23.30.48:814][ 11]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7E6361C2-47EA-AA18-1B59-5FB0A0A9F255%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=cf1b0ac246958a0365201388b866e28e%7C2210fdf40d064c0a8010919a44cd951e%7C1d91db92-f10a-45ab-a447-452de0bf3c2e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.06-23.31.30:524][136]LogHttp: Warning: 00000AD569CDE600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.06-23.31.30:524][136]LogHttp: Warning: 00000AD569CDE600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.06-23.31.30:524][136]LogHttp: Warning: 00000AD569CDE600: libcurl info message cache 1 (Closing connection 6)
+[2023.10.06-23.31.30:524][136]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7E6361C2-47EA-AA18-1B59-5FB0A0A9F255%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=cf1b0ac246958a0365201388b866e28e%7C2210fdf40d064c0a8010919a44cd951e%7C1d91db92-f10a-45ab-a447-452de0bf3c2e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.06-23.32.27:878][308]LogHttp: Warning: 00000AD569CDB400: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.10.06-23.32.27:878][308]LogHttp: Warning: 00000AD569CDB400: libcurl info message cache 0 (  Trying 192.168.1.254:443...)
+[2023.10.06-23.32.27:879][308]LogHttp: Warning: 00000AD569CDB400: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (192.168.1.254) port 443 (#7))
+[2023.10.06-23.32.27:879][308]LogHttp: Warning: 00000AD569CDB400: libcurl info message cache 2 (ALPN: offers http/1.1)
+[2023.10.06-23.32.27:879][308]LogHttp: Warning: 00000AD569CDB400: libcurl info message cache 3 (SSL re-using session ID)
+[2023.10.06-23.32.27:879][308]LogHttp: Warning: 00000AD569CDB400: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.10.06-23.32.27:879][308]LogHttp: Warning: 00000AD569CDB400: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.10.06-23.32.27:879][308]LogHttp: Warning: 00000AD569CDB400: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2023.10.06-23.32.27:879][308]LogHttp: Warning: 00000AD569CDB400: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2023.10.06-23.32.27:879][308]LogHttp: Warning: 00000AD569CDB400: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2023.10.06-23.32.27:879][308]LogHttp: Warning: 00000AD569CDB400: libcurl info message cache 9 (SSL certificate problem: self signed certificate)
+[2023.10.06-23.32.27:879][308]LogHttp: Warning: 00000AD569CDB400: libcurl info message cache 10 (Closing connection 7)
+[2023.10.06-23.32.27:917][308]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7E6361C2-47EA-AA18-1B59-5FB0A0A9F255%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=cf1b0ac246958a0365201388b866e28e%7C2210fdf40d064c0a8010919a44cd951e%7C1d91db92-f10a-45ab-a447-452de0bf3c2e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.06-23.54.26:348][291]LogAutomationController: Ignoring very large delta of 8.58 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-23.54.27:490][291]LogSlate: Window 'BPI_Interaction' being destroyed
+[2023.10.06-23.54.27:754][291]LogSlate: Window 'BPI_Interaction' being destroyed
+[2023.10.06-23.54.29:524][291]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-23.54.29:836][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-23.54.32:839][291]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.06-23.54.32:839][291]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-23.54.32:839][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-23.54.33:097][291]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-23.54.33:097][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-23.54.33:384][291]LogAutomationController: Ignoring very large delta of 7.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-23.54.50:993][736]LogInterchangeEngine: [Pending] Importing
+[2023.10.06-23.54.50:993][736]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Chase/Downloads/Crosshair.png]
+[2023.10.06-23.54.51:659][737]LogInterchangeEngine: [Pending] Importing
+[2023.10.06-23.54.51:765][737]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2023.10.06-23.54.53:194][739]LogTexture: Display: Building textures: /Game/Crosshair.Crosshair (BGRA8, 5x5 x1x1x1) (Required Memory Estimate: 0.063225 MB), EncodeSpeed: Fast
+[2023.10.06-23.54.54:083][740]LogAutomationController: Ignoring very large delta of 2.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-23.54.54:242][740]LogInterchangeEngine: [Success] Import Done
+[2023.10.06-23.54.54:261][740]LogInterchangeEngine: [Success] Import Done
+[2023.10.06-23.55.31:328][258]LogUObjectHash: Compacting FUObjectHashTables data took  17.89ms
+[2023.10.06-23.55.31:506][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 2.653
+[2023.10.06-23.55.31:566][258]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crosshair] ([1] browsable assets)...
+[2023.10.06-23.55.31:614][258]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Crosshair.Crosshair]
+[2023.10.06-23.55.31:614][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crosshair]
+[2023.10.06-23.55.31:614][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crosshair" FILE="../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Crosshair_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.10.06-23.55.31:825][258]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Crosshair_Auto5
+[2023.10.06-23.55.31:825][258]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/Crosshair_Auto53AB2AC93430D3F1D9FCD9E9C60CAC406.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Crosshair_Auto5.uasset'
+[2023.10.06-23.55.31:947][258]LogFileHelpers: Auto-saving content packages took 0.438
+[2023.10.06-23.55.31:990][258]LogAutomationController: Ignoring very large delta of 4.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-23.55.33:398][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-23.55.33:564][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crosshair" FILE="../../../../../Courses/UltSurvivalHorror/Content/Crosshair.uasset" SILENT=true
+[2023.10.06-23.55.33:607][295]LogSavePackage: Moving output files for package: /Game/Crosshair
+[2023.10.06-23.55.33:607][295]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CrosshairE06124264D66557906349A8F267F4ACC.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Crosshair.uasset'
+[2023.10.06-23.55.33:666][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 267 ms (total: 7.12 sec)
+[2023.10.06-23.55.33:736][295]AssetCheck: New page: Asset Save: Crosshair
+[2023.10.06-23.55.33:744][295]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Crosshair.Crosshair
+[2023.10.06-23.55.54:571][231]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.06-23.55.54:608][231]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.06-23.55.54:625][232]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.06-23.55.56:661][345]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2023.10.06-23.55.56:662][345]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.06-23.56.02:797][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-23.56.02:881][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Crosshair" FILE="../../../../../Courses/UltSurvivalHorror/Content/Textures/Crosshair.uasset" SILENT=true
+[2023.10.06-23.56.02:883][461]LogSavePackage: Moving output files for package: /Game/Textures/Crosshair
+[2023.10.06-23.56.02:883][461]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CrosshairC16C674340B596285E16068208C2A315.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Textures/Crosshair.uasset'
+[2023.10.06-23.56.02:920][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 7.24 sec)
+[2023.10.06-23.56.03:240][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.06-23.56.03:267][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.10.06-23.56.03:330][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.06-23.56.03:412][461]AssetCheck: New page: Asset Save: Crosshair
+[2023.10.06-23.56.03:412][461]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Crosshair.Crosshair
+[2023.10.06-23.56.03:442][461]LogAutomationController: Ignoring very large delta of 3.81 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-23.56.07:538][651]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Crosshair.Crosshair
+[2023.10.06-23.56.09:582][651]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.10.06-23.56.10:077][651]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.539572s (0.539572s overbudget)
+[2023.10.06-23.56.15:299][651]LogViewport: Scene viewport resized to 1201x728, mode Windowed.
+[2023.10.06-23.56.16:131][651]LogAutomationController: Ignoring very large delta of 8.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-23.56.52:901][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-23.56.53:008][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Crosshair" FILE="../../../../../Courses/UltSurvivalHorror/Content/Textures/Crosshair.uasset" SILENT=true
+[2023.10.06-23.56.53:010][313]LogSavePackage: Moving output files for package: /Game/Textures/Crosshair
+[2023.10.06-23.56.53:011][313]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CrosshairBE9283D640C0EAD03BD2E39DD0A088EF.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Textures/Crosshair.uasset'
+[2023.10.06-23.56.53:049][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 7.39 sec)
+[2023.10.06-23.56.53:051][313]AssetCheck: New page: Asset Save: Crosshair
+[2023.10.06-23.56.53:051][313]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Crosshair.Crosshair
+[2023.10.06-23.56.54:755][382]LogSlate: Window 'Crosshair' being destroyed
+[2023.10.06-23.56.54:784][382]LogSlate: Window 'Crosshair' being destroyed
+[2023.10.06-23.57.00:204][614]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.06-23.57.00:226][614]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.06-23.57.00:251][615]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.06-23.57.02:709][755]LogContentBrowser: Attempting asset rename: NewFolder -> UMG
+[2023.10.06-23.57.02:709][755]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.06-23.57.47:969][ 18]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.06-23.57.48:431][ 18]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.06-23.57.48:441][ 18]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.06-23.57.48:506][ 18]LogAutomationController: Ignoring very large delta of 38.93 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-23.57.48:531][ 20]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.06-23.57.50:457][121]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2023.10.06-23.57.51:317][121]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.06-23.57.51:606][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.10.06-23.57.53:440][122]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.06-23.57.53:539][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.10.06-23.57.53:566][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.10.06-23.57.53:593][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.10.06-23.57.53:613][122]LogAutomationController: Ignoring very large delta of 2.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-23.58.15:801][449]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.06-23.58.15:813][449]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.06-23.58.15:824][449]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.06-23.58.15:827][449]LogAutomationController: Ignoring very large delta of 14.51 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-23.58.15:853][451]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.06-23.58.27:159][879]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2023.10.06-23.58.27:169][879]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.06-23.58.27:277][883]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/NewWidgetBlueprint.NewWidgetBlueprint
+[2023.10.06-23.58.27:641][883]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-23.58.27:849][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-23.58.28:521][883]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-23.58.28:521][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-23.58.28:576][883]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.10.06-23.58.29:313][883]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.10.06-23.58.29:869][883]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.590981s (0.590981s overbudget)
+[2023.10.06-23.58.31:492][883]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.10.06-23.58.31:570][883]LogSlate: Took 0.046283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.06-23.58.31:837][883]LogAutomationController: Ignoring very large delta of 4.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-23.58.33:587][945]LogSlate: Window 'NewWidgetBlueprint' being destroyed
+[2023.10.06-23.58.33:597][945]LogSlate: Window 'NewWidgetBlueprint' being destroyed
+[2023.10.06-23.58.34:039][945]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-23.58.34:039][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-23.58.34:047][945]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-23.58.34:047][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-23.58.40:770][289]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_MainHud
+[2023.10.06-23.58.40:819][289]LogMetaData: Removing '/Game/UMG/W_MainHud.SKEL_W_MainHud_C' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2023.10.06-23.58.40:819][289]LogMetaData: Removing '/Game/UMG/W_MainHud.W_MainHud_C' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2023.10.06-23.58.40:819][289]LogMetaData: Removing '/Game/UMG/W_MainHud.W_MainHud:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2023.10.06-23.58.40:819][289]LogMetaData: Removing '/Game/UMG/W_MainHud.W_MainHud:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2023.10.06-23.58.40:819][289]LogMetaData: Removing '/Game/UMG/W_MainHud.W_MainHud:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2023.10.06-23.58.40:857][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-23.58.40:960][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_MainHud" FILE="../../../../../Courses/UltSurvivalHorror/Content/UMG/W_MainHud.uasset" SILENT=true
+[2023.10.06-23.58.41:105][289]LogSavePackage: Moving output files for package: /Game/UMG/W_MainHud
+[2023.10.06-23.58.41:105][289]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_MainHud91FA60774F416595BBD6CC9EE2AC0A47.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/UMG/W_MainHud.uasset'
+[2023.10.06-23.58.41:144][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 286 ms (total: 7.68 sec)
+[2023.10.06-23.58.41:184][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.10.06-23.58.41:214][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.06-23.58.41:238][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.06-23.58.41:241][289]AssetCheck: New page: Asset Save: W_MainHud
+[2023.10.06-23.58.41:241][289]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UMG/W_MainHud.W_MainHud
+[2023.10.06-23.58.43:773][395]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.131 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 793 files in 1275 folders with total size 4 MiB.
+[2023.10.06-23.58.51:449][569]LogContentBrowser: Attempting asset rename: W_MainHud -> W_MainHUD
+[2023.10.06-23.58.51:507][569]LogMetaData: Removing '/Game/UMG/RenameTmp.RenameTmp_C' ref from Metadata '/Game/UMG/W_MainHud.PackageMetaData'
+[2023.10.06-23.58.51:507][569]LogMetaData: Removing '/Game/UMG/RenameTmp.SKEL_RenameTmp_C' ref from Metadata '/Game/UMG/W_MainHud.PackageMetaData'
+[2023.10.06-23.58.51:507][569]LogMetaData: Removing '/Game/UMG/RenameTmp.RenameTmp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UMG/W_MainHud.PackageMetaData'
+[2023.10.06-23.58.51:507][569]LogMetaData: Removing '/Game/UMG/RenameTmp.RenameTmp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UMG/W_MainHud.PackageMetaData'
+[2023.10.06-23.58.51:507][569]LogMetaData: Removing '/Game/UMG/RenameTmp.RenameTmp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UMG/W_MainHud.PackageMetaData'
+[2023.10.06-23.58.51:573][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.10.06-23.58.51:606][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.10.06-23.58.51:638][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.10.06-23.58.51:642][569]LogMetaData: Removing '/Game/UMG/W_MainHUD.W_MainHUD_C' ref from Metadata '/Game/UMG/RenameTmp.PackageMetaData'
+[2023.10.06-23.58.51:642][569]LogMetaData: Removing '/Game/UMG/W_MainHUD.SKEL_W_MainHUD_C' ref from Metadata '/Game/UMG/RenameTmp.PackageMetaData'
+[2023.10.06-23.58.51:642][569]LogMetaData: Removing '/Game/UMG/W_MainHUD.W_MainHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UMG/RenameTmp.PackageMetaData'
+[2023.10.06-23.58.51:642][569]LogMetaData: Removing '/Game/UMG/W_MainHUD.W_MainHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UMG/RenameTmp.PackageMetaData'
+[2023.10.06-23.58.51:642][569]LogMetaData: Removing '/Game/UMG/W_MainHUD.W_MainHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UMG/RenameTmp.PackageMetaData'
+[2023.10.06-23.58.51:703][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.10.06-23.58.51:731][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.10.06-23.58.51:761][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.10.06-23.58.52:833][618]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/W_MainHUD.W_MainHUD
+[2023.10.06-23.58.52:834][618]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-23.58.52:834][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-23.58.52:854][618]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-23.58.52:854][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-23.59.05:337][ 41]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.06-23.59.05:354][ 41]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.06-23.59.05:368][ 41]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.06-23.59.05:386][ 42]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.06-23.59.09:745][262]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Crosshair
+[2023.10.06-23.59.09:757][262]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.06-23.59.12:939][415]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/W_Crosshair.W_Crosshair
+[2023.10.06-23.59.12:940][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-23.59.12:962][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-23.59.12:972][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-23.59.12:988][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.07-00.01.15:395][ 86]LogSlate: Took 0.048993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.07-00.01.19:902][214]BlueprintLog: New page: Compile W_Crosshair
+[2023.10.07-00.01.20:335][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.07-00.01.21:335][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-00.01.21:408][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_Crosshair" FILE="../../../../../Courses/UltSurvivalHorror/Content/UMG/W_Crosshair.uasset" SILENT=true
+[2023.10.07-00.01.21:414][236]LogSavePackage: Moving output files for package: /Game/UMG/W_Crosshair
+[2023.10.07-00.01.21:414][236]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_Crosshair301E1FB341FAC69E326A5E86099A8C86.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/UMG/W_Crosshair.uasset'
+[2023.10.07-00.01.21:433][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 7.77 sec)
+[2023.10.07-00.01.21:434][236]AssetCheck: New page: Asset Save: W_Crosshair
+[2023.10.07-00.01.21:435][236]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UMG/W_Crosshair.W_Crosshair
+[2023.10.07-00.05.16:352][423]BlueprintLog: New page: Compile W_Crosshair
+[2023.10.07-00.05.16:399][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.10.07-00.05.56:555][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.10.07-00.05.56:559][166]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.029
+[2023.10.07-00.05.56:560][166]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/W_MainHUD] ([2] browsable assets)...
+[2023.10.07-00.05.56:564][166]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/W_MainHUD.W_MainHUD]
+[2023.10.07-00.05.56:564][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/W_MainHUD]
+[2023.10.07-00.05.56:564][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_MainHUD" FILE="../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/W_MainHUD_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.10.07-00.05.56:568][166]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/W_MainHUD_Auto6
+[2023.10.07-00.05.56:568][166]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_MainHUD_Auto627398F824F62A77253938F9E676FC24D.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/W_MainHUD_Auto6.uasset'
+[2023.10.07-00.05.56:569][166]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/W_Crosshair] ([2] browsable assets)...
+[2023.10.07-00.05.56:573][166]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/W_Crosshair.W_Crosshair]
+[2023.10.07-00.05.56:573][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/W_Crosshair]
+[2023.10.07-00.05.56:573][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_Crosshair" FILE="../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/W_Crosshair_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.10.07-00.05.56:578][166]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/W_Crosshair_Auto6
+[2023.10.07-00.05.56:578][166]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_Crosshair_Auto6744E19AF448530CB2E942181F627CE61.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/W_Crosshair_Auto6.uasset'
+[2023.10.07-00.05.56:579][166]LogFileHelpers: Auto-saving content packages took 0.020
+[2023.10.07-00.07.38:407][190]LogEditorTransaction: Undo Remove Widget
+[2023.10.07-00.07.38:972][190]LogEditorTransaction: Undo Remove Widget
+[2023.10.07-00.07.50:900][699]LogEditorTransaction: Undo Edit Image
+[2023.10.07-00.07.51:152][703]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.10.07-00.07.51:437][707]LogEditorTransaction: Undo Edit Height Override
+[2023.10.07-00.07.51:784][721]LogEditorTransaction: Undo Edit Width Override
+[2023.10.07-00.07.52:195][738]LogEditorTransaction: Undo Edit Condition Changed
+[2023.10.07-00.07.52:502][751]LogEditorTransaction: Undo Edit Condition Changed
+[2023.10.07-00.07.53:060][775]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.10.07-00.07.53:924][811]LogEditorTransaction: Undo Edit Texture Group
+[2023.10.07-00.07.54:176][819]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.07.54:479][819]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.07.54:662][824]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.07.54:985][828]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.07.55:311][836]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.07.55:620][847]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.07.56:303][876]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.07.56:610][887]LogEditorTransaction: Undo Rename Variable
+[2023.10.07-00.07.57:027][887]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.07.57:288][892]LogEditorTransaction: Undo Promote To Variable
+[2023.10.07-00.07.57:556][901]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.07.57:795][909]LogEditorTransaction: Undo Add Node
+[2023.10.07-00.07.58:016][916]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.07.58:261][923]LogEditorTransaction: Undo Add Node
+[2023.10.07-00.07.58:462][925]LogEditorTransaction: Undo Remove Parameter
+[2023.10.07-00.07.58:682][926]LogEditorTransaction: Undo Add Out Parameter
+[2023.10.07-00.07.58:849][928]LogEditorTransaction: Undo Change Enum Pin Value
+[2023.10.07-00.07.59:087][936]LogEditorTransaction: Undo Delete current selection
+[2023.10.07-00.07.59:346][945]LogEditorTransaction: Undo Create Pin Link
+[2023.10.07-00.08.00:147][979]LogEditorTransaction: Undo Rename Parameter
+[2023.10.07-00.08.00:806][  3]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.08.01:332][ 24]LogEditorTransaction: Undo Create Pin Link
+[2023.10.07-00.08.01:697][ 38]LogEditorTransaction: Undo Change Parameter Type
+[2023.10.07-00.08.01:992][ 46]LogEditorTransaction: Undo Add In Parameter
+[2023.10.07-00.08.02:302][ 49]LogEditorTransaction: Undo Rename Node
+[2023.10.07-00.08.02:518][ 51]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.08.02:828][ 62]LogEditorTransaction: Undo Change Class Pin Value
+[2023.10.07-00.08.03:112][ 72]LogEditorTransaction: Undo Create Pin Link
+[2023.10.07-00.08.03:435][ 84]LogEditorTransaction: Undo Create Pin Link
+[2023.10.07-00.08.04:582][133]LogEditorTransaction: Undo Add Node
+[2023.10.07-00.08.04:872][142]LogEditorTransaction: Undo Delete current selection
+[2023.10.07-00.08.05:111][150]LogEditorTransaction: Undo Clicking on Elements
+[2023.10.07-00.08.05:670][171]LogEditorTransaction: Undo Clicking on Elements
+[2023.10.07-00.08.07:250][226]LogEditorTransaction: Undo Clicking on Elements
+[2023.10.07-00.08.07:549][238]LogEditorTransaction: Undo Clicking on Elements
+[2023.10.07-00.08.07:818][248]LogEditorTransaction: Undo Clicking on Elements
+[2023.10.07-00.08.08:318][249]LogEditorTransaction: Undo Clicking on Actors
+[2023.10.07-00.08.08:525][252]LogEditorTransaction: Undo Change String Pin Value
+[2023.10.07-00.08.08:744][262]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.08.08:966][271]LogEditorTransaction: Undo Reset Location
+[2023.10.07-00.08.09:201][272]LogEditorTransaction: Undo Clicking on Elements
+[2023.10.07-00.08.09:451][280]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.08.10:789][323]LogEditorTransaction: Undo Move Node
+[2023.10.07-00.08.10:998][331]LogEditorTransaction: Undo Move Elements
+[2023.10.07-00.08.11:244][341]LogEditorTransaction: Undo Create Actors
+[2023.10.07-00.08.11:515][350]LogEditorTransaction: Undo Modify Component(s)
+[2023.10.07-00.08.11:763][360]LogEditorTransaction: Undo Add Component
+[2023.10.07-00.08.12:030][372]LogEditorTransaction: Undo Change String Pin Value
+[2023.10.07-00.08.12:280][384]LogEditorTransaction: Undo Add Node
+[2023.10.07-00.08.12:527][396]LogEditorTransaction: Undo Add Node
+[2023.10.07-00.08.12:797][409]LogEditorTransaction: Undo Move Nodes
+[2023.10.07-00.08.13:062][421]LogEditorTransaction: Undo Create Pin Link
+[2023.10.07-00.08.13:319][425]LogEditorTransaction: Undo Create Pin Link
+[2023.10.07-00.08.21:893][822]LogEditorTransaction: Redo Create Pin Link
+[2023.10.07-00.08.22:201][827]LogEditorTransaction: Redo Create Pin Link
+[2023.10.07-00.08.22:522][836]LogEditorTransaction: Redo Move Nodes
+[2023.10.07-00.08.22:731][845]LogEditorTransaction: Redo Add Node
+[2023.10.07-00.08.22:984][856]LogEditorTransaction: Redo Add Node
+[2023.10.07-00.08.23:202][865]LogEditorTransaction: Redo Change String Pin Value
+[2023.10.07-00.08.23:393][873]LogEditorTransaction: Redo Add Component
+[2023.10.07-00.08.23:580][880]LogEditorTransaction: Redo Modify Component(s)
+[2023.10.07-00.08.23:768][888]LogEditorTransaction: Redo Create Actors
+[2023.10.07-00.08.23:967][895]LogEditorTransaction: Redo Move Elements
+[2023.10.07-00.08.24:165][903]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.24:381][912]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.24:583][919]LogEditorTransaction: Redo Clicking on Elements
+[2023.10.07-00.08.24:836][921]LogEditorTransaction: Redo Reset Location
+[2023.10.07-00.08.25:013][924]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.25:197][931]LogEditorTransaction: Redo Change String Pin Value
+[2023.10.07-00.08.25:436][938]LogEditorTransaction: Redo Clicking on Actors
+[2023.10.07-00.08.25:630][939]LogEditorTransaction: Redo Clicking on Elements
+[2023.10.07-00.08.25:801][940]LogEditorTransaction: Redo Clicking on Elements
+[2023.10.07-00.08.26:026][945]LogEditorTransaction: Redo Clicking on Elements
+[2023.10.07-00.08.26:245][951]LogEditorTransaction: Redo Clicking on Elements
+[2023.10.07-00.08.26:456][958]LogEditorTransaction: Redo Clicking on Elements
+[2023.10.07-00.08.26:651][964]LogEditorTransaction: Redo Delete current selection
+[2023.10.07-00.08.26:854][973]LogEditorTransaction: Redo Add Node
+[2023.10.07-00.08.27:065][979]LogEditorTransaction: Redo Create Pin Link
+[2023.10.07-00.08.27:239][983]LogEditorTransaction: Redo Create Pin Link
+[2023.10.07-00.08.27:837][  6]LogEditorTransaction: Redo Change Class Pin Value
+[2023.10.07-00.08.27:952][  7]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.28:086][ 10]LogEditorTransaction: Redo Rename Node
+[2023.10.07-00.08.28:143][ 10]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level1.Level1:PersistentLevel.L1_Character_C_UAID_00D861AA8170BDAF01_1197307230.CollisionCylinder) Component already registered.
+[2023.10.07-00.08.28:248][ 11]LogEditorTransaction: Redo Add In Parameter
+[2023.10.07-00.08.28:264][ 11]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level1.Level1:PersistentLevel.L1_Character_C_UAID_00D861AA8170BDAF01_1197307230.CollisionCylinder) Component already registered.
+[2023.10.07-00.08.28:317][ 11]LogEditorTransaction: Redo Change Parameter Type
+[2023.10.07-00.08.28:330][ 11]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level1.Level1:PersistentLevel.L1_Character_C_UAID_00D861AA8170BDAF01_1197307230.CollisionCylinder) Component already registered.
+[2023.10.07-00.08.28:463][ 12]LogEditorTransaction: Redo Create Pin Link
+[2023.10.07-00.08.28:609][ 15]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.28:725][ 16]LogEditorTransaction: Redo Rename Parameter
+[2023.10.07-00.08.28:743][ 16]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level1.Level1:PersistentLevel.L1_Character_C_UAID_00D861AA8170BDAF01_1197307230.CollisionCylinder) Component already registered.
+[2023.10.07-00.08.28:868][ 18]LogEditorTransaction: Redo Create Pin Link
+[2023.10.07-00.08.28:999][ 20]LogEditorTransaction: Redo Delete current selection
+[2023.10.07-00.08.29:148][ 22]LogEditorTransaction: Redo Change Enum Pin Value
+[2023.10.07-00.08.29:306][ 23]LogEditorTransaction: Redo Add Out Parameter
+[2023.10.07-00.08.29:319][ 23]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level1.Level1:PersistentLevel.L1_Character_C_UAID_00D861AA8170BDAF01_1197307230.CollisionCylinder) Component already registered.
+[2023.10.07-00.08.29:466][ 24]LogEditorTransaction: Redo Remove Parameter
+[2023.10.07-00.08.29:479][ 24]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level1.Level1:PersistentLevel.L1_Character_C_UAID_00D861AA8170BDAF01_1197307230.CollisionCylinder) Component already registered.
+[2023.10.07-00.08.29:532][ 24]LogEditorTransaction: Redo Add Node
+[2023.10.07-00.08.29:705][ 25]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.29:811][ 26]LogEditorTransaction: Redo Add Node
+[2023.10.07-00.08.29:947][ 29]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.30:119][ 33]LogEditorTransaction: Redo Promote To Variable
+[2023.10.07-00.08.30:252][ 34]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.30:392][ 37]LogEditorTransaction: Redo Rename Variable
+[2023.10.07-00.08.30:775][ 51]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.30:916][ 54]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.31:067][ 57]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.31:212][ 59]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.31:354][ 62]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.31:500][ 65]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.31:637][ 68]LogEditorTransaction: Redo Move Node
+[2023.10.07-00.08.31:802][ 72]LogEditorTransaction: Redo Edit Texture Group
+[2023.10.07-00.08.31:943][ 75]LogEditorTransaction: Redo Drag and Drop Widget
+[2023.10.07-00.08.32:112][ 82]LogEditorTransaction: Redo Edit Condition Changed
+[2023.10.07-00.08.32:285][ 89]LogEditorTransaction: Redo Edit Condition Changed
+[2023.10.07-00.08.32:431][ 95]LogEditorTransaction: Redo Edit Width Override
+[2023.10.07-00.08.32:599][102]LogEditorTransaction: Redo Edit Height Override
+[2023.10.07-00.08.32:786][110]LogEditorTransaction: Redo Drag and Drop Widget
+[2023.10.07-00.08.32:962][116]LogEditorTransaction: Redo Edit Image
+[2023.10.07-00.08.33:161][119]LogEditorTransaction: Redo Remove Widget
+[2023.10.07-00.08.33:321][121]LogEditorTransaction: Redo Remove Widget
+[2023.10.07-00.08.44:119][623]LogEditorTransaction: Undo Remove Widget
+[2023.10.07-00.08.44:853][640]LogEditorTransaction: Undo Remove Widget
+[2023.10.07-00.17.04:802][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.07-00.17.04:813][  4]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/E9/1FZ8Q5H6NZJR0TPI0J9N1U_Auto7
+[2023.10.07-00.17.04:814][  4]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/1FZ8Q5H6NZJR0TPI0J9N1U_Auto7BB38771B4F976E40E694BC87DF0E72C7.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/E9/1FZ8Q5H6NZJR0TPI0J9N1U_Auto7.uasset'
+[2023.10.07-00.17.04:843][  4]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.477
+[2023.10.07-00.17.04:843][  4]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.477
+[2023.10.07-00.17.04:844][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UMG/W_MainHUD] ([2] browsable assets)...
+[2023.10.07-00.17.04:844][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/W_MainHUD]
+[2023.10.07-00.17.04:844][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_MainHUD" FILE="../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/W_MainHUD_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.10.07-00.17.04:848][  4]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/W_MainHUD_Auto7
+[2023.10.07-00.17.04:848][  4]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_MainHUD_Auto7C9984B46446A5DF4B6ADBBB1B1A9CB0E.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/W_MainHUD_Auto7.uasset'
+[2023.10.07-00.17.04:850][  4]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/W_Crosshair] ([2] browsable assets)...
+[2023.10.07-00.17.04:855][  4]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/W_Crosshair.W_Crosshair]
+[2023.10.07-00.17.04:856][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/W_Crosshair]
+[2023.10.07-00.17.04:856][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_Crosshair" FILE="../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/W_Crosshair_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.10.07-00.17.04:861][  4]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/W_Crosshair_Auto7
+[2023.10.07-00.17.04:861][  4]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_Crosshair_Auto7B707A610417EFBC4A41934955D5A5C22.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/W_Crosshair_Auto7.uasset'
+[2023.10.07-00.17.04:862][  4]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.10.07-00.23.31:280][793]BlueprintLog: New page: Compile W_Crosshair
+[2023.10.07-00.23.31:687][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.10.07-00.23.54:758][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-00.23.54:830][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_Crosshair" FILE="../../../../../Courses/UltSurvivalHorror/Content/UMG/W_Crosshair.uasset" SILENT=true
+[2023.10.07-00.23.54:836][745]LogSavePackage: Moving output files for package: /Game/UMG/W_Crosshair
+[2023.10.07-00.23.54:837][745]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_CrosshairF22CA7BD4DC42E9A65650DADF2C673F8.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/UMG/W_Crosshair.uasset'
+[2023.10.07-00.23.54:853][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 7.87 sec)
+[2023.10.07-00.23.54:878][745]AssetCheck: New page: Asset Save: W_Crosshair
+[2023.10.07-00.23.54:878][745]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UMG/W_Crosshair.W_Crosshair
+[2023.10.07-00.24.14:695][511]BlueprintLog: New page: Compile W_MainHUD
+[2023.10.07-00.24.14:738][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.10.07-00.24.15:771][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-00.24.15:866][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_MainHUD" FILE="../../../../../Courses/UltSurvivalHorror/Content/UMG/W_MainHUD.uasset" SILENT=true
+[2023.10.07-00.24.15:871][551]LogSavePackage: Moving output files for package: /Game/UMG/W_MainHUD
+[2023.10.07-00.24.15:871][551]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_MainHUDC8F316A246EE858D80C36A9CBC30A5B5.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/UMG/W_MainHUD.uasset'
+[2023.10.07-00.24.15:892][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 7.99 sec)
+[2023.10.07-00.24.15:894][551]AssetCheck: New page: Asset Save: W_MainHUD
+[2023.10.07-00.24.15:894][551]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UMG/W_MainHUD.W_MainHUD
+[2023.10.07-00.24.51:698][ 79]LogEditorTransaction: Undo Remove Widget
+[2023.10.07-00.24.52:221][ 87]LogEditorTransaction: Undo Remove Widget
+[2023.10.07-00.24.52:978][117]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.10.07-00.27.05:626][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.07-00.27.05:632][ 99]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/E9/1FZ8Q5H6NZJR0TPI0J9N1U_Auto8
+[2023.10.07-00.27.05:633][ 99]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/1FZ8Q5H6NZJR0TPI0J9N1U_Auto82E84F323478051153C0514B4D6A6F7A6.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/E9/1FZ8Q5H6NZJR0TPI0J9N1U_Auto8.uasset'
+[2023.10.07-00.27.05:634][ 99]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.034
+[2023.10.07-00.27.05:634][ 99]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2023.10.07-00.32.33:121][ 30]BlueprintLog: New page: Compile W_MainHUD
+[2023.10.07-00.32.33:166][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.10.07-00.32.33:926][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-00.32.34:016][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_MainHUD" FILE="../../../../../Courses/UltSurvivalHorror/Content/UMG/W_MainHUD.uasset" SILENT=true
+[2023.10.07-00.32.34:021][ 37]LogSavePackage: Moving output files for package: /Game/UMG/W_MainHUD
+[2023.10.07-00.32.34:022][ 37]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_MainHUD60B51ED74C70B0C65537408667857BD8.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/UMG/W_MainHUD.uasset'
+[2023.10.07-00.32.34:040][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 8.11 sec)
+[2023.10.07-00.32.34:059][ 37]AssetCheck: New page: Asset Save: W_MainHUD
+[2023.10.07-00.32.34:060][ 37]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UMG/W_MainHUD.W_MainHUD
+[2023.10.07-00.36.15:631][986]LogEditorTransaction: Undo Set Vector Property
+[2023.10.07-00.36.16:520][  4]LogEditorTransaction: Undo Set Vector Property
+[2023.10.07-00.36.17:278][ 23]LogEditorTransaction: Undo Set Vector Property
+[2023.10.07-00.37.56:878][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-00.37.56:950][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_MainHUD" FILE="../../../../../Courses/UltSurvivalHorror/Content/UMG/W_MainHUD.uasset" SILENT=true
+[2023.10.07-00.37.56:956][643]LogSavePackage: Moving output files for package: /Game/UMG/W_MainHUD
+[2023.10.07-00.37.56:957][643]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_MainHUD042ED63A40725DA713992E874FD3EC92.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/UMG/W_MainHUD.uasset'
+[2023.10.07-00.37.56:974][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 8.20 sec)
+[2023.10.07-00.37.57:016][643]AssetCheck: New page: Asset Save: W_MainHUD
+[2023.10.07-00.37.57:016][643]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UMG/W_MainHUD.W_MainHUD
+[2023.10.07-00.37.57:770][669]BlueprintLog: New page: Compile W_MainHUD
+[2023.10.07-00.37.57:819][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.10.07-00.37.59:033][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-00.37.59:102][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/W_MainHUD" FILE="../../../../../Courses/UltSurvivalHorror/Content/UMG/W_MainHUD.uasset" SILENT=true
+[2023.10.07-00.37.59:108][698]LogSavePackage: Moving output files for package: /Game/UMG/W_MainHUD
+[2023.10.07-00.37.59:109][698]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_MainHUDF3971CD040EED3BF22298185AF75C17A.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/UMG/W_MainHUD.uasset'
+[2023.10.07-00.37.59:126][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 8.29 sec)
+[2023.10.07-00.37.59:153][698]AssetCheck: New page: Asset Save: W_MainHUD
+[2023.10.07-00.37.59:153][698]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UMG/W_MainHUD.W_MainHUD
+[2023.10.07-00.38.34:171][ 66]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.07-00.38.34:597][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.07-00.38.34:597][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.07-00.41.09:295][781]BlueprintLog: New page: Compile L1_Character
+[2023.10.07-00.41.09:986][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.10.07-00.41.11:210][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-00.41.11:297][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset" SILENT=true
+[2023.10.07-00.41.11:344][823]LogSavePackage: Moving output files for package: /Game/GameBP/Level1/L1_Character
+[2023.10.07-00.41.11:345][823]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_CharacterC761537040626FE12C96B48397310F8E.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset'
+[2023.10.07-00.41.11:362][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 8.45 sec)
+[2023.10.07-00.41.11:364][823]AssetCheck: New page: Asset Save: L1_Character
+[2023.10.07-00.41.11:365][823]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.07-00.41.18:163][934]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.07-00.41.18:234][934]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.07-00.41.18:234][934]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2023.10.07-00.41.18:326][934]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 92 ms (total: 488 ms)
+[2023.10.07-00.41.18:462][934]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.07-00.41.18:477][934]LogPlayLevel: [PlayLevel] Compiling BP_InteractionActor before play...
+[2023.10.07-00.41.18:511][934]LogPlayLevel: [PlayLevel] Compiling W_Crosshair before play...
+[2023.10.07-00.41.18:656][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.10.07-00.41.18:662][934]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (2 blueprints)
+[2023.10.07-00.41.18:777][934]PIE: New page: PIE session: Level1 (Oct 6, 2023, 2:41:18 PM)
+[2023.10.07-00.41.18:961][934]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2023.10.07-00.41.19:069][934]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.10.07-00.41.19:197][935]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.07-00.41.19:450][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.252876s)
+[2023.10.07-00.41.19:450][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.252947s)
+[2023.10.07-00.41.19:472][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.10.07-00.41.19:535][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.07-00.41.19:688][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.07-00.41.19:723][935]LogAIModule: Creating AISystem for world Level1
+[2023.10.07-00.41.19:767][935]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.07-00.41.19:767][935]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.07-00.41.19:767][935]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.07-00.41.19:768][935]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.07-00.41.19:768][935]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2023.10.07-00.41.19:903][935]LogWorldPartition: Display: WorldPartition initialize took 135 ms (total: 1.35 sec)
+[2023.10.07-00.41.19:903][935]LogPlayLevel: PIE: World Init took: (0.425342s)
+[2023.10.07-00.41.19:954][935]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.10.07-00.41.19:986][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.07-00.41.19:986][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.07-00.41.19:986][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.07-00.41.19:996][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.07-00.41.19:996][935]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.07-00.41.19:996][935]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.07-00.41.19:996][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.07-00.41.19:996][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.07-00.41.20:036][935]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.07-00.41.20:036][935]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.07-00.41.20:036][935]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.07-00.41.20:039][935]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.07-00.41.20:133][935]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TOZO-T6 Stereo)
+[2023.10.07-00.41.20:214][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.07-00.41.20:214][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.07-00.41.20:215][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.07-00.41.20:296][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.10.07-00.41.20:296][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.10.07-00.41.20:298][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.10.07-00.41.20:298][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.10.07-00.41.20:312][935]LogInit: FAudioDevice initialized with ID 20.
+[2023.10.07-00.41.20:312][935]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level1'.
+[2023.10.07-00.41.20:312][935]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.10.07-00.41.20:501][935]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.07-00.41.20:509][935]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.10.06-19.41.20
+[2023.10.07-00.41.20:530][935]LogWorld: Bringing up level for play took: 0.028051
+[2023.10.07-00.41.20:916][935]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.10.07-00.41.20:925][935]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=3366.390 Y=-101.000 Z=430.150,P=0.000000 Y=49.423331 R=-0.000000
+[2023.10.07-00.41.21:337][935]PIE: Server logged in
+[2023.10.07-00.41.21:338][935]PIE: Play in editor total start time 3.116 seconds.
+[2023.10.07-00.41.21:801][935]LogAutomationController: Ignoring very large delta of 2.67 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.07-00.41.24:997][ 51]LogBlueprintUserMessages: [BP_InteractionActor_C_UAID_00D861AA8170D7AF01_1710937807] We hit our interaction actor!
+[2023.10.07-00.41.27:087][159]LogBlueprintUserMessages: [BP_InteractionActor_C_UAID_00D861AA8170D7AF01_1710937807] We hit our interaction actor!
+[2023.10.07-00.41.27:476][181]LogBlueprintUserMessages: [BP_InteractionActor_C_UAID_00D861AA8170D7AF01_1710937807] We hit our interaction actor!
+[2023.10.07-00.41.27:705][194]LogBlueprintUserMessages: [BP_InteractionActor_C_UAID_00D861AA8170D7AF01_1710937807] We hit our interaction actor!
+[2023.10.07-00.41.30:966][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.07-00.41.30:967][372]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.07-00.41.31:056][372]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.07-00.41.31:069][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.07-00.41.31:078][372]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2023.10.07-00.41.31:157][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.07-00.41.31:164][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.07-00.41.31:285][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.07-00.41.31:286][372]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.10.07-00.41.31:313][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.10.07-00.41.31:315][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.10.07-00.41.31:412][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.10.07-00.41.31:552][373]LogPlayLevel: Display: Destroying online subsystem :Context_54

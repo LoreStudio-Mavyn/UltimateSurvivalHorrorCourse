@@ -1,0 +1,109 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/Level1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:08410524420DFFEABB5D10BFBE4321DC BaseClass: NativeClass:/Script/Engine.SphereReflectionCapture Name:SphereReflectionCapture_UAID_00D861AA8170B3AF01_1303376467 Label:SphereReflectionCapture SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1960.000 Y=-3220.000 Z=-2690.000), Max=(X=4040.000 Y=2780.000 Z=3310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:158F83E448B47330E272FF8DC9117555 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_00D861AA8170B3AF01_1256431466 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2620.000 Y=-220.000 Z=1660.000), Max=(X=2620.000 Y=-220.000 Z=1660.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1C19E6644182E97B40013CA01F92214C BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_00D861AA8170B3AF01_1243297465 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2840.000 Y=-320.000 Z=710.000), Max=(X=2840.000 Y=-320.000 Z=710.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2AAAED604550D35C24AB09856A58067D BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_00D861AA8170B3AF01_1825479469 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9BE83863441FD4B98F0DF8B89F7597E4 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:C61BEC2B4C72F19793DB56993E07488D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00D861AA8170B3AF01_1344228468 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2815.000 Y=-4725.000 Z=280.000), Max=(X=6135.000 Y=4225.000 Z=280.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E152F2274C95E42B409B8ABE7C955DC2 BaseClass:/Game/GameBP/Level1/L1_Character.L1_Character_C NativeClass:/Script/Engine.Character Name:L1_Character_C_UAID_00D861AA8170BDAF01_1197307230 Label:L1_Character SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=926.000 Y=456.000 Z=1500.000), Max=(X=994.000 Y=524.000 Z=1676.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F4A9DD51421BDE73BDDB02B3124D270A BaseClass:/Game/Blueprints/Actors/BP_InteractionActor.BP_InteractionActor_C NativeClass:/Script/Engine.Actor Name:BP_InteractionActor_C_UAID_00D861AA8170D7AF01_1710937807 Label:BP_InteractionActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3440.000 Y=30.000 Z=270.000), Max=(X=3540.000 Y=130.000 Z=370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F5D0FCEE4F24B77C21A7069FC9822A7C BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_00D861AA8170B3AF01_1232846464 Label:PostProcessVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3830.000 Y=-4980.000 Z=-4410.000), Max=(X=6070.000 Y=4920.000 Z=5490.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:08410524420DFFEABB5D10BFBE4321DC BaseClass: NativeClass:/Script/Engine.SphereReflectionCapture Name:SphereReflectionCapture_UAID_00D861AA8170B3AF01_1303376467 Label:SphereReflectionCapture SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1960.000 Y=-3220.000 Z=-2690.000), Max=(X=4040.000 Y=2780.000 Z=3310.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:158F83E448B47330E272FF8DC9117555 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_00D861AA8170B3AF01_1256431466 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2620.000 Y=-220.000 Z=1660.000), Max=(X=2620.000 Y=-220.000 Z=1660.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:1C19E6644182E97B40013CA01F92214C BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_00D861AA8170B3AF01_1243297465 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2840.000 Y=-320.000 Z=710.000), Max=(X=2840.000 Y=-320.000 Z=710.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:2AAAED604550D35C24AB09856A58067D BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_00D861AA8170B3AF01_1825479469 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:9BE83863441FD4B98F0DF8B89F7597E4 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:C61BEC2B4C72F19793DB56993E07488D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00D861AA8170B3AF01_1344228468 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2815.000 Y=-4725.000 Z=280.000), Max=(X=6135.000 Y=4225.000 Z=280.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:E152F2274C95E42B409B8ABE7C955DC2 BaseClass:/Game/GameBP/Level1/L1_Character.L1_Character_C NativeClass:/Script/Engine.Character Name:L1_Character_C_UAID_00D861AA8170BDAF01_1197307230 Label:L1_Character SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=926.000 Y=456.000 Z=1500.000), Max=(X=994.000 Y=524.000 Z=1676.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:F4A9DD51421BDE73BDDB02B3124D270A BaseClass:/Game/Blueprints/Actors/BP_InteractionActor.BP_InteractionActor_C NativeClass:/Script/Engine.Actor Name:BP_InteractionActor_C_UAID_00D861AA8170D7AF01_1710937807 Label:BP_InteractionActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3440.000 Y=30.000 Z=270.000), Max=(X=3540.000 Y=130.000 Z=370.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:F5D0FCEE4F24B77C21A7069FC9822A7C BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_00D861AA8170B3AF01_1232846464 Label:PostProcessVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3830.000 Y=-4980.000 Z=-4410.000), Max=(X=6070.000 Y=4920.000 Z=5490.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-3830.000 Y=-4980.000 Z=-4410.000), Max=(X=6135.000 Y=4920.000 Z=5490.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/Level1
+----------------------------------------------------------------------------------------------------------------
+Level1 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Level1 Persistent Level
+ |- Always loaded Actor Count: 15 
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Maps/Level1
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.BP_InteractionActor_C_UAID_00D861AA8170D7AF01_1710937807
+ |- Actor Package: /Game/__ExternalActors__/Maps/Level1/D/E9/1FZ8Q5H6NZJR0TPI0J9N1U
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Maps/Level1
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Maps/Level1
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.DirectionalLight_UAID_00D861AA8170B3AF01_1825479469
+ |- Actor Package: /Game/__ExternalActors__/Maps/Level1/5/6T/S8GAGG8UTYCLO1NZ44RO4L
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Maps/Level1
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.L1_Character_C_UAID_00D861AA8170BDAF01_1197307230
+ |- Actor Package: /Game/__ExternalActors__/Maps/Level1/A/DZ/9I0OB1F25SCCQ6Q8VRM8T9
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.PostProcessVolume_UAID_00D861AA8170B3AF01_1232846464
+ |- Actor Package: /Game/__ExternalActors__/Maps/Level1/C/X0/VNVQ9LDLTSEVHSHEFIE3RW
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.SkyAtmosphere_UAID_00D861AA8170B3AF01_1243297465
+ |- Actor Package: /Game/__ExternalActors__/Maps/Level1/5/MZ/MMHJI1FAXW8FSQDQEGHUUQ
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.SkyLight_UAID_00D861AA8170B3AF01_1256431466
+ |- Actor Package: /Game/__ExternalActors__/Maps/Level1/3/SV/QKTGXHNM3IFJBLTZQRC1T7
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.SphereReflectionCapture_UAID_00D861AA8170B3AF01_1303376467
+ |- Actor Package: /Game/__ExternalActors__/Maps/Level1/0/GZ/M2K05CIQ63ZO9C11Q75JGF
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_00D861AA8170B3AF01_1344228468
+ |- Actor Package: /Game/__ExternalActors__/Maps/Level1/3/ZK/SP4KI0XWUPAPD27LZAOV5P
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Maps/Level1/0/9O/P8YJLOOO50A4WZYB2UA92W
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.WorldPartitionMiniMap_UAID_00D861AA8170B2AF01_2089882287
+ |- Actor Package: /Game/__ExternalActors__/Maps/Level1/9/9S/YI7SLTG4RRAE1BA23ROH3K
+ |- Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Maps/Level1
+
+----------------------------------------------------------------------------------------------------------------
+Level1 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-3830.000 Y=-4980.000 Z=-4410.000), Max=(X=6135.000 Y=4920.000 Z=5490.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    5 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell Level1_MainGrid_L0_X0_Y0 (97THMDWK0P01IZDDU63RIXQN5)
+ |   |- Actor Count: 5
+ |   |-          Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.SphereReflectionCapture_UAID_00D861AA8170B3AF01_1303376467
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Level1/0/GZ/M2K05CIQ63ZO9C11Q75JGF
+ |   |- Actor Instance Guid: 08410524420DFFEABB5D10BFBE4321DC
+ |   |-          Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_00D861AA8170B3AF01_1344228468
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Level1/3/ZK/SP4KI0XWUPAPD27LZAOV5P
+ |   |- Actor Instance Guid: C61BEC2B4C72F19793DB56993E07488D
+ |   |-          Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.L1_Character_C_UAID_00D861AA8170BDAF01_1197307230
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Level1/A/DZ/9I0OB1F25SCCQ6Q8VRM8T9
+ |   |- Actor Instance Guid: E152F2274C95E42B409B8ABE7C955DC2
+ |   |-          Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.BP_InteractionActor_C_UAID_00D861AA8170D7AF01_1710937807
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Level1/D/E9/1FZ8Q5H6NZJR0TPI0J9N1U
+ |   |- Actor Instance Guid: F4A9DD51421BDE73BDDB02B3124D270A
+ |   |-          Actor Path: /Game/Maps/Level1.Level1:PersistentLevel.PostProcessVolume_UAID_00D861AA8170B3AF01_1232846464
+ |   |-       Actor Package: /Game/__ExternalActors__/Maps/Level1/C/X0/VNVQ9LDLTSEVHSHEFIE3RW
+ |   |- Actor Instance Guid: F5D0FCEE4F24B77C21A7069FC9822A7C
+[+] Content of Grid Level 1
+
