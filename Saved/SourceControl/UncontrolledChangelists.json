@@ -27,14 +27,20 @@
 				"D:/Courses/UltSurvivalHorror/Content/GameBP/HG_PlayerController.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/A/DZ/9I0OB1F25SCCQ6Q8VRM8T9.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Interfaces/BPI_Interaction.uasset",
-				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/BP_InteractionActor.uasset",
-				"D:/Courses/UltSurvivalHorror/Content/Crosshair.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/Textures/Crosshair.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/UMG/W_MainHUD.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/UMG/W_Crosshair.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/StarterContent/Props/SM_Door.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/BP_Interaction.uasset",
-				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/BP_InteractionActor_Door.uasset"
+				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/BP_InteractionActor_Door.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/BP_Interaction_Outwards.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/Interaction/BP_Interaction.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/Interaction/BP_Interaction_Outwards.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/Interaction/BP_InteractionActor_Door.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/0/4M/LB5LPBYF7LVBKNH40LVPQJ.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/__ExternalActors__/Maps/Level1/5/VE/49O57EI3BZOZ46MKH5SW11.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/BP_InteractionActor.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/Crosshair.uasset"
 			]
 		}
 	]
