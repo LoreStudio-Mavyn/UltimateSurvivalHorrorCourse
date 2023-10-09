@@ -30,8 +30,11 @@
 				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/BP_InteractionActor.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/Crosshair.uasset",
 				"D:/Courses/UltSurvivalHorror/Content/Textures/Crosshair.uasset",
-				"D:/Courses/UltSurvivalHorror/Content/UMG/W_MainHud.uasset",
-				"D:/Courses/UltSurvivalHorror/Content/UMG/W_Crosshair.uasset"
+				"D:/Courses/UltSurvivalHorror/Content/UMG/W_MainHUD.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/UMG/W_Crosshair.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/StarterContent/Props/SM_Door.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/BP_Interaction.uasset",
+				"D:/Courses/UltSurvivalHorror/Content/Blueprints/Actors/BP_InteractionActor_Door.uasset"
 			]
 		}
 	]
