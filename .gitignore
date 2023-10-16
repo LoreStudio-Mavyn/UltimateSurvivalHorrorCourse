@@ -3,6 +3,14 @@ DerivedDataCache
 Intermediate
 Saved
 Build
+Content/*
+
+!Content/Blueprints
+!Content/Developers
+!Content/GameBP
+!Content/Maps
+!Content/Materials
+!Content/Textures
 
 /.idea/
 .vscode
