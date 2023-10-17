@@ -3179,3 +3179,116 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.17-18.32.43:489][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
 [2023.10.17-18.32.43:500][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
 [2023.10.17-18.32.43:660][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.10.17-18.33.13:636][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.10.17-18.33.13:642][212]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.032
+[2023.10.17-18.33.13:643][212]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Movement] ([2] browsable assets)...
+[2023.10.17-18.33.13:643][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Movement]
+[2023.10.17-18.33.13:692][212]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Movement_Auto9
+[2023.10.17-18.33.13:692][212]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BPC_Movement_Auto9F2683463427E284E96AC85A06464EF03.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Movement_Auto9.uasset'
+[2023.10.17-18.33.13:694][212]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CameraShakes/CS_Headbob_Run] ([2] browsable assets)...
+[2023.10.17-18.33.13:694][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CameraShakes/CS_Headbob_Run]
+[2023.10.17-18.33.13:697][212]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/CameraShakes/CS_Headbob_Run_Auto9
+[2023.10.17-18.33.13:697][212]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CS_Headbob_Run_Auto959E9BB484B73183B8F0F19B5D59BC45A.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/CameraShakes/CS_Headbob_Run_Auto9.uasset'
+[2023.10.17-18.33.13:698][212]LogFileHelpers: Auto-saving content packages took 0.056
+[2023.10.17-18.33.36:780][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.17-18.33.36:789][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.17-18.33.36:860][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BlueprintComponents/BPC_Movement" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset" SILENT=true
+[2023.10.17-18.33.36:901][496]LogSavePackage: Moving output files for package: /Game/Blueprints/BlueprintComponents/BPC_Movement
+[2023.10.17-18.33.36:902][496]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BPC_MovementCE2185054AC3A4F4F854ADAE3545F8DA.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/BlueprintComponents/BPC_Movement.uasset'
+[2023.10.17-18.33.36:904][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraShakes/CS_Headbob_Run" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_Headbob_Run.uasset" SILENT=true
+[2023.10.17-18.33.36:907][496]LogSavePackage: Moving output files for package: /Game/Blueprints/CameraShakes/CS_Headbob_Run
+[2023.10.17-18.33.36:908][496]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CS_Headbob_Run2C5ADB064C2320CBB704D19604506BA1.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_Headbob_Run.uasset'
+[2023.10.17-18.33.36:939][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 3.17 sec)
+[2023.10.17-18.33.36:963][496]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.17-18.33.36:963][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BlueprintComponents/BPC_Movement.BPC_Movement
+[2023.10.17-18.33.36:963][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CameraShakes/CS_Headbob_Run.CS_Headbob_Run
+[2023.10.17-18.35.33:162][523]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.17-18.35.33:193][523]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.17-18.35.33:215][524]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.17-18.35.34:640][605]LogContentBrowser: Attempting asset rename: NewFolder -> Fonts
+[2023.10.17-18.35.34:640][605]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.17-18.35.54:241][ 37]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\Fonts\CALIBRI.TTF)
+[2023.10.17-18.35.55:691][ 37]LogSlate: Window 'Font Face Import Options' being destroyed
+[2023.10.17-18.35.55:702][ 37]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2023.10.17-18.35.55:703][ 37]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2023.10.17-18.35.55:751][ 37]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\Fonts\CALIBRIL.TTF)
+[2023.10.17-18.35.55:884][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.35.55:911][ 37]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.17-18.36.09:679][ 37]LogSlate: Window 'Font Face Import Options' being destroyed
+[2023.10.17-18.36.09:688][ 37]Message dialog closed, result: No, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2023.10.17-18.36.09:690][ 37]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2023.10.17-18.36.09:711][ 37]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\Fonts\CALIBRIB.TTF)
+[2023.10.17-18.36.09:835][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.36.09:838][ 37]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.17-18.36.11:563][ 37]LogSlate: Window 'Font Face Import Options' being destroyed
+[2023.10.17-18.36.11:573][ 37]Message dialog closed, result: No, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2023.10.17-18.36.11:574][ 37]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2023.10.17-18.36.11:579][ 37]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\Fonts\CALIBRIZ.TTF)
+[2023.10.17-18.36.11:702][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.36.11:709][ 37]LogSlate: Took 0.000552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.17-18.36.12:185][ 37]LogSlate: Window 'Font Face Import Options' being destroyed
+[2023.10.17-18.36.12:195][ 37]Message dialog closed, result: No, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2023.10.17-18.36.12:195][ 37]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2023.10.17-18.36.12:216][ 37]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\Fonts\CALIBRII.TTF)
+[2023.10.17-18.36.12:338][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.36.12:342][ 37]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.17-18.36.12:804][ 37]LogSlate: Window 'Font Face Import Options' being destroyed
+[2023.10.17-18.36.12:814][ 37]Message dialog closed, result: No, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2023.10.17-18.36.12:815][ 37]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2023.10.17-18.36.12:824][ 37]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\WINDOWS\Fonts\CALIBRILI.TTF)
+[2023.10.17-18.36.12:951][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.36.12:955][ 37]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.17-18.36.13:381][ 37]LogSlate: Window 'Font Face Import Options' being destroyed
+[2023.10.17-18.36.13:392][ 37]Message dialog closed, result: No, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2023.10.17-18.36.13:393][ 37]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2023.10.17-18.36.13:468][ 37]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.10.17-18.36.13:472][ 37]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.10.17-18.36.13:485][ 37]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.17-18.36.13:509][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.36.13:520][ 38]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.17-18.36.13:527][ 38]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.10.17-18.36.13:531][ 38]LogSlate: Took 0.000495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.10.17-18.36.13:548][ 38]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.17-18.36.29:184][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.17-18.36.29:264][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/CALIBRILI" FILE="../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRILI.uasset" SILENT=true
+[2023.10.17-18.36.29:267][823]LogSavePackage: Moving output files for package: /Game/Fonts/CALIBRILI
+[2023.10.17-18.36.29:267][823]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CALIBRILI5D5C355C4DB78DE61602A7B14E1AD054.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRILI.uasset'
+[2023.10.17-18.36.29:269][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/CALIBRII" FILE="../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRII.uasset" SILENT=true
+[2023.10.17-18.36.29:272][823]LogSavePackage: Moving output files for package: /Game/Fonts/CALIBRII
+[2023.10.17-18.36.29:272][823]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CALIBRII05264B6C471070D294CE3586D843D346.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRII.uasset'
+[2023.10.17-18.36.29:274][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/CALIBRIZ" FILE="../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRIZ.uasset" SILENT=true
+[2023.10.17-18.36.29:277][823]LogSavePackage: Moving output files for package: /Game/Fonts/CALIBRIZ
+[2023.10.17-18.36.29:277][823]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CALIBRIZ783A2B434A6C9958D8C123BE28B4D56C.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRIZ.uasset'
+[2023.10.17-18.36.29:279][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/CALIBRIB" FILE="../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRIB.uasset" SILENT=true
+[2023.10.17-18.36.29:281][823]LogSavePackage: Moving output files for package: /Game/Fonts/CALIBRIB
+[2023.10.17-18.36.29:281][823]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CALIBRIB9B28CD364B21077BA2B23F88C59F2C64.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRIB.uasset'
+[2023.10.17-18.36.29:283][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/CALIBRIL" FILE="../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRIL.uasset" SILENT=true
+[2023.10.17-18.36.29:286][823]LogSavePackage: Moving output files for package: /Game/Fonts/CALIBRIL
+[2023.10.17-18.36.29:286][823]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CALIBRIL8F54C1314A2F2C3754B76E823C96FFE8.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRIL.uasset'
+[2023.10.17-18.36.29:293][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/CALIBRI_Font" FILE="../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRI_Font.uasset" SILENT=true
+[2023.10.17-18.36.29:295][823]LogSavePackage: Moving output files for package: /Game/Fonts/CALIBRI_Font
+[2023.10.17-18.36.29:295][823]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CALIBRI_Font239AA01C4F01F455E6A672BC161D77B7.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRI_Font.uasset'
+[2023.10.17-18.36.29:297][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/CALIBRI" FILE="../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRI.uasset" SILENT=true
+[2023.10.17-18.36.29:299][823]LogSavePackage: Moving output files for package: /Game/Fonts/CALIBRI
+[2023.10.17-18.36.29:300][823]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CALIBRI086D23254ECA63DCA69181B5DE8A1300.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Fonts/CALIBRI.uasset'
+[2023.10.17-18.36.29:318][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 3.30 sec)
+[2023.10.17-18.36.29:319][823]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.17-18.36.29:319][823]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/Fonts/CALIBRILI.CALIBRILI
+[2023.10.17-18.36.29:320][823]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/Fonts/CALIBRII.CALIBRII
+[2023.10.17-18.36.29:320][823]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/Fonts/CALIBRIZ.CALIBRIZ
+[2023.10.17-18.36.29:320][823]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/Fonts/CALIBRIB.CALIBRIB
+[2023.10.17-18.36.29:320][823]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/Fonts/CALIBRIL.CALIBRIL
+[2023.10.17-18.36.29:320][823]LogContentValidation: Display: Validating /Script/Engine.Font /Game/Fonts/CALIBRI_Font.CALIBRI_Font
+[2023.10.17-18.36.29:320][823]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/Fonts/CALIBRI.CALIBRI
+[2023.10.17-18.36.39:871][367]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/Fonts/CALIBRI_Font.CALIBRI_Font
+[2023.10.17-18.36.40:276][367]LogSlate: Took 0.023200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.17-18.36.40:299][367]LogViewport: Scene viewport resized to 1240x83, mode Windowed.
+[2023.10.17-18.36.55:957][ 32]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.17-18.38.53:565][854]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/W_MainHUD.W_MainHUD
+[2023.10.17-18.38.53:578][854]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.17-18.38.53:578][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.38.53:615][854]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.17-18.38.53:615][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.38.53:673][854]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.10.17-18.38.54:927][854]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.17-18.38.54:969][854]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
