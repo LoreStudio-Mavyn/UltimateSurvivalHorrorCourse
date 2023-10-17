@@ -2642,3 +2642,540 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.17-17.36.01:293][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2023.10.17-17.36.01:411][688]LogPlayLevel: Display: Destroying online subsystem :Context_18
 [2023.10.17-17.36.05:004][845]LogSlate: Window 'Outliner' being destroyed
+[2023.10.17-17.38.36:063][954]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.17-17.38.36:075][954]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.17-17.38.36:075][954]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2023.10.17-17.38.36:077][954]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2 ms (total: 35 ms)
+[2023.10.17-17.38.36:077][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.17-17.38.36:078][954]PIE: New page: PIE session: Level1 (Oct 17, 2023, 7:38:36 AM)
+[2023.10.17-17.38.36:078][954]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.17-17.38.36:082][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003757s)
+[2023.10.17-17.38.36:082][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003801s)
+[2023.10.17-17.38.36:110][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.10.17-17.38.36:114][954]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.17-17.38.36:114][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.38.36:115][954]LogAIModule: Creating AISystem for world Level1
+[2023.10.17-17.38.36:115][954]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.17-17.38.36:115][954]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.17-17.38.36:115][954]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.17-17.38.36:115][954]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.17-17.38.36:116][954]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2023.10.17-17.38.36:116][954]LogWorldPartition: Display: WorldPartition initialize took 706 us (total: 1.96 sec)
+[2023.10.17-17.38.36:116][954]LogPlayLevel: PIE: World Init took: (0.002036s)
+[2023.10.17-17.38.36:116][954]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.10.17-17.38.36:116][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.17-17.38.36:116][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.17-17.38.36:116][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.17-17.38.36:116][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.17-17.38.36:116][954]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.17-17.38.36:116][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.17-17.38.36:116][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.17-17.38.36:116][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.17-17.38.36:117][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.17-17.38.36:117][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.17-17.38.36:117][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.17-17.38.36:120][954]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.17-17.38.36:136][954]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TOZO-T6 Stereo)
+[2023.10.17-17.38.36:137][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.17-17.38.36:137][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.17-17.38.36:137][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.17-17.38.36:138][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.10.17-17.38.36:138][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.10.17-17.38.36:140][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.10.17-17.38.36:140][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.10.17-17.38.36:140][954]LogInit: FAudioDevice initialized with ID 13.
+[2023.10.17-17.38.36:140][954]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2023.10.17-17.38.36:140][954]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.17-17.38.36:145][954]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.17-17.38.36:145][954]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.10.17-12.38.36
+[2023.10.17-17.38.36:146][954]LogWorld: Bringing up level for play took: 0.000794
+[2023.10.17-17.38.36:149][954]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.10.17-17.38.36:151][954]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.10.17-17.38.36:151][954]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=1868.635 Y=9.084 Z=572.192,P=-0.000000 Y=-120.149508 R=0.000000
+[2023.10.17-17.38.36:152][954]LogStreaming: Display: FlushAsyncLoading(): 17 QueuedPackages, 0 AsyncPackages
+[2023.10.17-17.38.36:186][954]PIE: Server logged in
+[2023.10.17-17.38.36:187][954]PIE: Play in editor total start time 0.113 seconds.
+[2023.10.17-17.38.40:846][237]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.17-17.38.40:949][243]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.17-17.38.41:047][249]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.17-17.38.41:151][256]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.17-17.38.41:256][263]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.17-17.38.41:365][269]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.17-17.38.41:448][275]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.17-17.38.41:547][282]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.17-17.38.41:643][288]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.17-17.38.41:748][295]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.17-17.38.41:845][301]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.17-17.38.41:953][308]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.17-17.38.42:047][315]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.17-17.38.42:148][323]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.17-17.38.42:242][330]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.17-17.38.42:362][338]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.17-17.38.42:446][345]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.17-17.38.42:551][353]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.10.17-17.38.42:644][360]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.10.17-17.38.47:713][697]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.10.17-17.38.47:748][699]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.17-17.38.47:786][701]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.17-17.38.47:817][703]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.17-17.38.47:845][704]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.17-17.38.47:871][706]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.17-17.38.47:894][708]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.17-17.38.47:931][711]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.17-17.38.47:964][713]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.17-17.38.47:986][715]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.17-17.38.48:012][716]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.17-17.38.48:048][719]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.17-17.38.48:070][721]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.17-17.38.48:100][723]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.17-17.38.48:134][725]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.17-17.38.48:162][727]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.17-17.38.48:190][729]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.17-17.38.48:228][731]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.17-17.38.48:259][733]LogBlueprintUserMessages: [BPC_Movement] 100.0
+[2023.10.17-17.38.55:025][193]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.17-17.38.55:134][201]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.17-17.38.56:180][271]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.17-17.38.56:281][278]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.17-17.38.56:394][285]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.17-17.38.56:487][291]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.17-17.38.56:588][298]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.17-17.38.56:686][305]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.17-17.38.56:791][312]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.17-17.38.56:878][318]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.17-17.38.56:985][326]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.17-17.38.57:089][333]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.17-17.38.57:182][339]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.17-17.38.57:280][346]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.17-17.38.57:384][353]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.17-17.38.57:492][361]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.17-17.39.00:230][549]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.17-17.39.00:258][551]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.17-17.39.00:292][553]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.17-17.39.00:316][555]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.17-17.39.00:345][557]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.17-17.39.00:377][559]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.17-17.39.00:416][562]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.17-17.39.00:441][564]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.17-17.39.00:481][566]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.17-17.39.00:510][568]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.17-17.39.00:531][569]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.17-17.39.00:571][571]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.17-17.39.00:584][572]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.17-17.39.00:624][575]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.17-17.39.00:661][577]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.17-17.39.00:681][578]LogBlueprintUserMessages: [BPC_Movement] 100.0
+[2023.10.17-17.39.03:749][790]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.17-17.39.03:832][796]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.17-17.39.03:934][803]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.17-17.39.04:041][810]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.17-17.39.04:140][817]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.17-17.39.05:517][914]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.17-17.39.07:382][ 36]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.17-17.39.08:824][133]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.17-17.39.08:926][140]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.17-17.39.09:016][146]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.17-17.39.09:131][153]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.17-17.39.09:217][159]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.17-17.39.09:333][166]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.17-17.39.09:420][172]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.17-17.39.09:520][178]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.17-17.39.09:628][184]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.17-17.39.14:628][529]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.17-17.39.14:725][536]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.10.17-17.39.14:826][543]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.10.17-17.39.17:397][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-17.39.17:397][712]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.17-17.39.17:398][712]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.39.17:398][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.39.17:399][712]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2023.10.17-17.39.17:403][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.17-17.39.17:410][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.39.17:434][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-17.39.17:434][712]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.17-17.39.17:434][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.17-17.39.17:436][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.17-17.39.17:445][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.17-17.39.17:579][713]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.10.17-17.40.27:300][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.17-17.40.27:304][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.030
+[2023.10.17-17.40.27:305][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameBP/Level1/L1_Character] ([2] browsable assets)...
+[2023.10.17-17.40.27:305][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameBP/Level1/L1_Character]
+[2023.10.17-17.40.27:305][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/GameBP/Level1/L1_Character_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.10.17-17.40.27:344][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameBP/Level1/L1_Character_Auto7
+[2023.10.17-17.40.27:344][ 98]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_Character_Auto798F89BE844259F9B2265BFA701AD4341.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/GameBP/Level1/L1_Character_Auto7.uasset'
+[2023.10.17-17.40.27:346][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Movement] ([2] browsable assets)...
+[2023.10.17-17.40.27:346][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Movement]
+[2023.10.17-17.40.27:381][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Movement_Auto7
+[2023.10.17-17.40.27:382][ 98]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BPC_Movement_Auto76B4462864CAF46B88A5874893BA22C70.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Movement_Auto7.uasset'
+[2023.10.17-17.40.27:384][ 98]LogFileHelpers: Auto-saving content packages took 0.080
+[2023.10.17-17.53.58:340][887]LogSlate: Took 0.009445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.17-17.54.26:224][404]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.17-17.54.26:256][404]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.17-17.54.26:301][405]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.17-17.54.29:335][516]LogContentBrowser: Attempting asset rename: NewFolder -> CameraShakes
+[2023.10.17-17.54.29:336][516]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.17-17.55.26:954][736]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.17-17.55.26:967][736]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.17-17.55.26:985][736]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.17-17.55.27:038][738]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.17-17.55.30:820][795]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.10.17-17.55.30:830][795]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.17-17.55.40:677][ 88]LogContentBrowser: Attempting asset rename: NewBlueprint -> CS_HeadbobWalk
+[2023.10.17-17.55.41:842][ 88]LogMetaData: Removing '/Game/Blueprints/CameraShakes/CS_HeadbobWalk.SKEL_CS_HeadbobWalk_C' ref from Metadata '/Game/Blueprints/CameraShakes/NewBlueprint.PackageMetaData'
+[2023.10.17-17.55.41:842][ 88]LogMetaData: Removing '/Game/Blueprints/CameraShakes/CS_HeadbobWalk.CS_HeadbobWalk_C' ref from Metadata '/Game/Blueprints/CameraShakes/NewBlueprint.PackageMetaData'
+[2023.10.17-17.55.41:931][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.17-17.55.42:010][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraShakes/CS_HeadbobWalk" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_HeadbobWalk.uasset" SILENT=true
+[2023.10.17-17.55.42:014][ 88]LogSavePackage: Moving output files for package: /Game/Blueprints/CameraShakes/CS_HeadbobWalk
+[2023.10.17-17.55.42:014][ 88]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CS_HeadbobWalkC2D8485A44D61C857726D395BBB02802.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_HeadbobWalk.uasset'
+[2023.10.17-17.55.42:032][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 2.26 sec)
+[2023.10.17-17.55.42:096][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.10.17-17.55.42:124][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.17-17.55.42:149][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.10.17-17.55.42:153][ 88]AssetCheck: New page: Asset Save: CS_HeadbobWalk
+[2023.10.17-17.55.42:153][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CameraShakes/CS_HeadbobWalk.CS_HeadbobWalk
+[2023.10.17-17.55.43:639][129]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CameraShakes/CS_HeadbobWalk.CS_HeadbobWalk
+[2023.10.17-17.55.43:640][129]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.17-17.55.43:640][129]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.56.07:629][452]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.56.07:629][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.56.11:837][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.10.17-17.56.12:965][611]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.17-17.56.13:049][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.10.17-17.56.13:074][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.10.17-17.56.13:097][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.17-17.56.21:032][933]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.10.17-17.56.58:186][ 46]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.17-17.56.58:198][ 46]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.17-17.56.58:211][ 46]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.17-17.56.58:251][ 48]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.17-17.57.08:067][652]LogContentBrowser: Attempting asset rename: NewBlueprint -> CS_Headbob_Walk
+[2023.10.17-17.57.08:078][652]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.17-17.57.08:985][695]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CameraShakes/CS_Headbob_Walk.CS_Headbob_Walk
+[2023.10.17-17.57.08:986][695]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.17-17.57.08:986][695]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.57.42:903][193]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.57.42:903][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.57.46:704][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.10.17-17.57.47:609][336]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.17-17.57.47:674][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.10.17-17.57.47:701][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.17-17.57.47:734][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.17-17.58.03:111][595]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.17-17.58.03:122][595]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.17-17.58.03:135][595]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.17-17.58.03:171][597]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.17-17.58.19:282][134]LogContentBrowser: Attempting asset rename: NewBlueprint -> CS_H
+[2023.10.17-17.58.19:291][134]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.17-17.58.25:596][488]LogContentBrowser: Attempting asset rename: CS_H -> CS_Headbob_Walk
+[2023.10.17-17.58.25:644][488]LogMetaData: Removing '/Game/Blueprints/CameraShakes/CS_Headbob_Walk.SKEL_CS_Headbob_Walk_C' ref from Metadata '/Game/Blueprints/CameraShakes/CS_H.PackageMetaData'
+[2023.10.17-17.58.25:644][488]LogMetaData: Removing '/Game/Blueprints/CameraShakes/CS_Headbob_Walk.CS_Headbob_Walk_C' ref from Metadata '/Game/Blueprints/CameraShakes/CS_H.PackageMetaData'
+[2023.10.17-17.58.25:648][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.17-17.58.25:716][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraShakes/CS_Headbob_Walk" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_Headbob_Walk.uasset" SILENT=true
+[2023.10.17-17.58.25:718][488]LogSavePackage: Moving output files for package: /Game/Blueprints/CameraShakes/CS_Headbob_Walk
+[2023.10.17-17.58.25:718][488]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CS_Headbob_WalkB3D791E94AAA0CD2EE518FABD7C76FB4.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_Headbob_Walk.uasset'
+[2023.10.17-17.58.25:739][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 2.35 sec)
+[2023.10.17-17.58.25:778][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.10.17-17.58.25:807][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.10.17-17.58.25:830][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.17-17.58.25:832][488]AssetCheck: New page: Asset Save: CS_Headbob_Walk
+[2023.10.17-17.58.25:832][488]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CameraShakes/CS_Headbob_Walk.CS_Headbob_Walk
+[2023.10.17-17.58.26:711][534]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CameraShakes/CS_Headbob_Walk.CS_Headbob_Walk
+[2023.10.17-17.58.26:711][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.17-17.58.26:711][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.59.38:120][954]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.59.38:120][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.59.42:280][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.10.17-17.59.43:160][115]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.17-17.59.43:213][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.10.17-17.59.43:237][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.10.17-17.59.43:261][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.10.17-18.00.17:857][178]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.17-18.00.17:870][178]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.17-18.00.17:881][178]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.17-18.00.17:914][180]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.17-18.00.24:506][231]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.10.17-18.00.24:514][231]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.17-18.00.44:947][ 82]LogContentBrowser: Attempting asset rename: NewBlueprint -> CS_HeadbobWalk
+[2023.10.17-18.00.44:994][ 82]LogMetaData: Removing '/Game/Blueprints/CameraShakes/CS_HeadbobWalk.SKEL_CS_HeadbobWalk_C' ref from Metadata '/Game/Blueprints/CameraShakes/NewBlueprint.PackageMetaData'
+[2023.10.17-18.00.44:994][ 82]LogMetaData: Removing '/Game/Blueprints/CameraShakes/CS_HeadbobWalk.CS_HeadbobWalk_C' ref from Metadata '/Game/Blueprints/CameraShakes/NewBlueprint.PackageMetaData'
+[2023.10.17-18.00.45:006][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.17-18.00.45:066][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraShakes/CS_HeadbobWalk" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_HeadbobWalk.uasset" SILENT=true
+[2023.10.17-18.00.45:069][ 82]LogSavePackage: Moving output files for package: /Game/Blueprints/CameraShakes/CS_HeadbobWalk
+[2023.10.17-18.00.45:069][ 82]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CS_HeadbobWalkDFBA22B741C8676779E552AD171DC172.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_HeadbobWalk.uasset'
+[2023.10.17-18.00.45:089][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 2.43 sec)
+[2023.10.17-18.00.45:125][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.10.17-18.00.45:149][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.10.17-18.00.45:172][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.10.17-18.00.45:227][ 82]AssetCheck: New page: Asset Save: CS_HeadbobWalk
+[2023.10.17-18.00.45:228][ 82]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CameraShakes/CS_HeadbobWalk.CS_HeadbobWalk
+[2023.10.17-18.00.51:682][439]LogContentBrowser: Attempting asset rename: CS_HeadbobWalk -> CS_Headbob_Walk
+[2023.10.17-18.00.51:735][439]LogMetaData: Removing '/Game/Blueprints/CameraShakes/CS_Headbob_Walk.CS_Headbob_Walk_C' ref from Metadata '/Game/Blueprints/CameraShakes/CS_HeadbobWalk.PackageMetaData'
+[2023.10.17-18.00.51:736][439]LogMetaData: Removing '/Game/Blueprints/CameraShakes/CS_Headbob_Walk.SKEL_CS_Headbob_Walk_C' ref from Metadata '/Game/Blueprints/CameraShakes/CS_HeadbobWalk.PackageMetaData'
+[2023.10.17-18.00.51:740][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.17-18.00.51:820][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraShakes/CS_Headbob_Walk" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_Headbob_Walk.uasset" SILENT=true
+[2023.10.17-18.00.51:822][439]LogSavePackage: Moving output files for package: /Game/Blueprints/CameraShakes/CS_Headbob_Walk
+[2023.10.17-18.00.51:822][439]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CS_Headbob_WalkC8BC46204A79FDE2894B4A9C5D62EB80.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_Headbob_Walk.uasset'
+[2023.10.17-18.00.51:847][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.54 sec)
+[2023.10.17-18.00.51:890][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.17-18.00.51:916][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.10.17-18.00.51:941][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.10.17-18.00.51:945][439]AssetCheck: New page: Asset Save: CS_Headbob_Walk
+[2023.10.17-18.00.51:945][439]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CameraShakes/CS_Headbob_Walk.CS_Headbob_Walk
+[2023.10.17-18.00.52:934][487]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CameraShakes/CS_Headbob_Walk.CS_Headbob_Walk
+[2023.10.17-18.00.52:934][487]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.17-18.00.52:935][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.02.17:975][265]BlueprintLog: New page: Compile CS_Headbob_Walk
+[2023.10.17-18.02.18:386][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.10.17-18.02.18:879][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.17-18.02.18:950][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraShakes/CS_Headbob_Walk" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_Headbob_Walk.uasset" SILENT=true
+[2023.10.17-18.02.18:953][283]LogSavePackage: Moving output files for package: /Game/Blueprints/CameraShakes/CS_Headbob_Walk
+[2023.10.17-18.02.18:954][283]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CS_Headbob_WalkEE0CF7EE41BCEFD21DC6998F4764F172.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_Headbob_Walk.uasset'
+[2023.10.17-18.02.18:969][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2.63 sec)
+[2023.10.17-18.02.18:984][283]AssetCheck: New page: Asset Save: CS_Headbob_Walk
+[2023.10.17-18.02.18:984][283]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CameraShakes/CS_Headbob_Walk.CS_Headbob_Walk
+[2023.10.17-18.02.43:490][253]LogContentBrowser: Deferred new asset file creation: CS_Headbob_Walk1
+[2023.10.17-18.02.43:516][253]LogContentBrowser: Creating deferred item: CS_Headbob_Walk1
+[2023.10.17-18.02.43:543][254]LogContentBrowser: Renaming the item being created (Deferred Item: CS_Headbob_Walk1).
+[2023.10.17-18.02.47:349][471]LogContentBrowser: Attempting asset rename: CS_Headbob_Walk1 -> CS_Headbob_Sprint
+[2023.10.17-18.02.47:395][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.10.17-18.02.47:407][471]LogContentBrowser: End creating deferred item CS_Headbob_Walk1
+[2023.10.17-18.02.55:133][712]LogContentBrowser: Attempting asset rename: CS_Headbob_Sprint -> CS_Headbob_Run
+[2023.10.17-18.02.55:187][712]LogMetaData: Removing '/Game/Blueprints/CameraShakes/CS_Headbob_Run.SKEL_CS_Headbob_Run_C' ref from Metadata '/Game/Blueprints/CameraShakes/CS_Headbob_Sprint.PackageMetaData'
+[2023.10.17-18.02.55:187][712]LogMetaData: Removing '/Game/Blueprints/CameraShakes/CS_Headbob_Run.CS_Headbob_Run_C' ref from Metadata '/Game/Blueprints/CameraShakes/CS_Headbob_Sprint.PackageMetaData'
+[2023.10.17-18.02.55:191][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.17-18.02.55:271][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraShakes/CS_Headbob_Run" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_Headbob_Run.uasset" SILENT=true
+[2023.10.17-18.02.55:274][712]LogSavePackage: Moving output files for package: /Game/Blueprints/CameraShakes/CS_Headbob_Run
+[2023.10.17-18.02.55:274][712]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CS_Headbob_Run03955BF64E5AE9F839C5A58ADF1727E9.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/CameraShakes/CS_Headbob_Run.uasset'
+[2023.10.17-18.02.55:299][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.73 sec)
+[2023.10.17-18.02.55:336][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.17-18.02.55:363][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.10.17-18.02.55:387][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.10.17-18.02.55:390][712]AssetCheck: New page: Asset Save: CS_Headbob_Run
+[2023.10.17-18.02.55:390][712]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CameraShakes/CS_Headbob_Run.CS_Headbob_Run
+[2023.10.17-18.02.56:235][746]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CameraShakes/CS_Headbob_Run.CS_Headbob_Run
+[2023.10.17-18.02.56:236][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.17-18.02.56:236][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.02.59:517][869]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.02.59:517][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.02.59:568][869]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CameraShakes/CS_Headbob_Run.CS_Headbob_Run
+[2023.10.17-18.02.59:568][869]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.17-18.02.59:569][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.03.41:859][331]BlueprintLog: New page: Compile CS_Headbob_Run
+[2023.10.17-18.03.41:892][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.10.17-18.05.27:632][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.17-18.05.27:635][ 52]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.031
+[2023.10.17-18.05.27:636][ 52]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameBP/Level1/L1_Character] ([2] browsable assets)...
+[2023.10.17-18.05.27:636][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameBP/Level1/L1_Character]
+[2023.10.17-18.05.27:636][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/GameBP/Level1/L1_Character_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2023.10.17-18.05.27:679][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameBP/Level1/L1_Character_Auto8
+[2023.10.17-18.05.27:681][ 52]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_Character_Auto8E202F52544E75D6A74ECF0BC2B693B0D.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/GameBP/Level1/L1_Character_Auto8.uasset'
+[2023.10.17-18.05.27:683][ 52]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Movement] ([2] browsable assets)...
+[2023.10.17-18.05.27:683][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Movement]
+[2023.10.17-18.05.27:723][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Movement_Auto8
+[2023.10.17-18.05.27:724][ 52]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BPC_Movement_Auto8357C650646E77643F91B358BD2C73881.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Movement_Auto8.uasset'
+[2023.10.17-18.05.27:727][ 52]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CameraShakes/CS_Headbob_Run] ([2] browsable assets)...
+[2023.10.17-18.05.27:727][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CameraShakes/CS_Headbob_Run]
+[2023.10.17-18.05.27:730][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/CameraShakes/CS_Headbob_Run_Auto8
+[2023.10.17-18.05.27:731][ 52]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CS_Headbob_Run_Auto809C874B349ED61CFD2EAF5B8C642C3E6.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/CameraShakes/CS_Headbob_Run_Auto8.uasset'
+[2023.10.17-18.05.27:733][ 52]LogFileHelpers: Auto-saving content packages took 0.095
+[2023.10.17-18.07.59:717][509]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.478 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7701 files in 9888 folders with total size 315 MiB.
+[2023.10.17-18.29.21:526][696]LogEditorTransaction: Undo Delete current selection
+[2023.10.17-18.30.43:856][303]BlueprintLog: New page: Compile L1_Character
+[2023.10.17-18.30.44:300][303]LogBlueprint: Error: [AssetLog] D:\Courses\UltSurvivalHorror\Content\GameBP\Level1\L1_Character.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2023.10.17-18.30.44:358][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.17-18.31.12:853][933]BlueprintLog: New page: Compile L1_Character
+[2023.10.17-18.31.12:932][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.10.17-18.31.13:955][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.17-18.31.14:026][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset" SILENT=true
+[2023.10.17-18.31.14:078][966]LogSavePackage: Moving output files for package: /Game/GameBP/Level1/L1_Character
+[2023.10.17-18.31.14:079][966]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_Character7D7129B246F6C8A4B98D10AD53C5077B.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset'
+[2023.10.17-18.31.14:094][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 2.87 sec)
+[2023.10.17-18.31.14:156][966]AssetCheck: New page: Asset Save: L1_Character
+[2023.10.17-18.31.14:156][966]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.17-18.31.58:978][147]BlueprintLog: New page: Compile L1_Character
+[2023.10.17-18.31.59:077][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.10.17-18.31.59:852][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.17-18.31.59:925][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset" SILENT=true
+[2023.10.17-18.31.59:979][161]LogSavePackage: Moving output files for package: /Game/GameBP/Level1/L1_Character
+[2023.10.17-18.31.59:980][161]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_Character130F93BB4D702D819DFAE29D7A283FEC.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/GameBP/Level1/L1_Character.uasset'
+[2023.10.17-18.31.59:998][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 3.02 sec)
+[2023.10.17-18.32.00:021][161]AssetCheck: New page: Asset Save: L1_Character
+[2023.10.17-18.32.00:021][161]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameBP/Level1/L1_Character.L1_Character
+[2023.10.17-18.32.08:048][220]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.17-18.32.08:059][220]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.17-18.32.08:059][220]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2023.10.17-18.32.08:061][220]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2 ms (total: 37 ms)
+[2023.10.17-18.32.08:061][220]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.17-18.32.08:096][220]LogPlayLevel: [PlayLevel] Compiling BPC_Movement before play...
+[2023.10.17-18.32.08:334][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.10.17-18.32.08:343][220]LogPlayLevel: PlayLevel: Blueprint regeneration took 281 ms (1 blueprints)
+[2023.10.17-18.32.08:343][220]PIE: New page: PIE session: Level1 (Oct 17, 2023, 8:32:08 AM)
+[2023.10.17-18.32.08:343][220]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.17-18.32.08:346][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002490s)
+[2023.10.17-18.32.08:346][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.002529s)
+[2023.10.17-18.32.08:386][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.10.17-18.32.08:388][220]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.17-18.32.08:388][220]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.32.08:389][220]LogAIModule: Creating AISystem for world Level1
+[2023.10.17-18.32.08:390][220]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.17-18.32.08:390][220]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.17-18.32.08:390][220]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.17-18.32.08:390][220]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.17-18.32.08:390][220]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2023.10.17-18.32.08:391][220]LogWorldPartition: Display: WorldPartition initialize took 860 us (total: 1.96 sec)
+[2023.10.17-18.32.08:391][220]LogPlayLevel: PIE: World Init took: (0.002574s)
+[2023.10.17-18.32.08:391][220]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.10.17-18.32.08:391][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.17-18.32.08:391][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.17-18.32.08:391][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.17-18.32.08:391][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.17-18.32.08:391][220]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.17-18.32.08:391][220]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.17-18.32.08:391][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.17-18.32.08:391][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.17-18.32.08:391][220]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.17-18.32.08:392][220]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.17-18.32.08:392][220]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.17-18.32.08:394][220]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.17-18.32.08:414][220]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TOZO-T6 Stereo)
+[2023.10.17-18.32.08:414][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.17-18.32.08:414][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.17-18.32.08:414][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.17-18.32.08:415][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.10.17-18.32.08:415][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.10.17-18.32.08:418][220]LogInit: FAudioDevice initialized with ID 14.
+[2023.10.17-18.32.08:418][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.10.17-18.32.08:418][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.10.17-18.32.08:418][220]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2023.10.17-18.32.08:418][220]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.17-18.32.08:424][220]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.17-18.32.08:424][220]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.10.17-13.32.08
+[2023.10.17-18.32.08:425][220]LogWorld: Bringing up level for play took: 0.000777
+[2023.10.17-18.32.08:428][220]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.10.17-18.32.08:430][220]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.10.17-18.32.08:430][220]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=831.521 Y=45.099 Z=453.395,P=-0.000000 Y=-26.619714 R=0.000000
+[2023.10.17-18.32.08:431][220]LogStreaming: Display: FlushAsyncLoading(): 17 QueuedPackages, 0 AsyncPackages
+[2023.10.17-18.32.08:470][220]PIE: Server logged in
+[2023.10.17-18.32.08:471][220]PIE: Play in editor total start time 0.413 seconds.
+[2023.10.17-18.32.18:107][701]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.17-18.32.18:214][708]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.17-18.32.18:305][713]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.17-18.32.18:403][719]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.17-18.32.18:502][725]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.17-18.32.18:610][731]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.17-18.32.18:704][736]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.17-18.32.18:812][741]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.17-18.32.18:916][747]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.17-18.32.19:012][752]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.17-18.32.19:102][758]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.17-18.32.19:216][764]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.17-18.32.19:307][769]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.17-18.32.19:412][775]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.17-18.32.19:501][781]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.17-18.32.19:610][787]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.17-18.32.19:723][793]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.17-18.32.19:823][797]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.10.17-18.32.19:908][801]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.10.17-18.32.20:027][807]LogBlueprintUserMessages: [BPC_Movement] 80.0
+[2023.10.17-18.32.20:110][811]LogBlueprintUserMessages: [BPC_Movement] 79.0
+[2023.10.17-18.32.20:214][817]LogBlueprintUserMessages: [BPC_Movement] 78.0
+[2023.10.17-18.32.20:323][823]LogBlueprintUserMessages: [BPC_Movement] 77.0
+[2023.10.17-18.32.20:418][828]LogBlueprintUserMessages: [BPC_Movement] 76.0
+[2023.10.17-18.32.20:509][833]LogBlueprintUserMessages: [BPC_Movement] 75.0
+[2023.10.17-18.32.20:609][839]LogBlueprintUserMessages: [BPC_Movement] 74.0
+[2023.10.17-18.32.20:702][844]LogBlueprintUserMessages: [BPC_Movement] 73.0
+[2023.10.17-18.32.20:806][851]LogBlueprintUserMessages: [BPC_Movement] 72.0
+[2023.10.17-18.32.20:903][856]LogBlueprintUserMessages: [BPC_Movement] 71.0
+[2023.10.17-18.32.21:018][862]LogBlueprintUserMessages: [BPC_Movement] 70.0
+[2023.10.17-18.32.26:066][140]LogBlueprintUserMessages: [BPC_Movement] 71.0
+[2023.10.17-18.32.26:101][142]LogBlueprintUserMessages: [BPC_Movement] 72.0
+[2023.10.17-18.32.26:131][144]LogBlueprintUserMessages: [BPC_Movement] 73.0
+[2023.10.17-18.32.26:156][145]LogBlueprintUserMessages: [BPC_Movement] 74.0
+[2023.10.17-18.32.26:190][147]LogBlueprintUserMessages: [BPC_Movement] 75.0
+[2023.10.17-18.32.26:222][149]LogBlueprintUserMessages: [BPC_Movement] 76.0
+[2023.10.17-18.32.26:253][151]LogBlueprintUserMessages: [BPC_Movement] 77.0
+[2023.10.17-18.32.26:293][153]LogBlueprintUserMessages: [BPC_Movement] 78.0
+[2023.10.17-18.32.26:315][154]LogBlueprintUserMessages: [BPC_Movement] 79.0
+[2023.10.17-18.32.26:347][156]LogBlueprintUserMessages: [BPC_Movement] 80.0
+[2023.10.17-18.32.26:366][157]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.10.17-18.32.26:402][159]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.10.17-18.32.26:426][160]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.17-18.32.26:452][162]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.17-18.32.26:493][164]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.17-18.32.26:520][165]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.17-18.32.26:547][167]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.17-18.32.26:573][169]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.17-18.32.26:601][170]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.17-18.32.26:644][172]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.17-18.32.26:667][173]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.17-18.32.26:695][175]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.17-18.32.26:723][177]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.17-18.32.26:771][179]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.17-18.32.26:788][180]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.17-18.32.26:823][182]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.17-18.32.26:854][183]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.17-18.32.26:870][185]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.17-18.32.26:921][188]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.17-18.32.26:941][189]LogBlueprintUserMessages: [BPC_Movement] 100.0
+[2023.10.17-18.32.29:201][310]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.17-18.32.29:318][316]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.17-18.32.29:410][321]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.17-18.32.29:514][327]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.17-18.32.29:613][333]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.17-18.32.29:705][339]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.17-18.32.29:812][345]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.17-18.32.29:908][350]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.17-18.32.30:017][354]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.17-18.32.30:127][359]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.17-18.32.30:213][364]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.17-18.32.30:318][370]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.17-18.32.30:414][375]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.17-18.32.30:512][380]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.17-18.32.30:615][385]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.17-18.32.30:706][390]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.17-18.32.30:814][396]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.17-18.32.30:921][402]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.10.17-18.32.31:007][407]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.10.17-18.32.31:107][413]LogBlueprintUserMessages: [BPC_Movement] 80.0
+[2023.10.17-18.32.31:212][419]LogBlueprintUserMessages: [BPC_Movement] 79.0
+[2023.10.17-18.32.31:304][424]LogBlueprintUserMessages: [BPC_Movement] 78.0
+[2023.10.17-18.32.31:405][430]LogBlueprintUserMessages: [BPC_Movement] 77.0
+[2023.10.17-18.32.31:522][436]LogBlueprintUserMessages: [BPC_Movement] 76.0
+[2023.10.17-18.32.36:580][713]LogBlueprintUserMessages: [BPC_Movement] 77.0
+[2023.10.17-18.32.36:624][715]LogBlueprintUserMessages: [BPC_Movement] 78.0
+[2023.10.17-18.32.36:643][716]LogBlueprintUserMessages: [BPC_Movement] 79.0
+[2023.10.17-18.32.36:682][718]LogBlueprintUserMessages: [BPC_Movement] 80.0
+[2023.10.17-18.32.36:707][719]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.10.17-18.32.36:736][721]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.10.17-18.32.36:767][723]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.17-18.32.36:797][725]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.17-18.32.36:829][726]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.17-18.32.36:846][727]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.17-18.32.36:874][728]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.17-18.32.36:916][730]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.17-18.32.36:940][731]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.17-18.32.36:963][732]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.17-18.32.37:012][734]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.17-18.32.37:024][735]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.17-18.32.37:071][737]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.17-18.32.37:099][738]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.17-18.32.37:131][740]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.17-18.32.37:147][741]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.17-18.32.37:191][743]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.17-18.32.37:215][745]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.17-18.32.37:249][747]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.17-18.32.37:268][748]LogBlueprintUserMessages: [BPC_Movement] 100.0
+[2023.10.17-18.32.43:443][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-18.32.43:443][ 90]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.17-18.32.43:444][ 90]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.32.43:444][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.32.43:444][ 90]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2023.10.17-18.32.43:450][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.17-18.32.43:458][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.32.43:486][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-18.32.43:487][ 90]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.17-18.32.43:487][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.17-18.32.43:489][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.17-18.32.43:500][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.10.17-18.32.43:660][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_26
