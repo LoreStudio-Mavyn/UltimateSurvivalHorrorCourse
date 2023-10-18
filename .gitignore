@@ -11,6 +11,7 @@ Content/*
 !Content/Maps
 !Content/Materials
 !Content/Textures
+!Content/Fonts
 
 /.idea/
 .vscode
