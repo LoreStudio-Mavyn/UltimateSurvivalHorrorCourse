@@ -2898,3 +2898,247 @@ Make sure 'W_InventoryDropDown_C' has been compiled for  Get UseSection
 [2023.10.20-18.40.21:322][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
 [2023.10.20-18.42.51:788][655]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
 [2023.10.20-18.42.51:886][655]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7220
+[2023.10.20-18.48.13:470][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.10.20-18.48.13:476][619]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.037
+[2023.10.20-18.48.13:476][619]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2023.10.20-18.48.13:476][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Inventory]
+[2023.10.20-18.48.13:554][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto7
+[2023.10.20-18.48.13:555][619]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BPC_Inventory_Auto7E52BCD9E40FD3B42CBC983936A207278.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto7.uasset'
+[2023.10.20-18.48.13:556][619]LogFileHelpers: Auto-saving content packages took 0.080
+[2023.10.20-18.51.24:663][193]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.20-18.51.25:975][197]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.20-18.51.26:161][198]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.20-18.51.26:214][198]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (TOZO-T6 Stereo), InstanceID=1
+[2023.10.20-18.51.26:465][198]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=158.12
+[2023.10.20-18.51.26:465][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.20-18.51.26:467][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.20-18.51.26:799][199]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7220
+[2023.10.20-18.51.27:136][200]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{3488a172-a05a-429c-840b-919197f80887}, Name=Headphones (TOZO-T6 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=97.32
+[2023.10.20-18.51.27:136][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.20-18.51.27:143][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.20-18.52.10:491][665]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2023.10.20-18.56.43:430][192]BlueprintLog: New page: Compile BPC_Inventory
+[2023.10.20-18.56.43:539][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.10.20-18.56.46:255][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.20-18.56.46:328][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BlueprintComponents/BPC_Inventory" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/BlueprintComponents/BPC_Inventory.uasset" SILENT=true
+[2023.10.20-18.56.46:412][287]LogSavePackage: Moving output files for package: /Game/Blueprints/BlueprintComponents/BPC_Inventory
+[2023.10.20-18.56.46:412][287]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BPC_Inventory4A92BA7B4719DA07F9BF5C98B720F8CC.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/BlueprintComponents/BPC_Inventory.uasset'
+[2023.10.20-18.56.46:429][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 861 ms)
+[2023.10.20-18.56.46:485][287]AssetCheck: New page: Asset Save: BPC_Inventory
+[2023.10.20-18.56.46:485][287]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory
+[2023.10.20-18.57.28:427][840]BlueprintLog: New page: Compile W_InventoryDropDown
+[2023.10.20-18.57.28:510][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.10.20-18.57.29:277][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.20-18.57.29:347][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory/W_InventoryDropDown" FILE="../../../../../Courses/UltSurvivalHorror/Content/UMG/Inventory/W_InventoryDropDown.uasset" SILENT=true
+[2023.10.20-18.57.29:372][857]LogSavePackage: Moving output files for package: /Game/UMG/Inventory/W_InventoryDropDown
+[2023.10.20-18.57.29:373][857]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventoryDropDown9846E8A24949250BAB40FAA0F9EFC500.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/UMG/Inventory/W_InventoryDropDown.uasset'
+[2023.10.20-18.57.29:389][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 972 ms)
+[2023.10.20-18.57.29:427][857]AssetCheck: New page: Asset Save: W_InventoryDropDown
+[2023.10.20-18.57.29:428][857]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UMG/Inventory/W_InventoryDropDown.W_InventoryDropDown
+[2023.10.20-18.57.33:010][ 23]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.10.20-18.57.33:023][ 23]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.20-18.57.33:023][ 23]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2023.10.20-18.57.33:026][ 23]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2 ms (total: 34 ms)
+[2023.10.20-18.57.33:026][ 23]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.20-18.57.33:056][ 23]LogPlayLevel: [PlayLevel] Compiling BP_InventoryItem_Master before play...
+[2023.10.20-18.57.33:056][ 23]LogPlayLevel: [PlayLevel]   Compiling BP_InventoryItem_DoorKey as a dependent...
+[2023.10.20-18.57.33:056][ 23]LogPlayLevel: [PlayLevel]   Compiling BP_InventoryItem_Torch as a dependent...
+[2023.10.20-18.57.33:206][ 23]LogPlayLevel: [PlayLevel] Compiling W_InventorySlot before play...
+[2023.10.20-18.57.33:338][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.10.20-18.57.33:342][ 23]LogPlayLevel: PlayLevel: Blueprint regeneration took 315 ms (4 blueprints)
+[2023.10.20-18.57.33:342][ 23]PIE: New page: PIE session: Level1 (Oct 20, 2023, 8:57:33 AM)
+[2023.10.20-18.57.33:342][ 23]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.20-18.57.33:346][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003331s)
+[2023.10.20-18.57.33:346][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.003375s)
+[2023.10.20-18.57.33:370][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.10.20-18.57.33:372][ 23]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.20-18.57.33:372][ 23]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-18.57.33:373][ 23]LogAIModule: Creating AISystem for world Level1
+[2023.10.20-18.57.33:373][ 23]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.20-18.57.33:374][ 23]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.20-18.57.33:374][ 23]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.20-18.57.33:374][ 23]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.20-18.57.33:374][ 23]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2023.10.20-18.57.33:374][ 23]LogWorldPartition: Display: WorldPartition initialize took 836 us (total: 2.03 sec)
+[2023.10.20-18.57.33:374][ 23]LogPlayLevel: PIE: World Init took: (0.002487s)
+[2023.10.20-18.57.33:375][ 23]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.10.20-18.57.33:375][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.20-18.57.33:375][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.20-18.57.33:375][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.20-18.57.33:375][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.20-18.57.33:375][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.20-18.57.33:375][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.20-18.57.33:375][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.20-18.57.33:375][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.20-18.57.33:375][ 23]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.20-18.57.33:376][ 23]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.20-18.57.33:376][ 23]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.20-18.57.33:378][ 23]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.20-18.57.33:409][ 23]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TOZO-T6 Stereo)
+[2023.10.20-18.57.33:410][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.20-18.57.33:411][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.20-18.57.33:411][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.20-18.57.33:413][ 23]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.10.20-18.57.33:413][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.10.20-18.57.33:416][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.10.20-18.57.33:416][ 23]LogInit: FAudioDevice initialized with ID 13.
+[2023.10.20-18.57.33:416][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.10.20-18.57.33:416][ 23]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2023.10.20-18.57.33:416][ 23]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.20-18.57.33:499][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.20-18.57.33:500][ 23]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.20-18.57.33:501][ 23]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.10.20-13.57.33
+[2023.10.20-18.57.33:501][ 23]LogWorld: Bringing up level for play took: 0.000793
+[2023.10.20-18.57.33:506][ 23]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.10.20-18.57.33:509][ 23]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.10.20-18.57.33:509][ 23]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=641.207 Y=983.099 Z=831.965,P=-0.000000 Y=-75.715166 R=0.000000
+[2023.10.20-18.57.33:510][ 23]LogStreaming: Display: FlushAsyncLoading(): 25 QueuedPackages, 0 AsyncPackages
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.20-18.57.33:586][ 23]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.20-18.57.33:591][ 23]PIE: Server logged in
+[2023.10.20-18.57.33:595][ 23]PIE: Play in editor total start time 0.572 seconds.
+[2023.10.20-18.57.33:638][ 23]LogViewport: Scene viewport resized to 1910x1000, mode Windowed.
+[2023.10.20-18.57.34:487][ 38]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.20-18.57.34:595][ 42]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.20-18.57.34:692][ 45]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.20-18.57.34:806][ 50]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.20-18.57.34:896][ 55]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.20-18.57.34:992][ 58]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.20-18.57.35:096][ 63]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.20-18.57.35:184][ 67]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.20-18.57.35:293][ 71]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.20-18.57.35:383][ 74]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.20-18.57.35:494][ 79]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.20-18.57.35:583][ 83]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.20-18.57.35:692][ 88]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.20-18.57.35:800][ 93]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.20-18.57.35:891][ 97]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.20-18.57.35:999][102]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.20-18.57.36:090][106]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.20-18.57.36:193][111]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.10.20-18.57.36:291][115]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.10.20-18.57.36:398][120]LogBlueprintUserMessages: [BPC_Movement] 80.0
+[2023.10.20-18.57.36:481][123]LogBlueprintUserMessages: [BPC_Movement] 79.0
+[2023.10.20-18.57.36:580][127]LogBlueprintUserMessages: [BPC_Movement] 78.0
+[2023.10.20-18.57.36:683][132]LogBlueprintUserMessages: [BPC_Movement] 77.0
+[2023.10.20-18.57.36:795][137]LogBlueprintUserMessages: [BPC_Movement] 76.0
+[2023.10.20-18.57.36:895][142]LogBlueprintUserMessages: [BPC_Movement] 75.0
+[2023.10.20-18.57.37:001][146]LogBlueprintUserMessages: [BPC_Movement] 74.0
+[2023.10.20-18.57.37:091][150]LogBlueprintUserMessages: [BPC_Movement] 73.0
+[2023.10.20-18.57.37:193][154]LogBlueprintUserMessages: [BPC_Movement] 72.0
+[2023.10.20-18.57.37:297][159]LogBlueprintUserMessages: [BPC_Movement] 71.0
+[2023.10.20-18.57.37:390][163]LogBlueprintUserMessages: [BPC_Movement] 70.0
+[2023.10.20-18.57.38:113][192]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.20-18.57.38:113][192]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.10.20-18.57.38:113][192]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.10.20-18.57.40:525][292]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.20-18.57.40:525][292]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.10.20-18.57.42:534][375]LogBlueprintUserMessages: [BPC_Movement] 71.0
+[2023.10.20-18.57.42:558][376]LogBlueprintUserMessages: [BPC_Movement] 72.0
+[2023.10.20-18.57.42:580][377]LogBlueprintUserMessages: [BPC_Movement] 73.0
+[2023.10.20-18.57.42:635][379]LogBlueprintUserMessages: [BPC_Movement] 74.0
+[2023.10.20-18.57.42:665][380]LogBlueprintUserMessages: [BPC_Movement] 75.0
+[2023.10.20-18.57.42:679][381]LogBlueprintUserMessages: [BPC_Movement] 76.0
+[2023.10.20-18.57.42:728][383]LogBlueprintUserMessages: [BPC_Movement] 77.0
+[2023.10.20-18.57.42:729][383]LogBlueprintUserMessages: [BPC_Movement] 78.0
+[2023.10.20-18.57.42:769][385]LogBlueprintUserMessages: [BPC_Movement] 79.0
+[2023.10.20-18.57.42:792][386]LogBlueprintUserMessages: [BPC_Movement] 80.0
+[2023.10.20-18.57.42:832][388]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.10.20-18.57.42:852][389]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.10.20-18.57.42:891][391]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.20-18.57.42:910][392]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.20-18.57.42:960][394]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.20-18.57.42:983][395]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.20-18.57.43:004][396]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.20-18.57.43:046][398]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.20-18.57.43:065][399]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.20-18.57.43:112][401]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.20-18.57.43:131][402]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.20-18.57.43:153][403]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.20-18.57.43:198][405]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.20-18.57.43:218][406]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.20-18.57.43:256][408]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.20-18.57.43:292][409]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.20-18.57.43:326][410]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.20-18.57.43:347][411]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.20-18.57.43:368][412]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.20-18.57.43:402][413]LogBlueprintUserMessages: [BPC_Movement] 100.0
+[2023.10.20-18.57.43:949][437]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.20-18.57.44:043][442]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.20-18.57.44:152][447]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.20-18.57.44:255][452]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.20-18.57.44:336][455]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.20-18.57.44:439][460]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.20-18.57.44:539][465]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.20-18.57.44:649][470]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.20-18.57.44:736][474]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.20-18.57.44:836][479]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.20-18.57.44:946][484]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.20-18.57.45:050][489]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.20-18.57.45:141][493]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.20-18.57.45:267][498]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.20-18.57.45:342][502]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.20-18.57.45:448][507]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.20-18.57.45:558][512]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.20-18.57.45:639][515]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.10.20-18.57.45:736][520]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.10.20-18.57.45:836][524]LogBlueprintUserMessages: [BPC_Movement] 80.0
+[2023.10.20-18.57.45:959][529]LogBlueprintUserMessages: [BPC_Movement] 79.0
+[2023.10.20-18.57.46:042][533]LogBlueprintUserMessages: [BPC_Movement] 78.0
+[2023.10.20-18.57.46:142][538]LogBlueprintUserMessages: [BPC_Movement] 77.0
+[2023.10.20-18.57.46:470][552]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.20-18.57.46:470][552]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.10.20-18.57.46:996][573]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.20-18.57.46:996][573]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.10.20-18.57.47:278][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.20-18.57.47:278][585]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.20-18.57.47:279][585]LogSlate: Window 'UltSurvivalHorror Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.20-18.57.47:290][585]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-18.57.47:292][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-18.57.47:292][585]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2023.10.20-18.57.47:295][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.20-18.57.47:303][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-18.57.47:354][585]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.20-18.57.47:354][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.20-18.57.47:356][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.20-18.57.47:376][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.10.20-18.57.47:421][586]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.10.20-18.58.28:284][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.20-18.58.28:287][851]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.044
+[2023.10.20-18.58.28:288][851]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/Inventory/W_InventoryDropDown] ([2] browsable assets)...
+[2023.10.20-18.58.28:294][851]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/Inventory/W_InventoryDropDown.W_InventoryDropDown]
+[2023.10.20-18.58.28:294][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventoryDropDown]
+[2023.10.20-18.58.28:318][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventoryDropDown_Auto8
+[2023.10.20-18.58.28:318][851]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventoryDropDown_Auto80DE313F24D2A195EFDA00296479D40F8.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventoryDropDown_Auto8.uasset'
+[2023.10.20-18.58.28:320][851]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master] ([2] browsable assets)...
+[2023.10.20-18.58.28:320][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master]
+[2023.10.20-18.58.28:326][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master_Auto8
+[2023.10.20-18.58.28:326][851]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BP_InventoryItem_Master_Auto8B4B08D77493844D4D64B63B92360FD5E.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master_Auto8.uasset'
+[2023.10.20-18.58.28:335][851]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Structs/S_ItemData] ([1] browsable assets)...
+[2023.10.20-18.58.28:335][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Structs/S_ItemData]
+[2023.10.20-18.58.28:338][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Structs/S_ItemData_Auto8
+[2023.10.20-18.58.28:339][851]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/S_ItemData_Auto847BCF51544C985FF8A32B6816E98DE50.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/Structs/S_ItemData_Auto8.uasset'
+[2023.10.20-18.58.28:340][851]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2023.10.20-18.58.28:340][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Inventory]
+[2023.10.20-18.58.28:450][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto8
+[2023.10.20-18.58.28:451][851]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BPC_Inventory_Auto8B418164D45E24950D3F791ADA60CD6B7.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto8.uasset'
+[2023.10.20-18.58.28:454][851]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/Inventory/W_InventorySlot] ([2] browsable assets)...
+[2023.10.20-18.58.28:460][851]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot]
+[2023.10.20-18.58.28:460][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventorySlot]
+[2023.10.20-18.58.28:488][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto8
+[2023.10.20-18.58.28:489][851]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventorySlot_Auto8B90721C643BCD5F8826D409B7AC8B6BB.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto8.uasset'
+[2023.10.20-18.58.28:491][851]LogFileHelpers: Auto-saving content packages took 0.205
