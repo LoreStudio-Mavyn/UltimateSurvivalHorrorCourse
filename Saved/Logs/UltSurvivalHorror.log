@@ -19671,3 +19671,512 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.24-18.33.44:631][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=134
 [2023.10.24-18.33.44:643][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
 [2023.10.24-18.33.44:766][204]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2023.10.24-18.36.00:221][613]LogSlate: Window 'Shape_Trim' being destroyed
+[2023.10.24-18.36.00:231][613]LogSlate: Window 'Shape_Trim' being destroyed
+[2023.10.24-18.36.00:382][613]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.36.00:382][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.36.00:409][613]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.36.00:409][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.36.00:516][613]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.36.00:517][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.36.00:697][613]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.36.00:697][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.36.01:006][613]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.24-18.36.01:006][613]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.36.01:006][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.36.01:122][613]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.24-18.36.01:122][613]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.36.01:122][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.36.01:552][613]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.36.01:553][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.36.01:575][613]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.36.01:575][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.36.01:747][613]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.24-18.36.01:747][613]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.36.01:747][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.36.01:916][613]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.24-18.36.01:916][613]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.36.01:916][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.36.02:352][613]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.36.02:352][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.36.26:313][582]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structs/S_ItemData.S_ItemData
+[2023.10.24-18.36.33:780][863]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2023.10.24-18.36.55:439][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-18.36.55:518][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Structs/S_ItemData" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/Structs/S_ItemData.uasset" SILENT=true
+[2023.10.24-18.36.55:522][801]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/S_ItemData
+[2023.10.24-18.36.55:522][801]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/S_ItemData25C3B0954AD27C1DECD5139E4A79C0A1.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/Structs/S_ItemData.uasset'
+[2023.10.24-18.36.55:547][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 8.32 sec)
+[2023.10.24-18.36.55:626][801]AssetCheck: New page: Asset Save: S_ItemData
+[2023.10.24-18.36.55:626][801]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/S_ItemData.S_ItemData
+[2023.10.24-18.37.02:539][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.37.02:706][936]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.37.02:782][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.37.05:616][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Master.BP_PickupActor_Master
+[2023.10.24-18.37.05:617][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.37.05:617][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-18.37.09:797][114]BlueprintLog: New page: Compile BP_PickupActor_Master
+[2023.10.24-18.37.10:048][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.10.24-18.37.26:558][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Torch.BP_PickupActor_Torch
+[2023.10.24-18.37.26:558][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.37.26:558][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-18.37.52:672][398]BlueprintLog: New page: Compile BP_PickupActor_Torch
+[2023.10.24-18.37.52:858][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.10.24-18.38.24:757][642]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.38.24:757][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.38.26:518][687]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.24-18.38.26:518][687]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.38.26:518][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.38.30:994][837]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master.BP_InventoryItem_Master
+[2023.10.24-18.38.30:995][837]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.38.30:995][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-18.38.33:067][896]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Inventory/BP_InventoryItem_DoorKey.BP_InventoryItem_DoorKey
+[2023.10.24-18.38.33:067][896]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.38.33:068][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-18.38.34:980][960]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Inventory/BP_InventoryItem_Torch.BP_InventoryItem_Torch
+[2023.10.24-18.38.34:980][960]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.38.34:980][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-18.38.40:451][132]BlueprintLog: New page: Compile BP_InventoryItem_Torch
+[2023.10.24-18.38.40:587][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.10.24-18.38.47:663][382]BlueprintLog: New page: Compile BP_InventoryItem_DoorKey
+[2023.10.24-18.38.47:799][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.10.24-18.38.49:243][435]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-18.38.49:243][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-18.38.49:345][435]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Inventory/BP_InventoryItem_DoorKey.BP_InventoryItem_DoorKey
+[2023.10.24-18.38.49:346][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.38.49:346][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-18.39.25:083][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-18.39.25:167][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Structs/S_ItemData" FILE="../../../../../Courses/UltSurvivalHorror/Content/Blueprints/Structs/S_ItemData.uasset" SILENT=true
+[2023.10.24-18.39.25:171][792]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/S_ItemData
+[2023.10.24-18.39.25:177][792]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/S_ItemData75C510E04B377609974F62A2BDDF4AED.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Blueprints/Structs/S_ItemData.uasset'
+[2023.10.24-18.39.25:211][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 8.45 sec)
+[2023.10.24-18.39.25:233][792]AssetCheck: New page: Asset Save: S_ItemData
+[2023.10.24-18.39.25:233][792]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/S_ItemData.S_ItemData
+[2023.10.24-18.39.27:698][883]BlueprintLog: New page: Compile BP_InventoryItem_DoorKey
+[2023.10.24-18.39.27:826][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.10.24-18.40.20:882][366]BlueprintLog: New page: Compile BP_InventoryItem_Master
+[2023.10.24-18.40.21:111][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.24-18.41.06:987][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.10.24-18.41.07:008][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/1/GT/7346JQBVJEU803U5LKT2ZE_Auto7
+[2023.10.24-18.41.07:009][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/7346JQBVJEU803U5LKT2ZE_Auto78494F7BF4C4D5D383A6079BD34B9F9CB.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/1/GT/7346JQBVJEU803U5LKT2ZE_Auto7.uasset'
+[2023.10.24-18.41.07:014][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/5/8P/ITE5V7VIRJZ52QVQBWFDSB_Auto7
+[2023.10.24-18.41.07:015][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/ITE5V7VIRJZ52QVQBWFDSB_Auto7315F52EB482394A8EE34F5BA48380A0B.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/5/8P/ITE5V7VIRJZ52QVQBWFDSB_Auto7.uasset'
+[2023.10.24-18.41.07:021][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/6/IM/S8VK9W8ODE2UNV1DUB6YIJ_Auto7
+[2023.10.24-18.41.07:022][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/S8VK9W8ODE2UNV1DUB6YIJ_Auto76193EA014A3C4746952A75931DA2A7C2.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/6/IM/S8VK9W8ODE2UNV1DUB6YIJ_Auto7.uasset'
+[2023.10.24-18.41.07:028][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/9Y/4W5IPP1H66A1AYT7D60UHY_Auto7
+[2023.10.24-18.41.07:029][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/4W5IPP1H66A1AYT7D60UHY_Auto7DD60C85C4CCE472235171D9B01DB522D.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/9Y/4W5IPP1H66A1AYT7D60UHY_Auto7.uasset'
+[2023.10.24-18.41.07:035][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/D/FZ/SD1NZ5PPYKN9WU3TCUJOJ7_Auto7
+[2023.10.24-18.41.07:037][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/SD1NZ5PPYKN9WU3TCUJOJ7_Auto78F46081147218948B4C9A59F42B32E34.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/D/FZ/SD1NZ5PPYKN9WU3TCUJOJ7_Auto7.uasset'
+[2023.10.24-18.41.07:044][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/E/I2/VOAY12ZCLWPDDCXQCUPCZU_Auto7
+[2023.10.24-18.41.07:045][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/VOAY12ZCLWPDDCXQCUPCZU_Auto7A18F02D64E461BADF8A94AADC1465BC1.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/E/I2/VOAY12ZCLWPDDCXQCUPCZU_Auto7.uasset'
+[2023.10.24-18.41.07:051][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/4/9K/LR8S0C1XB3XY7WOJBDT98K_Auto7
+[2023.10.24-18.41.07:051][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/LR8S0C1XB3XY7WOJBDT98K_Auto7391F78224833A82B2312C0A189A0AE72.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/4/9K/LR8S0C1XB3XY7WOJBDT98K_Auto7.uasset'
+[2023.10.24-18.41.07:052][926]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.106
+[2023.10.24-18.41.07:052][926]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.106
+[2023.10.24-18.41.07:053][926]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/Inventory/W_InventoryDropDown] ([2] browsable assets)...
+[2023.10.24-18.41.07:057][926]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/Inventory/W_InventoryDropDown.W_InventoryDropDown]
+[2023.10.24-18.41.07:057][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventoryDropDown]
+[2023.10.24-18.41.07:082][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventoryDropDown_Auto7
+[2023.10.24-18.41.07:082][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventoryDropDown_Auto725DF772C4DB6218FB4E654AB0D79C56D.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventoryDropDown_Auto7.uasset'
+[2023.10.24-18.41.07:083][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master] ([2] browsable assets)...
+[2023.10.24-18.41.07:083][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master]
+[2023.10.24-18.41.07:090][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master_Auto7
+[2023.10.24-18.41.07:090][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BP_InventoryItem_Master_Auto7CE864ACE4BEAC6D0FDD8C0A519CC7566.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Master_Auto7.uasset'
+[2023.10.24-18.41.07:091][926]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Master] ([2] browsable assets)...
+[2023.10.24-18.41.07:171][926]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Master.BP_PickupActor_Master]
+[2023.10.24-18.41.07:174][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Master]
+[2023.10.24-18.41.07:213][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Master_Auto7
+[2023.10.24-18.41.07:214][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BP_PickupActor_Master_Auto74040F8CB43E2D673EA0727AB603CB080.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Master_Auto7.uasset'
+[2023.10.24-18.41.07:216][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2023.10.24-18.41.07:216][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Inventory]
+[2023.10.24-18.41.07:311][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto7
+[2023.10.24-18.41.07:312][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BPC_Inventory_Auto724EC2C76473952BB0A9B27ACE05070E6.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto7.uasset'
+[2023.10.24-18.41.07:314][926]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/Inventory/W_InventorySlot] ([2] browsable assets)...
+[2023.10.24-18.41.07:319][926]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot]
+[2023.10.24-18.41.07:319][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventorySlot]
+[2023.10.24-18.41.07:345][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto7
+[2023.10.24-18.41.07:345][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventorySlot_Auto784E7F83E47307EA2315ED7840BAFC890.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto7.uasset'
+[2023.10.24-18.41.07:348][926]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Torch] ([2] browsable assets)...
+[2023.10.24-18.41.07:358][926]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Torch.BP_PickupActor_Torch]
+[2023.10.24-18.41.07:358][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Torch]
+[2023.10.24-18.41.07:368][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Torch_Auto7
+[2023.10.24-18.41.07:369][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BP_PickupActor_Torch_Auto74C8BF49E49C59E85951363B241859C48.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Torch_Auto7.uasset'
+[2023.10.24-18.41.07:376][926]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_DoorKey] ([2] browsable assets)...
+[2023.10.24-18.41.07:386][926]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_DoorKey.BP_PickupActor_DoorKey]
+[2023.10.24-18.41.07:386][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_DoorKey]
+[2023.10.24-18.41.07:395][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_DoorKey_Auto7
+[2023.10.24-18.41.07:396][926]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BP_PickupActor_DoorKey_Auto78D116E5A4F55591A1A93C6B28F37F51F.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_DoorKey_Auto7.uasset'
+[2023.10.24-18.41.07:398][926]LogFileHelpers: Auto-saving content packages took 0.346
+[2023.10.24-18.44.53:029][713]BlueprintLog: New page: Compile BP_InventoryItem_DoorKey
+[2023.10.24-18.44.53:200][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.10.24-18.44.54:838][750]BlueprintLog: New page: Compile BP_InventoryItem_Torch
+[2023.10.24-18.44.55:010][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.24-18.44.59:650][886]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_7
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-18.45.00:760][916]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/Inventory/W_InventoryMenu.W_InventoryMenu
+[2023.10.24-18.45.00:761][916]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.45.00:761][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-18.45.00:771][916]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-18.45.00:771][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-18.46.47:927][152]LogSlate: Took 0.426928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.10.24-18.49.49:262][290]LogInterchangeEngine: [Pending] Importing
+[2023.10.24-18.49.49:262][290]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Chase/Downloads/Separator.png]
+[2023.10.24-18.49.49:340][291]LogInterchangeEngine: [Pending] Importing
+[2023.10.24-18.49.49:352][291]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2023.10.24-18.49.49:464][292]LogTexture: Display: Building textures: /Game/Textures/Separator.Separator (BGRA8, 560x5 x1x1x1) (Required Memory Estimate: 0.144382 MB), EncodeSpeed: Fast
+[2023.10.24-18.49.49:559][293]LogInterchangeEngine: [Success] Import Done
+[2023.10.24-18.49.49:587][293]LogInterchangeEngine: [Success] Import Done
+[2023.10.24-18.49.50:730][316]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Separator.Separator
+[2023.10.24-18.49.51:002][316]LogViewport: Scene viewport resized to 1424x873, mode Windowed.
+[2023.10.24-18.51.31:717][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.10.24-18.51.31:742][371]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.074
+[2023.10.24-18.51.31:742][371]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/Inventory/W_InventoryMenu] ([2] browsable assets)...
+[2023.10.24-18.51.31:748][371]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/Inventory/W_InventoryMenu.W_InventoryMenu]
+[2023.10.24-18.51.31:748][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventoryMenu]
+[2023.10.24-18.51.31:779][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventoryMenu_Auto8
+[2023.10.24-18.51.31:780][371]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventoryMenu_Auto8FB62ADB941239828DE56448CBEC80E79.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventoryMenu_Auto8.uasset'
+[2023.10.24-18.51.31:783][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Torch] ([2] browsable assets)...
+[2023.10.24-18.51.31:783][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Torch]
+[2023.10.24-18.51.31:792][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Torch_Auto8
+[2023.10.24-18.51.31:794][371]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BP_InventoryItem_Torch_Auto8679913B0491C0F6F0010579E33A7FFB5.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/Actors/Inventory/BP_InventoryItem_Torch_Auto8.uasset'
+[2023.10.24-18.51.31:797][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Inventory/BP_InventoryItem_DoorKey] ([2] browsable assets)...
+[2023.10.24-18.51.31:797][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Inventory/BP_InventoryItem_DoorKey]
+[2023.10.24-18.51.31:803][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Inventory/BP_InventoryItem_DoorKey_Auto8
+[2023.10.24-18.51.31:805][371]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BP_InventoryItem_DoorKey_Auto8BAA0D65942AE96ECF21861A1A8D0D95E.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/Actors/Inventory/BP_InventoryItem_DoorKey_Auto8.uasset'
+[2023.10.24-18.51.31:807][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Separator] ([1] browsable assets)...
+[2023.10.24-18.51.31:810][371]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Separator.Separator]
+[2023.10.24-18.51.31:810][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Separator]
+[2023.10.24-18.51.31:810][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Separator" FILE="../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Textures/Separator_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2023.10.24-18.51.31:813][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Separator_Auto8
+[2023.10.24-18.51.31:813][371]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/Separator_Auto81BFDE2FC41AA3FD6C0EC11B301788FBC.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Textures/Separator_Auto8.uasset'
+[2023.10.24-18.51.31:815][371]LogFileHelpers: Auto-saving content packages took 0.073
+[2023.10.24-18.51.50:576][ 41]LogViewport: Scene viewport resized to 1424x861, mode Windowed.
+[2023.10.24-18.51.51:158][ 66]LogViewport: Scene viewport resized to 1424x873, mode Windowed.
+[2023.10.24-18.51.53:051][149]LogViewport: Scene viewport resized to 1424x861, mode Windowed.
+[2023.10.24-18.51.55:277][243]LogViewport: Scene viewport resized to 1424x873, mode Windowed.
+[2023.10.24-18.51.59:512][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-18.51.59:583][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Separator" FILE="../../../../../Courses/UltSurvivalHorror/Content/Textures/Separator.uasset" SILENT=true
+[2023.10.24-18.51.59:605][430]LogSavePackage: Moving output files for package: /Game/Textures/Separator
+[2023.10.24-18.51.59:605][430]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/Separator9113E466423141028186619BD608D484.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Textures/Separator.uasset'
+[2023.10.24-18.51.59:627][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 8.56 sec)
+[2023.10.24-18.51.59:629][430]AssetCheck: New page: Asset Save: Separator
+[2023.10.24-18.51.59:629][430]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Separator.Separator
+[2023.10.24-19.09.16:413][571]LogDerivedDataCache: C:/Users/Chase/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.417 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7783 files in 9978 folders with total size 316 MiB.
+[2023.10.24-19.27.20:625][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-19.27.20:698][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Separator" FILE="../../../../../Courses/UltSurvivalHorror/Content/Textures/Separator.uasset" SILENT=true
+[2023.10.24-19.27.20:701][ 42]LogSavePackage: Moving output files for package: /Game/Textures/Separator
+[2023.10.24-19.27.20:701][ 42]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/Separator7B4ED67B403495F2AC6BF99B9D9C6B55.tmp' to '../../../../../Courses/UltSurvivalHorror/Content/Textures/Separator.uasset'
+[2023.10.24-19.27.20:730][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 8.67 sec)
+[2023.10.24-19.27.20:798][ 42]AssetCheck: New page: Asset Save: Separator
+[2023.10.24-19.27.20:798][ 42]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Separator.Separator
+[2023.10.24-19.28.40:252][632]BlueprintLog: New page: Compile W_InventoryMenu
+[2023.10.24-19.28.40:415][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.10.24-19.29.07:129][458]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.24-19.30.57:338][230]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2023.10.24-19.30.57:499][230]LogSlate: Took 0.158624 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2023.10.24-19.30.57:979][231]LogUObjectHash: Compacting FUObjectHashTables data took  13.92ms
+[2023.10.24-19.30.58:014][231]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.094
+[2023.10.24-19.30.58:014][231]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/Inventory/W_InventoryMenu] ([2] browsable assets)...
+[2023.10.24-19.30.58:029][231]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/Inventory/W_InventoryMenu.W_InventoryMenu]
+[2023.10.24-19.30.58:029][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventoryMenu]
+[2023.10.24-19.30.58:168][231]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventoryMenu_Auto9
+[2023.10.24-19.30.58:184][231]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventoryMenu_Auto9A2BCF8554FD72716E21F52BDFBC21152.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventoryMenu_Auto9.uasset'
+[2023.10.24-19.30.58:211][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2023.10.24-19.30.58:211][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Inventory]
+[2023.10.24-19.30.58:501][231]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto9
+[2023.10.24-19.30.58:502][231]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BPC_Inventory_Auto9A52A6141488C358A3734F08BF94D6D11.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto9.uasset'
+[2023.10.24-19.30.58:507][231]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UMG/Inventory/W_InventorySlot] ([2] browsable assets)...
+[2023.10.24-19.30.58:507][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventorySlot]
+[2023.10.24-19.30.58:560][231]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto9
+[2023.10.24-19.30.58:562][231]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventorySlot_Auto9E59D8E8C4108C1B76A5CF8A37831954E.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto9.uasset'
+[2023.10.24-19.30.58:564][231]LogFileHelpers: Auto-saving content packages took 0.551
+[2023.10.24-19.33.11:185][797]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.10.24-19.33.11:203][797]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.24-19.33.11:203][797]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2023.10.24-19.33.11:208][797]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 4 ms (total: 588 ms)
+[2023.10.24-19.33.11:208][797]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.24-19.33.11:213][797]LogPlayLevel: [PlayLevel] Compiling BPC_Inventory before play...
+[2023.10.24-19.33.11:368][797]LogPlayLevel: [PlayLevel] Compiling W_InventoryMenu before play...
+[2023.10.24-19.33.11:723][797]LogPlayLevel: [PlayLevel] Compiling W_InventoryDropDown before play...
+[2023.10.24-19.33.12:061][797]LogPlayLevel: [PlayLevel] Compiling W_InventorySlot before play...
+[2023.10.24-19.33.12:360][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2023.10.24-19.33.12:376][797]LogPlayLevel: PlayLevel: Blueprint regeneration took 1167 ms (4 blueprints)
+[2023.10.24-19.33.12:376][797]PIE: New page: PIE session: Level1 (Oct 24, 2023, 9:33:12 AM)
+[2023.10.24-19.33.12:377][797]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.24-19.33.12:387][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010646s)
+[2023.10.24-19.33.12:387][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.010692s)
+[2023.10.24-19.33.12:425][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.10.24-19.33.12:430][797]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-19.33.12:430][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-19.33.12:431][797]LogAIModule: Creating AISystem for world Level1
+[2023.10.24-19.33.12:431][797]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.24-19.33.12:432][797]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.24-19.33.12:432][797]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.24-19.33.12:432][797]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.24-19.33.12:432][797]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2023.10.24-19.33.12:432][797]LogWorldPartition: Display: WorldPartition initialize took 896 us (total: 7.55 sec)
+[2023.10.24-19.33.12:433][797]LogPlayLevel: PIE: World Init took: (0.002520s)
+[2023.10.24-19.33.12:433][797]LogAudio: Display: Creating Audio Device:                 Id: 135, Scope: Unique, Realtime: True
+[2023.10.24-19.33.12:433][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.24-19.33.12:433][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.24-19.33.12:433][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.24-19.33.12:433][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.24-19.33.12:433][797]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.24-19.33.12:433][797]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.24-19.33.12:433][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.24-19.33.12:433][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.24-19.33.12:433][797]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.24-19.33.12:433][797]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.24-19.33.12:434][797]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.24-19.33.12:436][797]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.24-19.33.12:456][797]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TOZO-T6 Stereo)
+[2023.10.24-19.33.12:457][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.24-19.33.12:457][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.24-19.33.12:457][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.24-19.33.12:459][797]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=135
+[2023.10.24-19.33.12:459][797]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=135
+[2023.10.24-19.33.12:461][797]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=135
+[2023.10.24-19.33.12:461][797]LogInit: FAudioDevice initialized with ID 135.
+[2023.10.24-19.33.12:461][797]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=135
+[2023.10.24-19.33.12:461][797]LogAudio: Display: Audio Device (ID: 135) registered with world 'Level1'.
+[2023.10.24-19.33.12:461][797]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 135
+[2023.10.24-19.33.12:527][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-19.33.12:528][797]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.24-19.33.12:528][797]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.10.24-14.33.12
+[2023.10.24-19.33.12:529][797]LogWorld: Bringing up level for play took: 0.000819
+[2023.10.24-19.33.12:532][797]LogOnline: OSS: Created online subsystem instance for: :Context_165
+[2023.10.24-19.33.12:535][797]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.10.24-19.33.12:535][797]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=2779.138 Y=423.633 Z=640.121,P=-0.000000 Y=-136.715162 R=0.000000
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.33.12:579][797]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.33.12:587][797]PIE: Server logged in
+[2023.10.24-19.33.12:592][797]PIE: Play in editor total start time 1.389 seconds.
+[2023.10.24-19.33.13:667][797]LogViewport: Scene viewport resized to 1910x1000, mode Windowed.
+[2023.10.24-19.33.15:083][828]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.24-19.33.15:083][828]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.10.24-19.33.15:083][828]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.10.24-19.33.16:517][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-19.33.16:517][865]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.24-19.33.16:518][865]LogSlate: Window 'UltSurvivalHorror Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.24-19.33.16:529][865]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-19.33.16:529][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-19.33.16:529][865]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2023.10.24-19.33.16:532][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.24-19.33.16:544][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-19.33.16:607][865]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 135
+[2023.10.24-19.33.16:607][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=135
+[2023.10.24-19.33.16:610][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=135
+[2023.10.24-19.33.16:622][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.10.24-19.33.16:752][866]LogPlayLevel: Display: Destroying online subsystem :Context_165
+[2023.10.24-19.35.52:437][697]BlueprintLog: New page: Compile W_InventoryMenu
+[2023.10.24-19.35.52:567][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.10.24-19.37.14:100][ 79]BlueprintLog: New page: Compile W_InventoryMenu
+[2023.10.24-19.37.14:213][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.10.24-19.37.38:234][785]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UTextBlock::SetText' [Element not found.]
+[2023.10.24-19.38.52:999][166]BlueprintLog: New page: Compile W_InventoryMenu
+[2023.10.24-19.38.53:125][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.10.24-19.38.57:951][292]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_8
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.38.58:137][297]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_8
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.38.58:178][298]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_8
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.38.58:759][313]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_8
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.38.58:793][314]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_8
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.38.58:827][315]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_8
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.38.58:859][316]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_8
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.38.58:894][317]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_8
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.38.58:998][320]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_8
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.38.59:033][321]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_8
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.38.59:898][347]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot
+[2023.10.24-19.38.59:899][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-19.38.59:899][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-19.38.59:914][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-19.38.59:914][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-19.40.56:175][798]BlueprintLog: New page: Compile W_InventorySlot
+[2023.10.24-19.40.56:374][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.10.24-19.40.56:981][798]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_9
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.40.57:531][802]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHG_Player_Controller
+	W_InventoryGrid_C /Game/Maps/Level1.Level1:W_InventoryGrid_C_9
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:01FD
+[2023.10.24-19.40.57:737][811]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.10.24-19.40.57:751][811]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.24-19.40.57:751][811]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2023.10.24-19.40.57:755][811]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 4 ms (total: 593 ms)
+[2023.10.24-19.40.57:755][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.24-19.40.57:755][811]PIE: New page: PIE session: Level1 (Oct 24, 2023, 9:40:57 AM)
+[2023.10.24-19.40.57:756][811]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2023.10.24-19.40.57:768][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011993s)
+[2023.10.24-19.40.57:768][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012043s)
+[2023.10.24-19.40.57:821][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.10.24-19.40.57:833][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-19.40.57:833][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-19.40.57:834][811]LogAIModule: Creating AISystem for world Level1
+[2023.10.24-19.40.57:835][811]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.24-19.40.57:835][811]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.24-19.40.57:835][811]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.24-19.40.57:835][811]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.24-19.40.57:837][811]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2023.10.24-19.40.57:837][811]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 7.56 sec)
+[2023.10.24-19.40.57:837][811]LogPlayLevel: PIE: World Init took: (0.002618s)
+[2023.10.24-19.40.57:837][811]LogAudio: Display: Creating Audio Device:                 Id: 136, Scope: Unique, Realtime: True
+[2023.10.24-19.40.57:837][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.24-19.40.57:837][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.24-19.40.57:837][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.24-19.40.57:837][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.24-19.40.57:837][811]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.24-19.40.57:837][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.24-19.40.57:837][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.24-19.40.57:837][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.24-19.40.57:837][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.24-19.40.57:837][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.24-19.40.57:837][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.24-19.40.57:840][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.24-19.40.57:859][811]LogAudioMixer: Display: Using Audio Hardware Device Headphones (TOZO-T6 Stereo)
+[2023.10.24-19.40.57:859][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.24-19.40.57:859][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.24-19.40.57:859][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.24-19.40.57:861][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=136
+[2023.10.24-19.40.57:861][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=136
+[2023.10.24-19.40.57:864][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=136
+[2023.10.24-19.40.57:864][811]LogInit: FAudioDevice initialized with ID 136.
+[2023.10.24-19.40.57:864][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=136
+[2023.10.24-19.40.57:864][811]LogAudio: Display: Audio Device (ID: 136) registered with world 'Level1'.
+[2023.10.24-19.40.57:864][811]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 136
+[2023.10.24-19.40.57:930][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-19.40.57:930][811]LogLoad: Game class is 'L1_GameMode_C'
+[2023.10.24-19.40.57:931][811]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.10.24-14.40.57
+[2023.10.24-19.40.57:932][811]LogWorld: Bringing up level for play took: 0.000881
+[2023.10.24-19.40.57:935][811]LogOnline: OSS: Created online subsystem instance for: :Context_168
+[2023.10.24-19.40.57:938][811]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.10.24-19.40.57:938][811]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=2779.138 Y=423.633 Z=640.121,P=-0.000000 Y=-136.715162 R=0.000000
+[2023.10.24-19.40.57:985][811]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.40.57:985][811]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.40.57:985][811]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.40.57:985][811]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.40.57:985][811]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.40.57:985][811]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.40.57:985][811]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.40.57:985][811]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.40.57:985][811]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.40.57:986][811]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.40.57:986][811]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.40.57:986][811]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.40.57:986][811]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.40.57:986][811]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.40.57:986][811]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BlueprintComponents/BPC_Inventory.BPC_Inventory_C'!
+[2023.10.24-19.40.57:986][811]LogScript: Warning: Script Msg called by: BPC_Inventory_C /Game/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.L1_Character_C_0.BPC_Inventory
+[2023.10.24-19.40.57:993][811]PIE: Server logged in
+[2023.10.24-19.40.57:998][811]PIE: Play in editor total start time 0.248 seconds.
+[2023.10.24-19.40.58:043][811]LogViewport: Scene viewport resized to 1910x1000, mode Windowed.
+[2023.10.24-19.40.59:103][829]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.24-19.40.59:219][832]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.24-19.40.59:306][835]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.24-19.40.59:395][838]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.24-19.40.59:488][841]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.24-19.40.59:579][845]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.24-19.40.59:680][848]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.24-19.40.59:799][852]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.24-19.40.59:887][855]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.24-19.40.59:992][859]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.24-19.41.00:093][862]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.24-19.41.00:219][867]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.24-19.41.00:286][870]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.24-19.41.00:390][872]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.24-19.41.00:499][876]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.24-19.41.00:592][879]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.24-19.41.00:679][882]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.24-19.41.00:780][886]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.10.24-19.41.02:078][932]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.24-19.41.02:078][932]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.10.24-19.41.02:078][932]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.10.24-19.41.05:889][ 53]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.10.24-19.41.05:918][ 54]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.10.24-19.41.05:952][ 55]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.10.24-19.41.05:980][ 56]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.10.24-19.41.06:009][ 57]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.10.24-19.41.06:039][ 58]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.10.24-19.41.06:084][ 59]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.10.24-19.41.06:084][ 59]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.10.24-19.41.06:116][ 60]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.10.24-19.41.06:145][ 61]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.10.24-19.41.06:182][ 62]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.10.24-19.41.06:209][ 63]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.10.24-19.41.06:238][ 64]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.10.24-19.41.06:269][ 65]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.10.24-19.41.06:299][ 66]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.10.24-19.41.06:327][ 67]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.10.24-19.41.06:370][ 68]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.10.24-19.41.06:401][ 69]LogBlueprintUserMessages: [BPC_Movement] 100.0
+[2023.10.24-19.41.14:586][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.24-19.41.14:587][334]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.10.24-19.41.14:587][334]LogSlate: Window 'UltSurvivalHorror Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.24-19.41.14:597][334]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.10.24-19.41.14:597][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-19.41.14:597][334]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2023.10.24-19.41.14:600][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.24-19.41.14:612][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.24-19.41.14:669][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.24-19.41.14:671][334]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 136
+[2023.10.24-19.41.14:671][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=136
+[2023.10.24-19.41.14:674][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=136
+[2023.10.24-19.41.14:687][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.10.24-19.41.14:820][335]LogPlayLevel: Display: Destroying online subsystem :Context_168
+[2023.10.24-19.41.40:210][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.24-19.41.40:219][256]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.070
+[2023.10.24-19.41.40:220][256]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/Inventory/W_InventoryMenu] ([2] browsable assets)...
+[2023.10.24-19.41.40:229][256]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/Inventory/W_InventoryMenu.W_InventoryMenu]
+[2023.10.24-19.41.40:229][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventoryMenu]
+[2023.10.24-19.41.40:269][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventoryMenu_Auto0
+[2023.10.24-19.41.40:270][256]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventoryMenu_Auto04D5E2EAB4157B40B1632CA9808AE08D9.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventoryMenu_Auto0.uasset'
+[2023.10.24-19.41.40:273][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UMG/Inventory/W_InventoryDropDown] ([2] browsable assets)...
+[2023.10.24-19.41.40:273][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventoryDropDown]
+[2023.10.24-19.41.40:298][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventoryDropDown_Auto0
+[2023.10.24-19.41.40:299][256]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventoryDropDown_Auto0217F80644BD389EA4539FF99D47B080A.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventoryDropDown_Auto0.uasset'
+[2023.10.24-19.41.40:312][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Master] ([2] browsable assets)...
+[2023.10.24-19.41.40:312][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Master]
+[2023.10.24-19.41.40:365][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Master_Auto0
+[2023.10.24-19.41.40:366][256]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BP_PickupActor_Master_Auto0F2D23E7E4FD8C4DDFC392BB61203634D.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/Actors/Inventory/PickupActors/BP_PickupActor_Master_Auto0.uasset'
+[2023.10.24-19.41.40:369][256]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2023.10.24-19.41.40:369][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Inventory]
+[2023.10.24-19.41.40:538][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto0
+[2023.10.24-19.41.40:539][256]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BPC_Inventory_Auto0A35937874BE7670776D32A982F9F1FBA.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto0.uasset'
+[2023.10.24-19.41.40:547][256]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/Inventory/W_InventorySlot] ([2] browsable assets)...
+[2023.10.24-19.41.40:551][256]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/Inventory/W_InventorySlot.W_InventorySlot]
+[2023.10.24-19.41.40:551][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventorySlot]
+[2023.10.24-19.41.40:590][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto0
+[2023.10.24-19.41.40:592][256]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventorySlot_Auto03783450246F7CC8500E3A997511D578B.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto0.uasset'
+[2023.10.24-19.41.40:594][256]LogFileHelpers: Auto-saving content packages took 0.374
