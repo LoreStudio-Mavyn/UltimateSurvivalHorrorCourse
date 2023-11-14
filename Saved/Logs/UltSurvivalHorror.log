@@ -9106,3 +9106,43 @@ Make sure 'BP_DoorwayJumpscare_C' has been compiled for  Get CharacterMovement
 [2023.11.14-15.53.27:157][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
 [2023.11.14-15.53.27:169][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
 [2023.11.14-15.53.27:265][760]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2023.11.14-15.55.25:257][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.11.14-15.55.25:263][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Maps/Level1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.14-15.55.25:281][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_Auto4
+[2023.11.14-15.55.25:281][618]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/Level1_Auto4EF88AE2647D6C9484A8F4BB3A0F41050.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Maps/Level1_Auto4.umap'
+[2023.11.14-15.55.25:283][618]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Maps/Level1_Auto4.umap is in the /Temp path, will not scan.
+[2023.11.14-15.55.25:287][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/A/V5/CFYUS5Y97ETTLPDG6ALD90_Auto4
+[2023.11.14-15.55.25:287][618]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/CFYUS5Y97ETTLPDG6ALD90_Auto48E18F311444986D509F340908BC1F774.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/A/V5/CFYUS5Y97ETTLPDG6ALD90_Auto4.uasset'
+[2023.11.14-15.55.25:291][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/C/PH/L8CGCWXW4WTNXX83642V8N_Auto4
+[2023.11.14-15.55.25:292][618]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L8CGCWXW4WTNXX83642V8N_Auto4CACA6EB14FB5CDF4C86201A7264BAF1C.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/C/PH/L8CGCWXW4WTNXX83642V8N_Auto4.uasset'
+[2023.11.14-15.55.25:296][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Level1/E/VN/QV9MRNLA1LGTIK4F2CWCA4_Auto4
+[2023.11.14-15.55.25:297][618]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/QV9MRNLA1LGTIK4F2CWCA4_Auto4B3535F9D47DC37B8583628A73417D6CE.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/__ExternalActors__/Maps/Level1/E/VN/QV9MRNLA1LGTIK4F2CWCA4_Auto4.uasset'
+[2023.11.14-15.55.25:299][618]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.066
+[2023.11.14-15.55.25:299][618]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.066
+[2023.11.14-15.55.25:300][618]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UMG/Inventory/W_Examination] ([2] browsable assets)...
+[2023.11.14-15.55.25:300][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_Examination]
+[2023.11.14-15.55.25:300][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory/W_Examination" FILE="../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_Examination_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.11.14-15.55.25:335][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_Examination_Auto4
+[2023.11.14-15.55.25:336][618]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_Examination_Auto47E215A4241BAA0FDB6E44C8C53B0E3CA.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_Examination_Auto4.uasset'
+[2023.11.14-15.55.25:338][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameBP/Level1/L1_Character] ([2] browsable assets)...
+[2023.11.14-15.55.25:338][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameBP/Level1/L1_Character]
+[2023.11.14-15.55.25:338][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBP/Level1/L1_Character" FILE="../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/GameBP/Level1/L1_Character_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.11.14-15.55.25:414][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameBP/Level1/L1_Character_Auto4
+[2023.11.14-15.55.25:415][618]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/L1_Character_Auto4E36A7C43491FAD7E1398FDB086CE77B0.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/GameBP/Level1/L1_Character_Auto4.uasset'
+[2023.11.14-15.55.25:418][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2023.11.14-15.55.25:418][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintComponents/BPC_Inventory]
+[2023.11.14-15.55.25:543][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto4
+[2023.11.14-15.55.25:544][618]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BPC_Inventory_Auto4983880CE44DDDD1D78E737ADA30C039C.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Blueprints/BlueprintComponents/BPC_Inventory_Auto4.uasset'
+[2023.11.14-15.55.25:546][618]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UMG/Inventory/W_InventoryDropDown] ([2] browsable assets)...
+[2023.11.14-15.55.25:546][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventoryDropDown]
+[2023.11.14-15.55.25:575][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventoryDropDown_Auto4
+[2023.11.14-15.55.25:576][618]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventoryDropDown_Auto494B7257B434C27BC3C3A58A6CC71EF6E.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventoryDropDown_Auto4.uasset'
+[2023.11.14-15.55.25:578][618]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UMG/Inventory/W_InventorySlot] ([2] browsable assets)...
+[2023.11.14-15.55.25:578][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_InventorySlot]
+[2023.11.14-15.55.25:616][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto4
+[2023.11.14-15.55.25:617][618]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/W_InventorySlot_Auto4C266A3DF409A41494AE746B4B6B064D1.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto4.uasset'
+[2023.11.14-15.55.25:619][618]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jumpscares/BP_DoorwayJumpscare] ([2] browsable assets)...
+[2023.11.14-15.55.25:619][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jumpscares/BP_DoorwayJumpscare]
+[2023.11.14-15.55.25:632][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Jumpscares/BP_DoorwayJumpscare_Auto4
+[2023.11.14-15.55.25:632][618]LogSavePackage: Moving '../../../../../Courses/UltSurvivalHorror/Saved/BP_DoorwayJumpscare_Auto4AB8E9206485D5F19C103B2BD450F4158.tmp' to '../../../../../Courses/UltSurvivalHorror/Saved/Autosaves/Game/Jumpscares/BP_DoorwayJumpscare_Auto4.uasset'
+[2023.11.14-15.55.25:634][618]LogFileHelpers: Auto-saving content packages took 0.335
