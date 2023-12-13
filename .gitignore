@@ -50,6 +50,8 @@ Content/*
 !Content/Materials
 !Content/Textures
 !Content/Fonts
+!Content/UMG
+!Content/Assets
 
 /.idea/
 .vscode
